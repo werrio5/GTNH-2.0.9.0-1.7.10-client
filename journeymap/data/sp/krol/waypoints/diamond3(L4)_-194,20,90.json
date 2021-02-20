@@ -1,0 +1,17 @@
+{
+  "id": "diamond3(L4)_-194,20,90",
+  "name": "diamond3(L4)",
+  "icon": "waypoint-normal.png",
+  "x": -194,
+  "y": 20,
+  "z": 90,
+  "r": 28,
+  "g": 150,
+  "b": 125,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

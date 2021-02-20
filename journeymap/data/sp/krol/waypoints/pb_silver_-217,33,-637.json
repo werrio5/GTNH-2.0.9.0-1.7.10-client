@@ -1,0 +1,17 @@
+{
+  "id": "pb/silver_-217,33,-637",
+  "name": "pb/silver",
+  "icon": "waypoint-normal.png",
+  "x": -217,
+  "y": 33,
+  "z": -637,
+  "r": 143,
+  "g": 94,
+  "b": 63,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cassiterite_-250,60,-8",
+  "name": "cassiterite",
+  "icon": "waypoint-normal.png",
+  "x": -250,
+  "y": 60,
+  "z": -8,
+  "r": 208,
+  "g": 130,
+  "b": 249,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "aqua/fire_-356,31,-397",
+  "name": "aqua/fire",
+  "icon": "waypoint-normal.png",
+  "x": -356,
+  "y": 31,
+  "z": -397,
+  "r": 195,
+  "g": 70,
+  "b": 174,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

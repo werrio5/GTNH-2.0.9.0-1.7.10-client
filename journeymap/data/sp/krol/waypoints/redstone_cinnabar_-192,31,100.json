@@ -1,0 +1,17 @@
+{
+  "id": "redstone/cinnabar_-192,31,100",
+  "name": "redstone/cinnabar",
+  "icon": "waypoint-normal.png",
+  "x": -192,
+  "y": 31,
+  "z": 100,
+  "r": 152,
+  "g": 0,
+  "b": 28,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

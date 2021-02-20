@@ -1,0 +1,17 @@
+{
+  "id": "cassiterite+redstone_16,69,-290",
+  "name": "cassiterite+redstone",
+  "icon": "waypoint-normal.png",
+  "x": 16,
+  "y": 69,
+  "z": -290,
+  "r": 248,
+  "g": 255,
+  "b": 250,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

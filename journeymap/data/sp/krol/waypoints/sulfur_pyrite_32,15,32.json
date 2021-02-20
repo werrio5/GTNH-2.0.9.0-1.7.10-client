@@ -1,0 +1,17 @@
+{
+  "id": "sulfur/pyrite_32,15,32",
+  "name": "sulfur/pyrite",
+  "icon": "waypoint-normal.png",
+  "x": 32,
+  "y": 15,
+  "z": 32,
+  "r": 157,
+  "g": 14,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

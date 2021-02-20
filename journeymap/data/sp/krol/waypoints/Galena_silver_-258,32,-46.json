@@ -1,0 +1,17 @@
+{
+  "id": "Galena/silver_-258,32,-46",
+  "name": "Galena/silver",
+  "icon": "waypoint-normal.png",
+  "x": -258,
+  "y": 32,
+  "z": -46,
+  "r": 79,
+  "g": 182,
+  "b": 176,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

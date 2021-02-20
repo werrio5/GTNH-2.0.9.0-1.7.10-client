@@ -1,0 +1,17 @@
+{
+  "id": "ordo/perd_-146,29,33",
+  "name": "ordo/perd",
+  "icon": "waypoint-normal.png",
+  "x": -146,
+  "y": 29,
+  "z": 33,
+  "r": 18,
+  "g": 43,
+  "b": 155,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

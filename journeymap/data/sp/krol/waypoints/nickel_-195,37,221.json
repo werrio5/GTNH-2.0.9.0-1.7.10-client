@@ -1,0 +1,17 @@
+{
+  "id": "nickel_-195,37,221",
+  "name": "nickel",
+  "icon": "waypoint-normal.png",
+  "x": -195,
+  "y": 37,
+  "z": 221,
+  "r": 64,
+  "g": 118,
+  "b": 158,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

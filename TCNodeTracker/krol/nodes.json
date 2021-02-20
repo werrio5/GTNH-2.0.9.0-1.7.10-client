@@ -1,0 +1,143 @@
+[
+  {
+    "aspect": {
+      "victus": 5,
+      "ignis": 6
+    },
+    "type": "PURE",
+    "mod": "BRIGHT",
+    "dim": 0,
+    "x": -237,
+    "y": 70,
+    "z": -69,
+    "date": "Feb 3, 2021 6:04:54 PM"
+  },
+  {
+    "aspect": {
+      "ignis": 28,
+      "terra": 22
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -222,
+    "y": 71,
+    "z": -62,
+    "date": "Feb 3, 2021 6:19:51 PM"
+  },
+  {
+    "aspect": {
+      "aqua": 9,
+      "terra": 16,
+      "ordo": 17,
+      "perditio": 9,
+      "aer": 17
+    },
+    "type": "PURE",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -181,
+    "y": 91,
+    "z": -33,
+    "date": "Feb 3, 2021 6:21:13 PM"
+  },
+  {
+    "aspect": {
+      "terra": 20,
+      "exanimis": 10,
+      "perditio": 2,
+      "tenebrae": 24
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -384,
+    "y": 87,
+    "z": 151,
+    "date": "Feb 3, 2021 6:25:22 PM"
+  },
+  {
+    "aspect": {
+      "ignis": 22,
+      "aer": 22
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -383,
+    "y": 77,
+    "z": 98,
+    "date": "Feb 3, 2021 6:25:59 PM"
+  },
+  {
+    "aspect": {
+      "ignis": 41,
+      "terra": 31
+    },
+    "type": "NORMAL",
+    "mod": "PALE",
+    "dim": 0,
+    "x": -106,
+    "y": 96,
+    "z": -189,
+    "date": "Feb 3, 2021 6:31:40 PM"
+  },
+  {
+    "aspect": {
+      "aqua": 22,
+      "terra": 13,
+      "exanimis": 17,
+      "perditio": 18,
+      "tenebrae": 8
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -72,
+    "y": 66,
+    "z": -391,
+    "date": "Feb 3, 2021 6:32:44 PM"
+  },
+  {
+    "aspect": {
+      "terra": 20,
+      "exanimis": 19,
+      "tenebrae": 9,
+      "aer": 21
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 91,
+    "y": 108,
+    "z": -120,
+    "date": "Feb 3, 2021 6:35:30 PM"
+  },
+  {
+    "aspect": {
+      "ordo": 70
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": -149,
+    "y": 40,
+    "z": 0,
+    "date": "Feb 3, 2021 6:39:32 PM"
+  },
+  {
+    "aspect": {
+      "aqua": 19,
+      "ordo": 18,
+      "perditio": 19,
+      "aer": 35
+    },
+    "type": "PURE",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": -181,
+    "y": 33,
+    "z": -33,
+    "date": "Feb 3, 2021 6:58:24 PM"
+  }
+]

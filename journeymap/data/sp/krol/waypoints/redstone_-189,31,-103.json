@@ -1,0 +1,17 @@
+{
+  "id": "redstone_-189,31,-103",
+  "name": "redstone",
+  "icon": "waypoint-normal.png",
+  "x": -189,
+  "y": 31,
+  "z": -103,
+  "r": 157,
+  "g": 14,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

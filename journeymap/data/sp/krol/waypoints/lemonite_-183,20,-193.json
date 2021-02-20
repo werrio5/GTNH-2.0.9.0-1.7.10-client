@@ -1,0 +1,17 @@
+{
+  "id": "lemonite_-183,20,-193",
+  "name": "lemonite",
+  "icon": "waypoint-normal.png",
+  "x": -183,
+  "y": 20,
+  "z": -193,
+  "r": 125,
+  "g": 152,
+  "b": 23,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

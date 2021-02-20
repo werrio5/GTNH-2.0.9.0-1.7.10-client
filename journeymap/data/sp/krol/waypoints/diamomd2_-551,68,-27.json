@@ -1,0 +1,17 @@
+{
+  "id": "diamomd2_-551,68,-27",
+  "name": "diamomd2",
+  "icon": "waypoint-normal.png",
+  "x": -551,
+  "y": 68,
+  "z": -27,
+  "r": 227,
+  "g": 6,
+  "b": 197,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bricks/dungeon_-744,70,-565",
+  "name": "bricks/dungeon",
+  "icon": "waypoint-normal.png",
+  "x": -744,
+  "y": 70,
+  "z": -565,
+  "r": 194,
+  "g": 85,
+  "b": 178,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

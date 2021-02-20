@@ -1,0 +1,17 @@
+{
+  "id": "salt/vanadium_-583,66,27",
+  "name": "salt/vanadium",
+  "icon": "waypoint-normal.png",
+  "x": -583,
+  "y": 66,
+  "z": 27,
+  "r": 126,
+  "g": 0,
+  "b": 85,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

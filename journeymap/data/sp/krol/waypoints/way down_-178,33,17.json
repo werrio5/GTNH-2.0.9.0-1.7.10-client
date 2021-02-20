@@ -1,0 +1,17 @@
+{
+  "id": "way down_-178,33,17",
+  "name": "way down",
+  "icon": "waypoint-normal.png",
+  "x": -178,
+  "y": 33,
+  "z": 17,
+  "r": 153,
+  "g": 47,
+  "b": 187,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

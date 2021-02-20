@@ -1,0 +1,17 @@
+{
+  "id": "full node_-179,91,-34",
+  "name": "full node",
+  "icon": "waypoint-normal.png",
+  "x": -179,
+  "y": 91,
+  "z": -34,
+  "r": 157,
+  "g": 145,
+  "b": 198,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

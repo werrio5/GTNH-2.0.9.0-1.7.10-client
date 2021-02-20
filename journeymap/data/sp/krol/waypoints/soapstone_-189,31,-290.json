@@ -1,0 +1,17 @@
+{
+  "id": "soapstone_-189,31,-290",
+  "name": "soapstone",
+  "icon": "waypoint-normal.png",
+  "x": -189,
+  "y": 31,
+  "z": -290,
+  "r": 104,
+  "g": 228,
+  "b": 12,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

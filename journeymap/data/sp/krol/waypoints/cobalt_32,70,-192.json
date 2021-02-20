@@ -1,0 +1,17 @@
+{
+  "id": "cobalt_32,70,-192",
+  "name": "cobalt",
+  "icon": "waypoint-normal.png",
+  "x": 32,
+  "y": 70,
+  "z": -192,
+  "r": 0,
+  "g": 34,
+  "b": 241,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

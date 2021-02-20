@@ -1,0 +1,17 @@
+{
+  "id": "air/fire node_-384,78,99",
+  "name": "air/fire node",
+  "icon": "waypoint-normal.png",
+  "x": -384,
+  "y": 78,
+  "z": 99,
+  "r": 58,
+  "g": 119,
+  "b": 91,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

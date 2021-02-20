@@ -1,0 +1,17 @@
+{
+  "id": "fire/earth node_-220,72,-64",
+  "name": "fire/earth node",
+  "icon": "waypoint-normal.png",
+  "x": -220,
+  "y": 72,
+  "z": -64,
+  "r": 199,
+  "g": 217,
+  "b": 71,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

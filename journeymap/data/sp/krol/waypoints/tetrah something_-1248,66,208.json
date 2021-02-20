@@ -1,0 +1,17 @@
+{
+  "id": "tetrah something_-1248,66,208",
+  "name": "tetrah something",
+  "icon": "waypoint-normal.png",
+  "x": -1248,
+  "y": 66,
+  "z": 208,
+  "r": 127,
+  "g": 1,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

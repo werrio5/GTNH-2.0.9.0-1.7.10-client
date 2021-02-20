@@ -1,0 +1,17 @@
+{
+  "id": "gypsum_36,54,-375",
+  "name": "gypsum",
+  "icon": "waypoint-normal.png",
+  "x": 36,
+  "y": 54,
+  "z": -375,
+  "r": 123,
+  "g": 206,
+  "b": 173,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

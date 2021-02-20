@@ -1,0 +1,17 @@
+{
+  "id": "water node_-67,65,-390",
+  "name": "water node",
+  "icon": "waypoint-normal.png",
+  "x": -67,
+  "y": 65,
+  "z": -390,
+  "r": 162,
+  "g": 1,
+  "b": 183,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

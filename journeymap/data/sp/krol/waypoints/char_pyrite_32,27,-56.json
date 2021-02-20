@@ -1,0 +1,17 @@
+{
+  "id": "char/pyrite_32,27,-56",
+  "name": "char/pyrite",
+  "icon": "waypoint-normal.png",
+  "x": 32,
+  "y": 27,
+  "z": -56,
+  "r": 183,
+  "g": 157,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

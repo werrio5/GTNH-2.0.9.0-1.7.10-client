@@ -1,0 +1,17 @@
+{
+  "id": "soap_-398,83,118",
+  "name": "soap",
+  "icon": "waypoint-normal.png",
+  "x": -398,
+  "y": 83,
+  "z": 118,
+  "r": 177,
+  "g": 207,
+  "b": 196,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

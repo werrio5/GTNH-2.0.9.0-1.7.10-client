@@ -1,0 +1,1710 @@
+{
+  "id": "GT New Horizons 2.0.9.0-1.7.10",
+  "jar": "1.7.10",
+  "time": "2015-12-10T08:05:37+03:00",
+  "releaseTime": "2014-05-14T21:29:23+04:00",
+  "type": "release",
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass cpw.mods.fml.common.launcher.FMLTweaker",
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "minimumLauncherVersion": 14,
+  "tlauncherVersion": 0,
+  "assets": "1.7.10",
+  "source": "local_version_repo",
+  "libraries": [
+    {
+      "name": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10",
+      "url": "http://files.minecraftforge.net/maven/",
+      "exact_url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+    },
+    {
+      "name": "net.minecraft:launchwrapper:1.12"
+    },
+    {
+      "name": "org.ow2.asm:asm-all:5.0.3"
+    },
+    {
+      "name": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+      "url": "http://files.minecraftforge.net/maven/",
+      "packed": "forge"
+    },
+    {
+      "name": "com.typesafe:config:1.2.1",
+      "url": "http://files.minecraftforge.net/maven/",
+      "packed": "forge"
+    },
+    {
+      "name": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "org.scala-lang:scala-compiler:2.11.1",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "org.scala-lang:scala-library:2.11.1",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "org.scala-lang:scala-reflect:2.11.1",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "org.scala-lang:scala-swing_2.11:1.0.1",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "org.scala-lang:scala-xml_2.11:1.0.2",
+      "url": "http://files.minecraftforge.net/maven/"
+    },
+    {
+      "name": "lzma:lzma:0.0.1"
+    },
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:4.5"
+    },
+    {
+      "name": "com.google.guava:guava:17.0"
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.3.2"
+    },
+    {
+      "name": "com.mojang:netty:1.6",
+      "artifact": {
+        "sha1": "4b75825a06139752bd800d9e29c5fd55b8b1b1e4",
+        "size": 7877,
+        "path": "com/mojang/netty/1.6/netty-1.6.jar",
+        "url": "https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6.jar"
+      }
+    },
+    {
+      "name": "com.mojang:realms:1.3.5",
+      "artifact": {
+        "sha1": "0807ae355ee63583becd7ea60e76aab1532bb42e",
+        "size": 353818,
+        "path": "com/mojang/realms/1.3.5/realms-1.3.5.jar",
+        "url": "https://libraries.minecraft.net/com/mojang/realms/1.3.5/realms-1.3.5.jar"
+      }
+    },
+    {
+      "name": "org.apache.commons:commons-compress:1.8.1",
+      "artifact": {
+        "sha1": "a698750c16740fd5b3871425f4cb3bbaa87f529d",
+        "size": 365552,
+        "path": "org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+        "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar"
+      }
+    },
+    {
+      "name": "org.apache.httpcomponents:httpclient:4.3.3",
+      "artifact": {
+        "sha1": "18f4247ff4572a074444572cee34647c43e7c9c7",
+        "size": 589512,
+        "path": "org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+        "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar"
+      }
+    },
+    {
+      "name": "commons-logging:commons-logging:1.1.3",
+      "artifact": {
+        "sha1": "f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f",
+        "size": 62050,
+        "path": "commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+        "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar"
+      }
+    },
+    {
+      "name": "org.apache.httpcomponents:httpcore:4.3.2",
+      "artifact": {
+        "sha1": "31fbbff1ddbf98f3aa7377c94d33b0447c646b6e",
+        "size": 282269,
+        "path": "org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+        "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar"
+      }
+    },
+    {
+      "name": "java3d:vecmath:1.3.1",
+      "artifact": {
+        "sha1": "a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d",
+        "size": 289881,
+        "path": "java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
+        "url": "https://libraries.minecraft.net/java3d/vecmath/1.3.1/vecmath-1.3.1.jar"
+      }
+    },
+    {
+      "name": "net.sf.trove4j:trove4j:3.0.3",
+      "artifact": {
+        "sha1": "42ccaf4761f0dfdfa805c9e340d99a755907e2dd",
+        "size": 2523218,
+        "path": "net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+        "url": "https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+      }
+    },
+    {
+      "name": "com.ibm.icu:icu4j-core-mojang:51.2",
+      "artifact": {
+        "sha1": "63d216a9311cca6be337c1e458e587f99d382b84",
+        "size": 1634692,
+        "path": "com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+        "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar"
+      }
+    },
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:4.5",
+      "artifact": {
+        "sha1": "6065cc95c661255349c1d0756657be17c29a4fd3",
+        "size": 61311,
+        "path": "net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+        "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar"
+      }
+    },
+    {
+      "name": "com.paulscode:codecjorbis:20101023",
+      "artifact": {
+        "sha1": "c73b5636faf089d9f00e8732a829577de25237ee",
+        "size": 103871,
+        "path": "com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+        "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar"
+      }
+    },
+    {
+      "name": "com.paulscode:codecwav:20101023",
+      "artifact": {
+        "sha1": "12f031cfe88fef5c1dd36c563c0a3a69bd7261da",
+        "size": 5618,
+        "path": "com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+        "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar"
+      }
+    },
+    {
+      "name": "com.paulscode:libraryjavasound:20101123",
+      "artifact": {
+        "sha1": "5c5e304366f75f9eaa2e8cca546a1fb6109348b3",
+        "size": 21679,
+        "path": "com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+        "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar"
+      }
+    },
+    {
+      "name": "com.paulscode:librarylwjglopenal:20100824",
+      "artifact": {
+        "sha1": "73e80d0794c39665aec3f62eee88ca91676674ef",
+        "size": 18981,
+        "path": "com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+        "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar"
+      }
+    },
+    {
+      "name": "com.paulscode:soundsystem:20120107",
+      "artifact": {
+        "sha1": "419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6",
+        "size": 65020,
+        "path": "com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+        "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar"
+      }
+    },
+    {
+      "name": "io.netty:netty-all:4.0.10.Final",
+      "artifact": {
+        "sha1": "9e50bd52ffe257a0e2cd8d971688d6ce7d174325",
+        "size": 1452995,
+        "path": "io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar",
+        "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar"
+      }
+    },
+    {
+      "name": "com.google.guava:guava:15.0",
+      "artifact": {
+        "sha1": "ed727a8d9f247e2050281cb083f1c77b09dcb5cd",
+        "size": 2172168,
+        "path": "com/google/guava/guava/15.0/guava-15.0.jar",
+        "url": "https://libraries.minecraft.net/com/google/guava/guava/15.0/guava-15.0.jar"
+      }
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.1",
+      "artifact": {
+        "sha1": "905075e6c80f206bbe6cf1e809d2caa69f420c76",
+        "size": 315805,
+        "path": "org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+        "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar"
+      }
+    },
+    {
+      "name": "commons-io:commons-io:2.4",
+      "artifact": {
+        "sha1": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+        "size": 185140,
+        "path": "commons-io/commons-io/2.4/commons-io-2.4.jar",
+        "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar"
+      }
+    },
+    {
+      "name": "commons-codec:commons-codec:1.9",
+      "artifact": {
+        "sha1": "9ce04e34240f674bc72680f8b843b1457383161a",
+        "size": 263965,
+        "path": "commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
+        "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.9/commons-codec-1.9.jar"
+      }
+    },
+    {
+      "name": "net.java.jinput:jinput:2.0.5",
+      "artifact": {
+        "sha1": "39c7796b469a600f72380316f6b1f11db6c2c7c4",
+        "size": 208338,
+        "path": "net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+        "url": "https://libraries.minecraft.net/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar"
+      }
+    },
+    {
+      "name": "net.java.jutils:jutils:1.0.0",
+      "artifact": {
+        "sha1": "e12fe1fda814bd348c1579329c86943d2cd3c6a6",
+        "size": 7508,
+        "path": "net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+        "url": "https://libraries.minecraft.net/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar"
+      }
+    },
+    {
+      "name": "com.google.code.gson:gson:2.2.4",
+      "artifact": {
+        "sha1": "a60a5e993c98c864010053cb901b7eab25306568",
+        "size": 190432,
+        "path": "com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
+        "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+      }
+    },
+    {
+      "name": "com.mojang:authlib:1.5.21",
+      "artifact": {
+        "sha1": "aefba0d5b53fbcb70860bc8046ab95d5854c07a5",
+        "size": 64412,
+        "path": "com/mojang/authlib/1.5.21/authlib-1.5.21.jar",
+        "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21.jar"
+      }
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-api:2.0-beta9",
+      "artifact": {
+        "sha1": "1dd66e68cccd907880229f9e2de1314bd13ff785",
+        "size": 108161,
+        "path": "org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
+        "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar"
+      }
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-core:2.0-beta9",
+      "artifact": {
+        "sha1": "678861ba1b2e1fccb594bb0ca03114bb05da9695",
+        "size": 681134,
+        "path": "org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
+        "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar"
+      }
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl:2.9.1",
+      "artifact": {
+        "sha1": "f58c5aabcef0e41718a564be9f8e412fff8db847",
+        "size": 1014790,
+        "path": "org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar",
+        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar"
+      }
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl_util:2.9.1",
+      "artifact": {
+        "sha1": "290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e",
+        "size": 173909,
+        "path": "org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
+        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar"
+      }
+    },
+    {
+      "name": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
+      "natives": {
+        "linux": "natives-linux",
+        "osx": "natives-osx",
+        "windows": "natives-windows"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
+      },
+      "classifies": {
+        "linux": {
+          "sha1": "aa9aae879af8eb378e22cfc64db56ec2ca9a44d1",
+          "size": 571424,
+          "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-linux.jar",
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-linux.jar"
+        },
+        "osx": {
+          "sha1": "2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac",
+          "size": 527196,
+          "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar",
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar"
+        },
+        "windows": {
+          "sha1": "4c517eca808522457dd95ee8fc1fbcdbb602efbe",
+          "size": 611334,
+          "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar",
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar"
+        }
+      }
+    },
+    {
+      "name": "net.java.jinput:jinput-platform:2.0.5",
+      "natives": {
+        "linux": "natives-linux",
+        "osx": "natives-osx",
+        "windows": "natives-windows"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
+      },
+      "classifies": {
+        "linux": {
+          "sha1": "7ff832a6eb9ab6a767f1ade2b548092d0fa64795",
+          "size": 10362,
+          "path": "net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
+          "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar"
+        },
+        "osx": {
+          "sha1": "53f9c919f34d2ca9de8c51fc4e1e8282029a9232",
+          "size": 12186,
+          "path": "net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar",
+          "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar"
+        },
+        "windows": {
+          "sha1": "385ee093e01f587f30ee1c8a2ee7d408fd732e16",
+          "size": 155179,
+          "path": "net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
+          "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar"
+        }
+      }
+    },
+    {
+      "name": "tv.twitch:twitch:5.16",
+      "artifact": {
+        "sha1": "1f55f009c61637c10c0acfb8b5ffc600f30044b4",
+        "size": 52315,
+        "path": "tv/twitch/twitch/5.16/twitch-5.16.jar",
+        "url": "https://libraries.minecraft.net/tv/twitch/twitch/5.16/twitch-5.16.jar"
+      }
+    },
+    {
+      "name": "tv.twitch:twitch-platform:5.16",
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "linux"
+          }
+        }
+      ],
+      "natives": {
+        "linux": "natives-linux",
+        "osx": "natives-osx",
+        "windows": "natives-windows-${arch}"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
+      },
+      "classifies": {
+        "osx": {
+          "sha1": "62503ee712766cf77f97252e5902786fd834b8c5",
+          "size": 418331,
+          "path": "tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-osx.jar",
+          "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-osx.jar"
+        },
+        "windows-32": {
+          "sha1": "7c6affe439099806a4f552da14c42f9d643d8b23",
+          "size": 386792,
+          "path": "tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-32.jar",
+          "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-32.jar"
+        },
+        "windows-64": {
+          "sha1": "39d0c3d363735b4785598e0e7fbf8297c706a9f9",
+          "size": 463390,
+          "path": "tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-64.jar",
+          "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.16/twitch-platform-5.16-natives-windows-64.jar"
+        }
+      }
+    },
+    {
+      "name": "tv.twitch:twitch-external-platform:4.5",
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "windows"
+          }
+        }
+      ],
+      "natives": {
+        "windows": "natives-windows-${arch}"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
+      },
+      "classifies": {
+        "windows-32": {
+          "sha1": "18215140f010c05b9f86ef6f0f8871954d2ccebf",
+          "size": 5654047,
+          "path": "tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar",
+          "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar"
+        },
+        "windows-64": {
+          "sha1": "c3cde57891b935d41b6680a9c5e1502eeab76d86",
+          "size": 7457619,
+          "path": "tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar",
+          "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar"
+        }
+      }
+    }
+  ],
+  "downloads": {
+    "client": {
+      "sha1": "e80d9b3bf5085002218d4be59e668bac718abbc6",
+      "size": 5256245,
+      "url": "https://launcher.mojang.com/v1/objects/e80d9b3bf5085002218d4be59e668bac718abbc6/client.jar"
+    },
+    "server": {
+      "sha1": "952438ac4e01b4d115c5fc38f891710c4941df29",
+      "size": 9605030,
+      "url": "https://launcher.mojang.com/v1/objects/952438ac4e01b4d115c5fc38f891710c4941df29/server.jar"
+    },
+    "windows_server": {
+      "sha1": "a79b91ef69b9b4af63d1c7007f60259106869b21",
+      "size": 9999270,
+      "url": "https://launcher.mojang.com/v1/objects/a79b91ef69b9b4af63d1c7007f60259106869b21/windows_server.exe"
+    }
+  },
+  "assetIndex": {
+    "id": "1.7.10",
+    "totalSize": 112396854,
+    "size": 72996,
+    "url": "https://launchermeta.mojang.com/v1/packages/1863782e33ce7b584fc45b037325a1964e095d3e/1.7.10.json"
+  },
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": 252507,
+    "name": "GT New Horizons",
+    "categories": [],
+    "tags": [],
+    "pictures": [],
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 231061,
+          "name": "Tainted Magic",
+          "version": {
+            "id": 2345241,
+            "metadata": {
+              "sha1": "79052ec78a88e3246e6fa036bd4a636c8c9a486f",
+              "size": 3293015,
+              "path": "mods/Tainted-Magic-r7.6.jar",
+              "url": "/mods/231061/2345241/Tainted-Magic-r7.6.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224472,
+          "name": "AppleCore",
+          "version": {
+            "id": 2391966,
+            "metadata": {
+              "sha1": "540893713f63c2b13c0412d6d642cd52a9bd9c4d",
+              "size": 111220,
+              "path": "mods/AppleCore-mc1.7.10-1.3.9.jar",
+              "url": "/mods/224472/2391966/AppleCore-mc1.7.10-1.3.9.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 235716,
+          "name": "BetterAchievements",
+          "version": {
+            "id": 2260793,
+            "metadata": {
+              "sha1": "3b2f5af23eb6c9f57d90426bfefad1fa633d0929",
+              "size": 46776,
+              "path": "mods/BetterAchievements-1.7.10-0.1.0.jar",
+              "url": "/mods/235716/2260793/BetterAchievements-1.7.10-0.1.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 272649,
+          "name": "Bag'o'Sleep",
+          "version": {
+            "id": 2455469,
+            "metadata": {
+              "sha1": "1978dc14361e31e07ec3a18899cdd7df45f3464a",
+              "size": 31501,
+              "path": "mods/SleepingBag-1.7.10-0.1.1.jar",
+              "url": "/mods/272649/2455469/SleepingBag-1.7.10-0.1.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 60089,
+          "name": "Mouse Tweaks",
+          "version": {
+            "id": 2209265,
+            "metadata": {
+              "sha1": "1fef53ebcd48f003fa0799de51e86ad113e3af7c",
+              "size": 51898,
+              "path": "mods/MouseTweaks-2.4.4-mc1.7.10.jar",
+              "url": "/mods/60089/2209265/MouseTweaks-2.4.4-mc1.7.10.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 76845,
+          "name": "TiC Tooltips",
+          "version": {
+            "id": 2246472,
+            "metadata": {
+              "sha1": "5a3b97262bd10cf639974251bfda1a35f4b61127",
+              "size": 52002,
+              "path": "mods/TiCTooltips-mc1.7.10-1.2.5.jar",
+              "url": "/mods/76845/2246472/TiCTooltips-mc1.7.10-1.2.5.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 226406,
+          "name": "Custom Main Menu",
+          "version": {
+            "id": 2264779,
+            "metadata": {
+              "sha1": "f78f51612da8f3738ef8f08b00b1528f9dda2540",
+              "size": 115292,
+              "path": "mods/CustomMainMenu-MC1.7.10-1.9.2.jar",
+              "url": "/mods/226406/2264779/CustomMainMenu-MC1.7.10-1.9.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 231687,
+          "name": "OpenSecurity",
+          "version": {
+            "id": 2655945,
+            "metadata": {
+              "sha1": "194ae9f72275fbc56d73358b89b537f98bd69901",
+              "size": 562192,
+              "path": "mods/OpenSecurity-1.7.10-1.0-117.jar",
+              "url": "/mods/231687/2655945/OpenSecurity-1.7.10-1.0-117.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 231868,
+          "name": "EnderCore",
+          "version": {
+            "id": 2331048,
+            "metadata": {
+              "sha1": "ee6e69efdf487e02aeca400e3aedd132159c623b",
+              "size": 467824,
+              "path": "mods/EnderCore-1.7.10-0.2.0.39_beta.jar",
+              "url": "/mods/231868/2331048/EnderCore-1.7.10-0.2.0.39_beta.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225957,
+          "name": "Hardcore Darkness",
+          "version": {
+            "id": 2262352,
+            "metadata": {
+              "sha1": "9aaabc413f0f0b9915d6e38a7579b87eab227db3",
+              "size": 20632,
+              "path": "mods/HardcoreDarkness-MC1.7.10-1.7.jar",
+              "url": "/mods/225957/2262352/HardcoreDarkness-MC1.7.10-1.7.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 229318,
+          "name": "Translocators",
+          "version": {
+            "id": 2300180,
+            "metadata": {
+              "sha1": "df54034de05c70cc8d3b819395bae401cb82d9a6",
+              "size": 161165,
+              "path": "mods/Translocator-1.7.10-1.1.2.16-universal.jar",
+              "url": "/mods/229318/2300180/Translocator-1.7.10-1.1.2.16-universal.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242782,
+          "name": "AFSU Mod",
+          "version": {
+            "id": 2286587,
+            "metadata": {
+              "sha1": "fd388d0f596f0b85dd6b4361df7b84f2a5be3954",
+              "size": 60904,
+              "path": "mods/AFSU-1.2.3a-Freeza.jar",
+              "url": "/mods/242782/2286587/AFSU-1.2.3a-Freeza.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 70496,
+          "name": "BdLib",
+          "version": {
+            "id": 2269259,
+            "metadata": {
+              "sha1": "f9d965a3b66f4e2cbe392217ce9fe7ca753611cb",
+              "size": 1503184,
+              "path": "mods/bdlib-1.9.4.109-mc1.7.10.jar",
+              "url": "/mods/70496/2269259/bdlib-1.9.4.109-mc1.7.10.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 231262,
+          "name": "Pam's Harvest the Nether",
+          "version": {
+            "id": 2241397,
+            "metadata": {
+              "sha1": "d32d802bbaa55c11e1f06e0ea5f1994a136c9b5d",
+              "size": 315424,
+              "path": "mods/Pam's Harvest the Nether 1.7.10a.jar",
+              "url": "/mods/231262/2241397/Pam's%20Harvest%20the%20Nether%201.7.10a.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 314432,
+          "name": "GT New Horizons Core Mod",
+          "version": {
+            "id": 3018383,
+            "metadata": {
+              "sha1": "82f90564bdc78ef0de1f127a1a1013d20554dd08",
+              "size": 10660135,
+              "path": "mods/GTNewHorizonsCoreMod-1.7.10-1.6.46t.jar",
+              "url": "/mods/314432/3018383/GTNewHorizonsCoreMod-1.7.10-1.6.46t.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 230103,
+          "name": "DummyCore",
+          "version": {
+            "id": 2244260,
+            "metadata": {
+              "sha1": "4c13a275afbacf0684cc1507887bb2f209487daf",
+              "size": 106884,
+              "path": "mods/DummyCore1.13.jar",
+              "url": "/mods/230103/2244260/DummyCore1.13.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 228756,
+          "name": "Iron Chests",
+          "version": {
+            "id": 2230908,
+            "metadata": {
+              "sha1": "2888052ca2727a875ac13fa266e74b53e90cfab4",
+              "size": 158104,
+              "path": "mods/ironchest-1.7.10-6.0.62.742-universal.jar",
+              "url": "/mods/228756/2230908/ironchest-1.7.10-6.0.62.742-universal.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 289109,
+          "name": "SuperTiC",
+          "version": {
+            "id": 2580975,
+            "metadata": {
+              "sha1": "a5811f01126824fa8ac52bfbe808ea90028bc550",
+              "size": 18874,
+              "path": "mods/SuperTiC-1.2.1.jar",
+              "url": "/mods/289109/2580975/SuperTiC-1.2.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 294919,
+          "name": "CropLoadCore",
+          "version": {
+            "id": 2709413,
+            "metadata": {
+              "sha1": "7e6be4f002dc9ee19fedbaf2ca871b7519631ce5",
+              "size": 24053,
+              "path": "mods/CropLoadCore-0.1.4.jar",
+              "url": "/mods/294919/2709413/CropLoadCore-0.1.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 220333,
+          "name": "CoFH Lib",
+          "version": {
+            "id": 2388747,
+            "metadata": {
+              "sha1": "440e4636508cbb3636510ed6c4af59f130c37c6c",
+              "size": 305688,
+              "path": "mods/CoFHLib-[1.7.10]1.2.1-185.jar",
+              "url": "/mods/220333/2388747/CoFHLib-%5B1.7.10%5D1.2.1-185.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 252848,
+          "name": "Nature's Compass",
+          "version": {
+            "id": 2451823,
+            "metadata": {
+              "sha1": "470b45aa127e3ff619d4ae2d764613f8d7493c8a",
+              "size": 162515,
+              "path": "mods/NaturesCompass-1.7.10-1.3.1.jar",
+              "url": "/mods/252848/2451823/NaturesCompass-1.7.10-1.3.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225127,
+          "name": "OpenPrinter",
+          "version": {
+            "id": 2289193,
+            "metadata": {
+              "sha1": "fc06fdd622e30aa260d43e8cf8a2027e40c88f44",
+              "size": 234124,
+              "path": "mods/OpenPrinter-MC1.7.10-0.1.0.132.jar",
+              "url": "/mods/225127/2289193/OpenPrinter-MC1.7.10-0.1.0.132.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 236460,
+          "name": "Catwalks 2",
+          "version": {
+            "id": 2296725,
+            "metadata": {
+              "sha1": "4219276168e7841777db0361adb727f459d1ab39",
+              "size": 522519,
+              "path": "mods/catwalks-2.0.4.jar",
+              "url": "/mods/236460/2296725/catwalks-2.0.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 223792,
+          "name": "INpureCore",
+          "version": {
+            "id": 2238507,
+            "metadata": {
+              "sha1": "83e774abd91fa98e4ee809d724085116d0e155b6",
+              "size": 126448,
+              "path": "mods/INpureCore-[1.7.10]1.0.0B9-62.jar",
+              "url": "/mods/223792/2238507/INpureCore-%5B1.7.10%5D1.0.0B9-62.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 233140,
+          "name": "Buildcraft Compat",
+          "version": {
+            "id": 2503632,
+            "metadata": {
+              "sha1": "7d39af0ae4659d90e490ffe166117be72c364246",
+              "size": 259292,
+              "path": "mods/buildcraft-compat-7.1.7.jar",
+              "url": "/mods/233140/2503632/buildcraft-compat-7.1.7.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 223797,
+          "name": "HelpFixer",
+          "version": {
+            "id": 2223813,
+            "metadata": {
+              "sha1": "9e2806c77f9bdbc01510b2794e2b1af5a604f4f0",
+              "size": 6552,
+              "path": "mods/HelpFixer-1.0.7.jar",
+              "url": "/mods/223797/2223813/HelpFixer-1.0.7.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 63352,
+          "name": "NEI Addons",
+          "version": {
+            "id": 2269749,
+            "metadata": {
+              "sha1": "402ceb094400e7c81373db010f6282fe807d847a",
+              "size": 103007,
+              "path": "mods/neiaddons-1.12.15.41-mc1.7.10.jar",
+              "url": "/mods/63352/2269749/neiaddons-1.12.15.41-mc1.7.10.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 223891,
+          "name": "MalisisDoors",
+          "version": {
+            "id": 2284380,
+            "metadata": {
+              "sha1": "807b996f029ea3e09dd578c1d97f8ea95ecf49f9",
+              "size": 1645689,
+              "path": "mods/malisisdoors-1.7.10-1.13.2.jar",
+              "url": "/mods/223891/2284380/malisisdoors-1.7.10-1.13.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 228004,
+          "name": "ChiselTones",
+          "version": {
+            "id": 2254543,
+            "metadata": {
+              "sha1": "dcc05f3493c944018c05611366b2d1883f7457e7",
+              "size": 5386,
+              "path": "mods/ChiselTones-1.7.10-1.0-3.jar",
+              "url": "/mods/228004/2254543/ChiselTones-1.7.10-1.0-3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225095,
+          "name": "Thaumcraft NEI Plugin",
+          "version": {
+            "id": 2241913,
+            "metadata": {
+              "sha1": "1cad010865aa455cc5eafbffc4ef915ac4ab2ecc",
+              "size": 68794,
+              "path": "mods/thaumcraftneiplugin-1.7.10-1.7a.jar",
+              "url": "/mods/225095/2241913/thaumcraftneiplugin-1.7.10-1.7a.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 223896,
+          "name": "MalisisCore",
+          "version": {
+            "id": 2283267,
+            "metadata": {
+              "sha1": "eb0b67c3606735da9a04545091128c882deb38a9",
+              "size": 648081,
+              "path": "mods/malisiscore-1.7.10-0.14.3.jar",
+              "url": "/mods/223896/2283267/malisiscore-1.7.10-0.14.3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 253043,
+          "name": "WanionLib",
+          "version": {
+            "id": 2430662,
+            "metadata": {
+              "sha1": "a1ab13083d28403671501eaf7092021f2f477470",
+              "size": 60225,
+              "path": "mods/WanionLib-1.7.10-1.8.jar",
+              "url": "/mods/253043/2430662/WanionLib-1.7.10-1.8.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224728,
+          "name": "FloodLights",
+          "version": {
+            "id": 2320032,
+            "metadata": {
+              "sha1": "57fdfc2617d8cd51fa969af85583c356e8087ef2",
+              "size": 181264,
+              "path": "mods/FloodLights-1.7.10-1.2.8-137.jar",
+              "url": "/mods/224728/2320032/FloodLights-1.7.10-1.2.8-137.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225921,
+          "name": "Enhanced Portals 3",
+          "version": {
+            "id": 2242378,
+            "metadata": {
+              "sha1": "fd5864a46f77b51cb92428e882e68d921aa66a6d",
+              "size": 777641,
+              "path": "mods/EnhancedPortals_1.7.10-universal-3.0.12.jar",
+              "url": "/mods/225921/2242378/EnhancedPortals_1.7.10-universal-3.0.12.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238403,
+          "name": "Better Builder's Wands",
+          "version": {
+            "id": 2356820,
+            "metadata": {
+              "sha1": "08f2eed4f859f0b359db84f7e0716fd721539e1b",
+              "size": 59896,
+              "path": "mods/BetterBuildersWands-0.8.1-1.7.10r92+aec06c3.jar",
+              "url": "/mods/238403/2356820/BetterBuildersWands-0.8.1-1.7.10r92+aec06c3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 222153,
+          "name": "Automagy",
+          "version": {
+            "id": 2285272,
+            "metadata": {
+              "sha1": "125d0d24ce4cca204bb8e38f9b93ed5b4c3f8961",
+              "size": 6567165,
+              "path": "mods/Automagy-1.7.10-0.28.2.jar",
+              "url": "/mods/222153/2285272/Automagy-1.7.10-0.28.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225605,
+          "name": "LunatriusCore",
+          "version": {
+            "id": 2225146,
+            "metadata": {
+              "sha1": "e07d277bbb736654bd14047ad8ea0644228a0518",
+              "size": 57644,
+              "path": "mods/LunatriusCore-1.7.10-1.1.2.21-universal.jar",
+              "url": "/mods/225605/2225146/LunatriusCore-1.7.10-1.1.2.21-universal.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 61811,
+          "name": "Buildcraft",
+          "version": {
+            "id": 2502739,
+            "metadata": {
+              "sha1": "a7b0d9768a679f6098c002dfb212abe7450609f5",
+              "size": 2705733,
+              "path": "mods/buildcraft-7.1.23.jar",
+              "url": "/mods/61811/2502739/buildcraft-7.1.23.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 236813,
+          "name": "Nuclear Control 2",
+          "version": {
+            "id": 2464673,
+            "metadata": {
+              "sha1": "4d915560d2ed2115bb6162200d3a1726c9c6d003",
+              "size": 1054733,
+              "path": "mods/IC2NuclearControl-2.4.3a.jar",
+              "url": "/mods/236813/2464673/IC2NuclearControl-2.4.3a.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 253077,
+          "name": "Eternal Singularity",
+          "version": {
+            "id": 2348633,
+            "metadata": {
+              "sha1": "c0e361fe656d86d3f5e16838fda1265240b33c0c",
+              "size": 143214,
+              "path": "mods/EternalSingularity-1.7.10-1.0.4.jar",
+              "url": "/mods/253077/2348633/EternalSingularity-1.7.10-1.0.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224712,
+          "name": "Wawla - What Are We Looking At",
+          "version": {
+            "id": 2298772,
+            "metadata": {
+              "sha1": "85fb074320b2cacb1dec790ab894f7d57a67b2ef",
+              "size": 73037,
+              "path": "mods/Wawla-1.0.5.120.jar",
+              "url": "/mods/224712/2298772/Wawla-1.0.5.120.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 237232,
+          "name": "NotEnoughThaumcraftTabs",
+          "version": {
+            "id": 2266711,
+            "metadata": {
+              "sha1": "48f2ed3b762cf303687af1f3101979cc3dbe343f",
+              "size": 25378,
+              "path": "mods/NotEnoughThaumcraftTabs-1.0.2.jar",
+              "url": "/mods/237232/2266711/NotEnoughThaumcraftTabs-1.0.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 244516,
+          "name": "BeeBetterAtBees",
+          "version": {
+            "id": 2297397,
+            "metadata": {
+              "sha1": "eb82437e5340ab78135d6d7a4627deca9ffb4c20",
+              "size": 33579,
+              "path": "mods/BeeBetterAtBees-0.3.jar",
+              "url": "/mods/244516/2297397/BeeBetterAtBees-0.3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 236609,
+          "name": "IC2 Crop-Breeding Plugin",
+          "version": {
+            "id": 2941926,
+            "metadata": {
+              "sha1": "6ef23b2d95ae0b3a407fd3bd6a4e78fa2cd8f745",
+              "size": 56564,
+              "path": "mods/IC2+Crop+Plugin+Version+1.7.10-1.3.1.jar",
+              "url": "/mods/236609/2941926/IC2+Crop+Plugin+Version+1.7.10-1.3.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225819,
+          "name": "OpenGlasses",
+          "version": {
+            "id": 2237199,
+            "metadata": {
+              "sha1": "c66ab2a634aadcfb6851345672abaed7144a6aff",
+              "size": 121326,
+              "path": "mods/OpenGlasses-1.0.46.jar",
+              "url": "/mods/225819/2237199/OpenGlasses-1.0.46.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 226447,
+          "name": "Resource Loader",
+          "version": {
+            "id": 2292845,
+            "metadata": {
+              "sha1": "823bb2e30b44175833acfefb77a8f3bef46a3767",
+              "size": 13037,
+              "path": "mods/ResourceLoader-MC1.7.10-1.3.jar",
+              "url": "/mods/226447/2292845/ResourceLoader-MC1.7.10-1.3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242106,
+          "name": "Better Questing - Quest Book",
+          "version": {
+            "id": 2735560,
+            "metadata": {
+              "sha1": "0bb2257d7b0473137d4126765864fa3a01f172d9",
+              "size": 17255,
+              "path": "mods/questbook-2.1.1-1.7.10.jar",
+              "url": "/mods/242106/2735560/questbook-2.1.1-1.7.10.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 228414,
+          "name": "Aqua Creepers!",
+          "version": {
+            "id": 2308692,
+            "metadata": {
+              "sha1": "8ae7dec2f0dae1b306a8eb86c7286af5550d236f",
+              "size": 248267,
+              "path": "mods/AquaCreepers-1.0.1.jar",
+              "url": "/mods/228414/2308692/AquaCreepers-1.0.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 228969,
+          "name": "Player API",
+          "version": {
+            "id": 2248928,
+            "metadata": {
+              "sha1": "201c1968d8357ea6bd70e3d97e4bb9917984444e",
+              "size": 282107,
+              "path": "mods/PlayerAPI-1.7.10-1.4.jar",
+              "url": "/mods/228969/2248928/PlayerAPI-1.7.10-1.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 239197,
+          "name": "CraftTweaker",
+          "version": {
+            "id": 2838720,
+            "metadata": {
+              "sha1": "ecd735d334578d127b75fc4a680a2a8043e0f5d5",
+              "size": 1047406,
+              "path": "mods/CraftTweaker-1.7.10-3.1.0-legacy.jar",
+              "url": "/mods/239197/2838720/CraftTweaker-1.7.10-3.1.0-legacy.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 227328,
+          "name": "Thaumcraft Node Tracker",
+          "version": {
+            "id": 2247224,
+            "metadata": {
+              "sha1": "71b6f5d0c31f9f737a2ec790d6b4023b09ad18f1",
+              "size": 116878,
+              "path": "mods/tcnodetracker-1.7.10-1.1.2.jar",
+              "url": "/mods/227328/2247224/tcnodetracker-1.7.10-1.1.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242677,
+          "name": "FastCraft",
+          "version": {
+            "id": 2292386,
+            "metadata": {
+              "sha1": "a4a7fd7593aff312567ea3cfd6232783a4d875f4",
+              "size": 182657,
+              "path": "mods/fastcraft-1.23.jar",
+              "url": "/mods/242677/2292386/fastcraft-1.23.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 59816,
+          "name": "Random Things",
+          "version": {
+            "id": 2225310,
+            "metadata": {
+              "sha1": "3295c57cce3a330bc382bbc07cde0b7de4b3824b",
+              "size": 2818840,
+              "path": "mods/RandomThings-2.2.4.jar",
+              "url": "/mods/59816/2225310/RandomThings-2.2.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 226188,
+          "name": "Default World Generator",
+          "version": {
+            "id": 2225179,
+            "metadata": {
+              "sha1": "13e8a97e1216461ed6a88a4c92844431db990dfd",
+              "size": 317316,
+              "path": "mods/DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar",
+              "url": "/mods/226188/2225179/DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224237,
+          "name": "Forbidden Magic",
+          "version": {
+            "id": 2303822,
+            "metadata": {
+              "sha1": "dfe376c08c4fa43ec7491128ae26a65b9d4106c9",
+              "size": 647020,
+              "path": "mods/Forbidden Magic-1.7.10-0.575.jar",
+              "url": "/mods/224237/2303822/Forbidden%20Magic-1.7.10-0.575.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225251,
+          "name": "NEI Integration",
+          "version": {
+            "id": 2282522,
+            "metadata": {
+              "sha1": "faa216961fee0d2edb1fb5ad353dae9122db04b7",
+              "size": 197046,
+              "path": "mods/NEIIntegration-MC1.7.10-1.1.2.jar",
+              "url": "/mods/225251/2282522/NEIIntegration-MC1.7.10-1.1.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224663,
+          "name": "Open Modular Turrets",
+          "version": {
+            "id": 2426169,
+            "metadata": {
+              "sha1": "a11266c025552e5c7ea66219d46d8d84df72868b",
+              "size": 998274,
+              "path": "mods/OpenModularTurrets-1.7.10-2.2.11-238.jar",
+              "url": "/mods/224663/2426169/OpenModularTurrets-1.7.10-2.2.11-238.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 248873,
+          "name": "Avaritiaddons",
+          "version": {
+            "id": 2502196,
+            "metadata": {
+              "sha1": "4b45ecb2d7258bd0893dd11285be73139d07be14",
+              "size": 210140,
+              "path": "mods/Avaritiaddons-1.4b.jar",
+              "url": "/mods/248873/2502196/Avaritiaddons-1.4b.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 74924,
+          "name": "Mantle",
+          "version": {
+            "id": 2264244,
+            "metadata": {
+              "sha1": "56552968dc8df9a3ad0f909024d086f3748844dc",
+              "size": 202458,
+              "path": "mods/Mantle-1.7.10-0.3.2b.jar",
+              "url": "/mods/74924/2264244/Mantle-1.7.10-0.3.2b.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 220954,
+          "name": "ModTweaker",
+          "version": {
+            "id": 2313730,
+            "metadata": {
+              "sha1": "4b44a9267050b3a97bc1d9e8f3d060ff217dfd4b",
+              "size": 572698,
+              "path": "mods/ModTweaker2-0.9.6.jar",
+              "url": "/mods/220954/2313730/ModTweaker2-0.9.6.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 51195,
+          "name": "Railcraft",
+          "version": {
+            "id": 2458987,
+            "metadata": {
+              "sha1": "1c7283767376aebcac41d97739f36765c8357d97",
+              "size": 3742396,
+              "path": "mods/Railcraft_1.7.10-9.12.2.1.jar",
+              "url": "/mods/51195/2458987/Railcraft_1.7.10-9.12.2.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 255232,
+          "name": "p455w0rd's Library",
+          "version": {
+            "id": 2359471,
+            "metadata": {
+              "sha1": "ad6f3ad049611d1a238acb965e0b68d61998d81e",
+              "size": 23853,
+              "path": "mods/p455w0rdslib-1.7.10-1.0.4.jar",
+              "url": "/mods/255232/2359471/p455w0rdslib-1.7.10-1.0.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 228027,
+          "name": "BiblioCraft",
+          "version": {
+            "id": 2423369,
+            "metadata": {
+              "sha1": "fb8af3a336e72c4268ef849f38a39b70771be8f3",
+              "size": 5452316,
+              "path": "mods/BiblioCraft[v1.11.7][MC1.7.10].jar",
+              "url": "/mods/228027/2423369/BiblioCraft%5Bv1.11.7%5D%5BMC1.7.10%5D.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238003,
+          "name": "Thaumic Inventory Scanning (Thaumcraft Addon)",
+          "version": {
+            "id": 2286894,
+            "metadata": {
+              "sha1": "2bdfe707d0adb5b51be97526c4a37a26d3f83f06",
+              "size": 17202,
+              "path": "mods/tcinventoryscan-mc1.7.10-1.0.11.jar",
+              "url": "/mods/238003/2286894/tcinventoryscan-mc1.7.10-1.0.11.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 69162,
+          "name": "CoFH Core",
+          "version": {
+            "id": 2388750,
+            "metadata": {
+              "sha1": "b7d66be19a6898232f5498a50ac0207109a3b2e6",
+              "size": 1230511,
+              "path": "mods/CoFHCore-[1.7.10]3.1.4-329.jar",
+              "url": "/mods/69162/2388750/CoFHCore-%5B1.7.10%5D3.1.4-329.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 231382,
+          "name": "Brandon's Core",
+          "version": {
+            "id": 2292125,
+            "metadata": {
+              "sha1": "39ecb8a041d8e3ada2a159a9f708a7b6bd910bf3",
+              "size": 92269,
+              "path": "mods/BrandonsCore-1.0.0.12.jar",
+              "url": "/mods/231382/2292125/BrandonsCore-1.0.0.12.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 228932,
+          "name": "Carpenter's Blocks",
+          "version": {
+            "id": 2333195,
+            "metadata": {
+              "sha1": "30bec132accdead87d7302770b77e294a94c7f54",
+              "size": 510164,
+              "path": "mods/Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar",
+              "url": "/mods/228932/2333195/Carpenter's%20Blocks%20v3.3.8.1%20-%20MC%201.7.10.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225194,
+          "name": "AE2 Stuff",
+          "version": {
+            "id": 2270295,
+            "metadata": {
+              "sha1": "3de7155b38c0d67c3a3768975c860c5eebe6e7aa",
+              "size": 507138,
+              "path": "mods/ae2stuff-rv3-0.5.1.9-mc1.7.10.jar",
+              "url": "/mods/225194/2270295/ae2stuff-rv3-0.5.1.9-mc1.7.10.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 224989,
+          "name": "Iron Chest Minecarts",
+          "version": {
+            "id": 2271882,
+            "metadata": {
+              "sha1": "12547b20c97b13d9380acd7fcefcba0bfe6e25c7",
+              "size": 32695,
+              "path": "mods/IronChestMinecarts-1.0.4.jar",
+              "url": "/mods/224989/2271882/IronChestMinecarts-1.0.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 250398,
+          "name": "Controlling",
+          "version": {
+            "id": 2328181,
+            "metadata": {
+              "sha1": "04f7c4e4807a8f28ce3c31535994e6e0cea0071e",
+              "size": 17486,
+              "path": "mods/Controlling-1.7.10-1.0.0.jar",
+              "url": "/mods/250398/2328181/Controlling-1.7.10-1.0.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 69673,
+          "name": "Witchery",
+          "version": {
+            "id": 2234410,
+            "metadata": {
+              "sha1": "b3f02f7049eedef71ebd7ad192c3cc23cf1268c9",
+              "size": 7009956,
+              "path": "mods/witchery-1.7.10-0.24.1.jar",
+              "url": "/mods/69673/2234410/witchery-1.7.10-0.24.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 237701,
+          "name": "ReAuth",
+          "version": {
+            "id": 2433392,
+            "metadata": {
+              "sha1": "1ffe69eb1ac0b0499f3bdaf8990c85e20e69327f",
+              "size": 23838,
+              "path": "mods/ReAuth-3.5.0.jar",
+              "url": "/mods/237701/2433392/ReAuth-3.5.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        }
+      ],
+      "resourcePacks": [
+        {
+          "stateGameElement": "active",
+          "id": 240485,
+          "name": "Music for Hardcore Ender Expansion",
+          "version": {
+            "id": 2274005,
+            "metadata": {
+              "sha1": "923000a0081a7c9e282492a14892b72ccb823e96",
+              "size": 9181237,
+              "path": "resourcepacks/HEE Music v1.0.zip",
+              "url": "/resourcepacks/240485/2274005/HEE%20Music%20v1.0.zip"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        }
+      ],
+      "maps": [],
+      "shaderpacks": [],
+      "additionalFile": {
+        "sha1": "a6dcdeec6fd77f013bb4473c6b57faf4fbcbec30",
+        "size": 55034905,
+        "path": "GT+New+Horizons-2.0.9.0-1.7.10.zip",
+        "url": "/modpacks/252507/3018390/GT+New+Horizons-2.0.9.0-1.7.10.zip"
+      },
+      "forgeVersion": "10.13.4.1614",
+      "gameVersion": "1.7.10",
+      "id": 3018390,
+      "name": "2.0.9.0-1.7.10"
+    },
+    "versions": [],
+    "userInstall": false,
+    "populateStatus": false
+  },
+  "skinVersion": false
+}

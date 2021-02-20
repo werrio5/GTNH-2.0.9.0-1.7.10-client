@@ -1,0 +1,17 @@
+{
+  "id": "soapst/gluaconite_-636,46,3",
+  "name": "soapst/gluaconite",
+  "icon": "waypoint-normal.png",
+  "x": -636,
+  "y": 46,
+  "z": 3,
+  "r": 204,
+  "g": 240,
+  "b": 17,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

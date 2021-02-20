@@ -1,0 +1,17 @@
+{
+  "id": "fort_-1528,66,176",
+  "name": "fort",
+  "icon": "waypoint-normal.png",
+  "x": -1528,
+  "y": 66,
+  "z": 176,
+  "r": 116,
+  "g": 41,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
