@@ -12,7 +12,7 @@ advancedOpengl:false
 maxFps:120
 fboEnable:true
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:1
 clouds:true
 resourcePacks:["Realistic Sky GT New Horizons.zip"]
@@ -40,7 +40,7 @@ chatScale:1.0
 chatWidth:1.0
 showInventoryAchievementHint:false
 mipmapLevels:4
-anisotropicFiltering:1
+anisotropicFiltering:2
 streamBytesPerPixel:0.5
 streamMicVolume:1.0
 streamSystemVolume:1.0

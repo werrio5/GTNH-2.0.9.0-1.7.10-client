@@ -528,6 +528,27 @@ GT_Mod: Starting Block Icon Load Phase
 GT_Mod: Finished Block Icon Load Phase
 GT_Mod: Starting Item Icon Load Phase
 GT_Mod: Finished Item Icon Load Phase
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
 GT_Mod: Re-Unificating Recipes.
 GT_Mod: Re-Unificating Recipes.
 GT_Mod: ServerStarting-Phase started!
@@ -538,6 +559,13 @@ GT_Mod: Smelting
 GT_Mod: Crafting Recipes
 GT_Mod: ServerStarting-Phase finished!
 GT_Mod: Cleaning up all OreDict Crafting Recipes, which have an empty List in them, since they are never meeting any Condition.
+GT_Mod: Setting up Icon Register for Blocks
+GT_Mod: Registering MetaTileEntity specific Textures
+GT_Mod: Registering Crop specific Textures
+GT_Mod: Starting Block Icon Load Phase
+GT_Mod: Finished Block Icon Load Phase
+GT_Mod: Starting Item Icon Load Phase
+GT_Mod: Finished Item Icon Load Phase
 *
 Printing List of all registered Objects inside the OreDictionary, now with free extra Sorting:
 *
@@ -602,20 +630,20 @@ Printing List of all registered Objects inside the OreDictionary, now with free 
  2x WengeSlab
  2x WillowPlanks
  2x WillowSlab
- 1x [Ljava.lang.Object;@284afdd2
- 1x [Ljava.lang.Object;@46b55e4e
- 1x [Ljava.lang.Object;@48efc6cd
- 1x [Ljava.lang.Object;@4923059d
- 1x [Ljava.lang.Object;@551ac433
- 1x [Ljava.lang.Object;@5e93e879
- 1x [Ljava.lang.Object;@6180c920
- 1x [Ljava.lang.Object;@62042fef
- 1x [Ljava.lang.Object;@63d65723
- 1x [Ljava.lang.Object;@67aeea14
- 1x [Ljava.lang.Object;@6910183f
- 1x [Ljava.lang.Object;@69a4c68b
- 1x [Ljava.lang.Object;@750e6aa8
- 1x [Ljava.lang.Object;@c7c5994
+ 1x [Ljava.lang.Object;@1a9913e1
+ 1x [Ljava.lang.Object;@1f76ef25
+ 1x [Ljava.lang.Object;@2dab4f86
+ 1x [Ljava.lang.Object;@3072c814
+ 1x [Ljava.lang.Object;@3131ceb2
+ 1x [Ljava.lang.Object;@35afde46
+ 1x [Ljava.lang.Object;@3bbbfb16
+ 1x [Ljava.lang.Object;@3ff71d65
+ 1x [Ljava.lang.Object;@524c0b03
+ 1x [Ljava.lang.Object;@526b8612
+ 1x [Ljava.lang.Object;@62e7dd03
+ 1x [Ljava.lang.Object;@76537995
+ 1x [Ljava.lang.Object;@8e1864d
+ 1x [Ljava.lang.Object;@c56682e
  1x alumiteRod
  1x antiBlock
  1x arditeRod
@@ -10793,7 +10821,7 @@ Printing List of all registered Objects inside the OreDictionary, now with free 
  1x grainBait
  1x grass
  1x gravel
- 1x gregtech.api.util.GT_FoodStat@30ab4f
+ 1x gregtech.api.util.GT_FoodStat@4d22cc9b
  1x grubBee
  1x gunpowder
  1x hambone
