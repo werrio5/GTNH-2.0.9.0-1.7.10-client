@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Tue Mar 09 12:57:33 MSK 2021",
+  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Sun Mar 14 12:55:56 MSK 2021",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -25796,6 +25796,13 @@ var colorpalette={
     {
       "name": "Broken Dungeon Light",
       "uid": "lootgames:LootGamesDungeonLight",
+      "meta": 0,
+      "color": "#70784e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Broken Dungeon Light",
+      "uid": "lootgames:LootGamesDungeonLight",
       "meta": 1,
       "color": "#404b41",
       "alpha": 0.4
@@ -31974,12 +31981,6 @@ var colorpalette={
     {
       "name": "Cracked Dungeon Wall",
       "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 0,
-      "color": "#4d5b4d"
-    },
-    {
-      "name": "Cracked Dungeon Wall",
-      "uid": "lootgames:LootGamesDungeonWall",
       "meta": 3,
       "color": "#394439"
     },
@@ -34941,13 +34942,6 @@ var colorpalette={
       "color": "#405040"
     },
     {
-      "name": "Dungeon Light",
-      "uid": "lootgames:LootGamesDungeonLight",
-      "meta": 0,
-      "color": "#70784e",
-      "alpha": 0.4
-    },
-    {
       "name": "Dungeon Puzzle (Triggerable - Unlit)",
       "uid": "HardcoreEnderExpansion:dungeon_puzzle",
       "meta": 0,
@@ -35018,6 +35012,12 @@ var colorpalette={
       "uid": "HardcoreEnderExpansion:dungeon_puzzle",
       "meta": 15,
       "color": "#c07429"
+    },
+    {
+      "name": "Dungeon Wall",
+      "uid": "lootgames:LootGamesDungeonWall",
+      "meta": 0,
+      "color": "#4d5b4d"
     },
     {
       "name": "Durian",
@@ -60722,7 +60722,7 @@ var colorpalette={
       "color": "#6d6d6d"
     },
     {
-      "name": "QED (Quantum Entanglement Doohicky)",
+      "name": "QED (Quantum Emission Decompiler)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
