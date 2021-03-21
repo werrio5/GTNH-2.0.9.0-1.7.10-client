@@ -1,0 +1,17 @@
+{
+  "id": "thaumcraft trees_46,70,91",
+  "name": "thaumcraft trees",
+  "icon": "waypoint-normal.png",
+  "x": 46,
+  "y": 70,
+  "z": 91,
+  "r": 50,
+  "g": 3,
+  "b": 254,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

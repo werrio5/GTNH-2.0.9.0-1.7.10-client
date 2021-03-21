@@ -2205,7 +2205,7 @@ BuildCraft|Energy:blockRedPlasma, Red Plasma Block
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
+ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -11191,43 +11191,43 @@ Ztones:tile.ztylBlock:12, Ztyl ⑫
 Ztones:tile.ztylBlock:13, Ztyl ⑬
 Ztones:tile.ztylBlock:14, Ztyl ⑭
 Ztones:tile.ztylBlock:15, Ztyl ⑮
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:dislocator, Transvector Dislocator
 ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
 ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:funnel, Essentia Funnel
 ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:interface, Transvector Interface
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
 ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
 ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
 ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -17538,10 +17538,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztyl ⑬
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztyl ⑭
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ztyl ⑮
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
@@ -21656,8 +21656,8 @@ dreamcraft:dreamcraft_EnrichedBacterialSludge_bucket, Bucket of radioactive Bact
 dreamcraft:dreamcraft_FermentedBacterialSludge_bucket, Bucket of Fermented Bacterial Sludge
 dreamcraft:dreamcraft_Concrete_bucket, Bucket of Concrete
 dreamcraft:dreamcraft_Pollution_bucket, Bucket of Pollution
-dreamcraft:item.OvenGlove:0, Lava Glove (Left hand)
-dreamcraft:item.OvenGlove:1, Lava Glove (Right hand)
+dreamcraft:item.OvenGlove:0, Pizza Glove (Left hand)
+dreamcraft:item.OvenGlove:1, Pizza Glove (Right hand)
 dreamcraft:item.WitherProtectionRing, Wither protection Ring
 harvestcraft:cuttingboardItem, Cutting Board
 harvestcraft:potItem, Pot
@@ -38752,120 +38752,120 @@ miscutils:itemCactusCharcoal, Cactus Charcoal
 miscutils:itemSugarCharcoal, Sugar Charcoal
 miscutils:itemCactusCoke, Cactus Coke
 miscutils:itemSugarCoke, Sugar Coke
-miscutils:itemCellUranium233, Uranium 233 Cell
-miscutils:itemCellLiFBeF2ZrF4UF4, Cell of Molten Salt [LiFBeF2ZrF4UF4]
-miscutils:itemCellEglinSteelBaseCompound, Eglin Steel Base Compound Cell
-miscutils:itemCellIncoloy020, Incoloy-020 Cell
-miscutils:itemCellEnergyCrystal, Energy Crystal Cell
-miscutils:itemCellGrisium, Grisium Cell
-miscutils:itemCellAstatine, Astatine Cell
-miscutils:itemCellActinium, Actinium Cell
-miscutils:itemCellAmericium241, Americium 241 Cell
-miscutils:itemCellPlutonium238, Plutonium 238 Cell
-miscutils:itemCellSeleniumDioxide, Selenium Dioxide Cell
-miscutils:itemCellInconel625, Inconel-625 Cell
-miscutils:itemCellXenon, Xenon Cell
-miscutils:itemCellPlutonium239, Plutonium 239 Cell
-miscutils:itemCellUraniumTetrafluoride, Uranium Tetrafluoride Cell
-miscutils:itemCellFermium, Fermium Cell
-miscutils:itemCellBerylliumFluoride, Beryllium Fluoride Cell
-miscutils:itemCellStaballoy, Staballoy Cell
-miscutils:itemCellArceusAlloy2B, Arceus Alloy 2B Cell
-miscutils:itemCellInconel792, Inconel-792 Cell
-miscutils:itemCellTriniumNaquadahAlloy, Trinium Naquadah Alloy Cell
-miscutils:itemCellLiFBeF2ZrF4U235, Cell of Molten Salt [LiFBeF2ZrF4U235]
-miscutils:itemCellUraniumHexafluoride, Uranium Hexafluoride Cell
-miscutils:itemCellNeon, Neon Cell
-miscutils:itemCellDragonblood, Dragonblood Cell
-miscutils:itemCellRunite, Runite Cell
-miscutils:itemCellNaquadahFuel, Naquadah Fuel Cell
-miscutils:itemCellCalifornium, Californium Cell
-miscutils:itemCellHypogen, Hypogen Cell
-miscutils:itemCellProtactinium, Protactinium Cell
-miscutils:itemCellPotin, Potin Cell
-miscutils:itemCellEglinSteel, Eglin Steel Cell
-miscutils:itemCellMaragingSteel300, Maraging Steel 300 Cell
-miscutils:itemCellZirconium, Zirconium Cell
-miscutils:itemCellSeleniumHexafluoride, Selenium Hexafluoride Cell
-miscutils:itemCellRhugnor, Rhugnor Cell
-miscutils:itemCellHastelloyC276, Hastelloy-C276 Cell
-miscutils:itemCellThoriumHexafluoride, Thorium Hexafluoride Cell
-miscutils:itemCellThoriumTetrafluoride, Thorium Tetrafluoride Cell
-miscutils:itemCellRuthenium, Ruthenium Cell
-miscutils:itemCellCurium, Curium Cell
-miscutils:itemCellBlackMetal, Black Metal Cell
-miscutils:itemCellZirconiumCarbide, Zirconium Carbide Cell
-miscutils:itemCellLafiumCompound, Lafium Compound Cell
-miscutils:itemCellBakelite, Bakelite Cell
-miscutils:itemCellSeleniousAcid, Selenious Acid Cell
-miscutils:itemCellHydrogenCyanide, Cell of Hydrogen Cyanide
-miscutils:itemCellHastelloyX, Hastelloy-X Cell
-miscutils:itemCellTalonite, Talonite Cell
-miscutils:itemCellIncoloyMA956, Incoloy-MA956 Cell
-miscutils:itemCellUranium232, Uranium 232 Cell
-miscutils:itemCellPikyonium64B, Pikyonium 64B Cell
-miscutils:itemCellNiobiumCarbide, Niobium Carbide Cell
-miscutils:itemCellNylon, Nylon Cell
-miscutils:itemCellBerkelium, Berkelium Cell
-miscutils:itemCellCarbyne, Carbyne Cell
-miscutils:itemCellTantalloy60, Tantalloy-60 Cell
-miscutils:itemCellTitansteel, Titansteel Cell
-miscutils:itemCellWatertightSteel, Watertight Steel Cell
-miscutils:itemCellNitinol60, Nitinol 60 Cell
-miscutils:itemCellFrancium, Francium Cell
-miscutils:itemCellHastelloyN, Hastelloy-N Cell
-miscutils:itemCellInconel690, Inconel-690 Cell
-miscutils:itemCellTriniumNaquadahCarbonite, Trinium Naquadah Carbonite Cell
-miscutils:itemCellStrontium90, Strontium 90 Cell
-miscutils:itemCellAbyssalAlloy, Abyssal Alloy Cell
-miscutils:itemCellPolonium, Polonium Cell
-miscutils:itemCellChromaticGlass, Chromatic Glass Cell
-miscutils:itemCellLithiumFluoride, Lithium Fluoride Cell
-miscutils:itemCellIodine, Iodine Cell
-miscutils:itemCellLaurenium, Laurenium Cell
-miscutils:itemCellHG1223, HG-1223 Cell
-miscutils:itemCellMaragingSteel250, Maraging Steel 250 Cell
-miscutils:itemCellBlackTitanium, Black Titanium Cell
-miscutils:itemCellMaragingSteel350, Maraging Steel 350 Cell
-miscutils:itemCellNeptuniumHexafluoride, Neptunium Hexafluoride Cell
-miscutils:itemCellHafnium, Hafnium Cell
-miscutils:itemCellQuantum, Quantum Cell
-miscutils:itemCellArcanite, Arcanite Cell
-miscutils:itemCellHastelloyW, Hastelloy-W Cell
-miscutils:itemCellWhiteMetal, White Metal Cell
-miscutils:itemCellSelenium, Selenium Cell
-miscutils:itemCellRhodium, Rhodium Cell
-miscutils:itemCellEinsteinium, Einsteinium Cell
-miscutils:itemCellTechnetiumHexafluoride, Technetium Hexafluoride Cell
-miscutils:itemCellTantalumCarbide, Tantalum Carbide Cell
-miscutils:itemCellTantalloy61, Tantalloy-61 Cell
-miscutils:itemCellCinobiteA243, Cinobite A243 Cell
-miscutils:itemCellTechnetium, Technetium Cell
-miscutils:itemCellAstralTitanium, Astral Titanium Cell
-miscutils:itemCellOctiron, Octiron Cell
-miscutils:itemCellBotmium, Botmium Cell
-miscutils:itemCellBabbitAlloy, Babbit Alloy Cell
-miscutils:itemCellGermanium, Germanium Cell
-miscutils:itemCellTeflon, Teflon Cell
-miscutils:itemCellKoboldite, Koboldite Cell
-miscutils:itemCellBloodSteel, Blood Steel Cell
-miscutils:itemCellTungstenTitaniumCarbide, Tungsten Titanium Carbide Cell
-miscutils:itemCellRhenium, Rhenium Cell
-miscutils:itemCellAdvancedNitinol, Advanced Nitinol Cell
-miscutils:itemCellIncoloyDS, Incoloy-DS Cell
-miscutils:itemCellTriniumTitaniumAlloy, Trinium Titanium Alloy Cell
 miscutils:itemCellLiFBeF2ThF4UF4, Cell of Molten Salt [LiFBeF2ThF4UF4]
-miscutils:itemCellTumbaga, Tumbaga Cell
-miscutils:itemCellNeptunium, Neptunium Cell
-miscutils:itemCellEnrichedNaquadahFuel, Enriched Naquadah Fuel Cell
+miscutils:itemCellUraniumHexafluoride, Uranium Hexafluoride Cell
+miscutils:itemCellArceusAlloy2B, Arceus Alloy 2B Cell
+miscutils:itemCellAstatine, Astatine Cell
+miscutils:itemCellNaquadahFuel, Naquadah Fuel Cell
 miscutils:itemCellThallium, Thallium Cell
-miscutils:itemCellPolonium210, Polonium 210 Cell
+miscutils:itemCellCarbyne, Carbyne Cell
+miscutils:itemCellFermium, Fermium Cell
+miscutils:itemCellMaragingSteel250, Maraging Steel 250 Cell
+miscutils:itemCellEglinSteelBaseCompound, Eglin Steel Base Compound Cell
+miscutils:itemCellRhodium, Rhodium Cell
+miscutils:itemCellRhugnor, Rhugnor Cell
+miscutils:itemCellZirconiumCarbide, Zirconium Carbide Cell
+miscutils:itemCellInconel792, Inconel-792 Cell
+miscutils:itemCellNitinol60, Nitinol 60 Cell
+miscutils:itemCellHastelloyN, Hastelloy-N Cell
+miscutils:itemCellLafiumCompound, Lafium Compound Cell
+miscutils:itemCellBotmium, Botmium Cell
+miscutils:itemCellWatertightSteel, Watertight Steel Cell
+miscutils:itemCellXenon, Xenon Cell
+miscutils:itemCellLaurenium, Laurenium Cell
+miscutils:itemCellSelenium, Selenium Cell
+miscutils:itemCellHastelloyC276, Hastelloy-C276 Cell
+miscutils:itemCellArcanite, Arcanite Cell
+miscutils:itemCellIncoloyDS, Incoloy-DS Cell
+miscutils:itemCellPotin, Potin Cell
+miscutils:itemCellInconel690, Inconel-690 Cell
+miscutils:itemCellTantalloy60, Tantalloy-60 Cell
+miscutils:itemCellInconel625, Inconel-625 Cell
+miscutils:itemCellPlutonium238, Plutonium 238 Cell
+miscutils:itemCellNylon, Nylon Cell
+miscutils:itemCellSeleniousAcid, Selenious Acid Cell
+miscutils:itemCellProtactinium, Protactinium Cell
+miscutils:itemCellIodine, Iodine Cell
+miscutils:itemCellBlackMetal, Black Metal Cell
+miscutils:itemCellDragonblood, Dragonblood Cell
+miscutils:itemCellHypogen, Hypogen Cell
+miscutils:itemCellEnergyCrystal, Energy Crystal Cell
+miscutils:itemCellBakelite, Bakelite Cell
+miscutils:itemCellTechnetium, Technetium Cell
+miscutils:itemCellFrancium, Francium Cell
+miscutils:itemCellRuthenium, Ruthenium Cell
+miscutils:itemCellNiobiumCarbide, Niobium Carbide Cell
+miscutils:itemCellActinium, Actinium Cell
+miscutils:itemCellBabbitAlloy, Babbit Alloy Cell
+miscutils:itemCellEglinSteel, Eglin Steel Cell
+miscutils:itemCellCinobiteA243, Cinobite A243 Cell
+miscutils:itemCellThoriumHexafluoride, Thorium Hexafluoride Cell
+miscutils:itemCellBerylliumFluoride, Beryllium Fluoride Cell
+miscutils:itemCellHG1223, HG-1223 Cell
+miscutils:itemCellTantalumCarbide, Tantalum Carbide Cell
+miscutils:itemCellNeptuniumHexafluoride, Neptunium Hexafluoride Cell
+miscutils:itemCellPikyonium64B, Pikyonium 64B Cell
+miscutils:itemCellOctiron, Octiron Cell
+miscutils:itemCellQuantum, Quantum Cell
+miscutils:itemCellTalonite, Talonite Cell
 miscutils:itemCellCelestialTungsten, Celestial Tungsten Cell
-miscutils:itemCellNaquadriaFuel, Naquadria Fuel Cell
-miscutils:itemCellZeron100, Zeron-100 Cell
+miscutils:itemCellPolonium210, Polonium 210 Cell
+miscutils:itemCellGermanium, Germanium Cell
+miscutils:itemCellPlutonium239, Plutonium 239 Cell
+miscutils:itemCellHastelloyW, Hastelloy-W Cell
+miscutils:itemCellGrisium, Grisium Cell
+miscutils:itemCellBlackTitanium, Black Titanium Cell
+miscutils:itemCellStrontium90, Strontium 90 Cell
+miscutils:itemCellHafnium, Hafnium Cell
+miscutils:itemCellIncoloy020, Incoloy-020 Cell
+miscutils:itemCellTantalloy61, Tantalloy-61 Cell
+miscutils:itemCellHydrogenCyanide, Cell of Hydrogen Cyanide
+miscutils:itemCellWhiteMetal, White Metal Cell
+miscutils:itemCellMaragingSteel300, Maraging Steel 300 Cell
+miscutils:itemCellSeleniumDioxide, Selenium Dioxide Cell
+miscutils:itemCellLiFBeF2ZrF4U235, Cell of Molten Salt [LiFBeF2ZrF4U235]
+miscutils:itemCellBerkelium, Berkelium Cell
+miscutils:itemCellTeflon, Teflon Cell
+miscutils:itemCellRhenium, Rhenium Cell
+miscutils:itemCellPolonium, Polonium Cell
+miscutils:itemCellAdvancedNitinol, Advanced Nitinol Cell
+miscutils:itemCellMaragingSteel350, Maraging Steel 350 Cell
+miscutils:itemCellHastelloyX, Hastelloy-X Cell
+miscutils:itemCellRunite, Runite Cell
 miscutils:itemCellStellite, Stellite Cell
-miscutils:itemCellSiliconCarbide, Silicon Carbide Cell
+miscutils:itemCellTriniumNaquadahAlloy, Trinium Naquadah Alloy Cell
 miscutils:itemCellRadium, Radium Cell
+miscutils:itemCellSeleniumHexafluoride, Selenium Hexafluoride Cell
+miscutils:itemCellLiFBeF2ZrF4UF4, Cell of Molten Salt [LiFBeF2ZrF4UF4]
+miscutils:itemCellAmericium241, Americium 241 Cell
+miscutils:itemCellSiliconCarbide, Silicon Carbide Cell
+miscutils:itemCellIncoloyMA956, Incoloy-MA956 Cell
+miscutils:itemCellChromaticGlass, Chromatic Glass Cell
+miscutils:itemCellAstralTitanium, Astral Titanium Cell
+miscutils:itemCellZirconium, Zirconium Cell
+miscutils:itemCellNaquadriaFuel, Naquadria Fuel Cell
+miscutils:itemCellBloodSteel, Blood Steel Cell
+miscutils:itemCellNeon, Neon Cell
+miscutils:itemCellStaballoy, Staballoy Cell
+miscutils:itemCellUraniumTetrafluoride, Uranium Tetrafluoride Cell
+miscutils:itemCellTumbaga, Tumbaga Cell
+miscutils:itemCellTechnetiumHexafluoride, Technetium Hexafluoride Cell
+miscutils:itemCellNeptunium, Neptunium Cell
+miscutils:itemCellEinsteinium, Einsteinium Cell
+miscutils:itemCellCurium, Curium Cell
+miscutils:itemCellTitansteel, Titansteel Cell
+miscutils:itemCellCalifornium, Californium Cell
+miscutils:itemCellEnrichedNaquadahFuel, Enriched Naquadah Fuel Cell
+miscutils:itemCellUranium233, Uranium 233 Cell
+miscutils:itemCellTriniumTitaniumAlloy, Trinium Titanium Alloy Cell
+miscutils:itemCellTriniumNaquadahCarbonite, Trinium Naquadah Carbonite Cell
+miscutils:itemCellAbyssalAlloy, Abyssal Alloy Cell
+miscutils:itemCellThoriumTetrafluoride, Thorium Tetrafluoride Cell
+miscutils:itemCellKoboldite, Koboldite Cell
+miscutils:itemCellZeron100, Zeron-100 Cell
+miscutils:itemCellTungstenTitaniumCarbide, Tungsten Titanium Carbide Cell
+miscutils:itemCellUranium232, Uranium 232 Cell
+miscutils:itemCellLithiumFluoride, Lithium Fluoride Cell
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:0, §dUltra Low Voltage Machine Plate Cover
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:1, §dLow Voltage Machine Plate Cover
 miscutils:itemCustomMetaCover.miscutils.GtMachineCasings:2, §dMedium Voltage Machine Plate Cover
@@ -40466,14 +40466,14 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
-ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
-ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
-ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
-ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
-ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
 ironchestminecarts:minecart_chest_dirtchest9000, Minecart with DirtChest9000
 ironchestminecarts:minecart_chest_diamond, Minecart with Diamond Chest
+ironchestminecarts:minecart_chest_iron, Minecart with Iron Chest
+ironchestminecarts:minecart_chest_copper, Minecart with Copper Chest
+ironchestminecarts:minecart_chest_crystal, Minecart with Crystal Chest
+ironchestminecarts:minecart_chest_obsidian, Minecart with Obsidian Chest
+ironchestminecarts:minecart_chest_silver, Minecart with Silver Chest
+ironchestminecarts:minecart_chest_gold, Minecart with Gold Chest
 irontank:ironGoldUpgrade, Iron to Gold Tank Upgrade
 irontank:goldDiamondUpgrade, Gold to Diamond Tank Upgrade
 irontank:copperSilverUpgrade, Copper to Steel Tank Upgrade

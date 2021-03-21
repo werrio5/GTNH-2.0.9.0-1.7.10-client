@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Sun Mar 14 16:32:39 MSK 2021",
+  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Sun Mar 21 09:49:11 MSK 2021",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Realistic Sky GT New Horizons.zip:zip:1615728240853",
-  "modNames": "AE2 Stuff:0.5.1.9, AE2 Wireless Crafting Terminal:1.7.10-rv3-1.8.7.4-bigbass-1, AFSU Mod:1.2.3a-Freeza, Advanced Solar Panels:1.7.10-3.5.1, Adventure Backpack:1.7.10-0.9-h14-GTNH, AngerMod - Angry neutral mobs:0.6, AppleCore:1.3.9, Applied Energistics 2 Core:rv3-beta-31, Applied Energistics 2:rv3-beta-31, Aqua Creeper:1.0.1, ArchitectureCraft:1.7.2, Automagy:0.28.2, Avaritia:1.18, Avaritiaddons:1.4b, BC Builders:7.1.23, BC Energy:7.1.23, BC Factory:7.1.23, BC Robotics:7.1.23, BC Silicon:7.1.23, BC Transport:7.1.23, BD Lib:1.9.4.109, Backpack:2.2.0, BartWorks ASM Core:0.0.1, BartWorks Mod Additions:0.5.13.1, BartWorks:0.5.13.1, Baubles:1.0.1.10, BeeBetterAtBees:0.2, Better Achievements:0.1.0, Better Builder\u0027s Wands:0.8.1, Better Loading Screen GT:NH:1.3.23-GTNH, Better Questing Quest Book:2.1.1-1.7.10, Better Questing:3.0.334-GTNH, BiblioCraft:1.11.7, BiblioWoods Biomes O\u0027Plenty Edition:1.9, BiblioWoods Forestry Edition:1.7, BiblioWoods Natura Edition:1.5, Binnie Core:2.0.29.4, Biomes O\u0027 Plenty:2.1.1-GTNH, BlockLimiter. Restict your Blocks:0.52, Blood Arsenal:1.2.1-11, Blood Magic: Alchemical Wizardry:v1.3.3, Botany:2.0.29.4, Brandon\u0027s Core:1.0.0.12, Bug Torch:1.0.2, BuildCraft Compat:7.1.7, BuildCraft Oil Tweak:1.0.3, BuildCraft:7.1.23, Carpenter\u0027s Blocks:3.3.8.1, Catwalks Mod:2.0.4, Chisel Tones:@VERSION@, Chisel:1.7.10-2.9.8-GTNH.8, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Command Blocks for Better Questing:1, Compact Kinetic Wind and Water Generators:1.7.10-1.0, Computronics:1.6.6, Controlling:1.0.0, CropLoadCore:0.1.4, CroploadCore ASM Core:0.0.1, Crops++:1.3.5.3, Custom Main Menu:1.9.2, Default World Generator:0.1-b13, Draconic Evolution:1.0.2h, DummyCore:1.13, Electro-Magic Tools:1.2.7.8, Ender IO:1.7.10-2.3.1.13_beta.18, Ender Zoo:1.7.10-1.0.18.3, EnderCore:1.7.10-0.2.0.39_beta, EnderStorage:1.4.7.38, Enhanced LootBags:1.0.3, EnhancedPortals:3.0.12, Eternal Singularity:1.7.10-.1.0.3, Extra Bees:2.0.29.4, Extra Cells 2:2.4.3, Extra Trees:2.0.29.4, Extra Utilities:1.2.12, FastCraft:1.23, FindIt:1.0.1, Flood Lights:1.2.8-137, Forbidden Magic:1.7.10-0.575, Forestry for Minecraft:4.2.27.12, Forge Microblocks:1.2.0.347, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.347, ForgeRelocation:0.0.1.4, GT NEI Ore Plugin GT:NH Mod:1.7.10-1.0.7, GT Scanner Mod:1.5.7, GT++ Australia:0.1, GT++ Preloader:0.5-Beta, GT++ Toxic Everglades:0.1, GT++:1.7.05, GT: New Horizons:1.6.46, GTNH-TC-Wands:1.2.1, GTTweaker:1.0, Gadomancy:1.0.7.4, Galactic Greg:1.0.3, Galacticraft Core:3.0.13-GTNH, Galacticraft Planets:3.0.13-GTNH, GalaxySpace:1.1.3, GenDustry:1.6.4.135, Genetics:2.0.29.4, Graviation Suite:2.0.68u, Greg\u0027s SG Craft:1.13.3, GregTech:MC1710, Hardcore Darkness:1.7, Hardcore Ender Expansion:1.8.6, HelpFixer:1.0.7, Hodgepodge:1.4.0, Holo Inventory:2.1.4-beta-GTNH.4, Hunger Overhaul:1.7.10-1.0.2.DEV.80bb6db, I Will Find You:1.5, IC2 Crop Plugin:1.2.1, INpureCore:1.7.10R1.0.0B9, Iguana Tinker Tweaks:1.7.10-2.1.7.4, InGame Info XML:2.8.2.3, IndustrialCraft 2:2.2.828-experimental, Infernal Mobs:1.7.1-GTNH, Inventory Tweaks:1.59-dev-156-af3bc68, Iron Chest Minecarts:1.0.4, Iron Chest:6.0.62.742, Iron Tanks:1.7.10-1.1.19, It\u0027s the little things:0.0.8, JABBA:1.2.2, JourneyMap:5.1.4p2, JourneyMapServer:1.0.5_MC1.7.10, KekzTech:0.4.6, Legacy Catwalk Compat:x.x.x, LootGames:1.0.18, LunatriusCore:1.1.2.21, MCFrames:1.0, Magic Bees:2.5.3-GTNH, Malisis\u0027 Doors:1.7.10-1.13.2, MalisisCore:1.7.10-0.14.3, Mantle:1.7.10-0.3.2.jenkins191, Micdoodle8 Core:, Mine \u0026 Blade Battlegear 2:1.7.10, MineTweaker 3:3.1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.347, Mod Tweaker 2:0.9.6, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.4.4, MrTJPCore:1.1.0.33, NEI Addons: Applied Energistics 2:1.12.15.41, NEI Addons: Botany:1.12.15.41, NEI Addons: Crafting Tables:1.12.15.41, NEI Addons: Developer Tools:1.12.15.41, NEI Addons: Ex Nihilo:1.12.15.41, NEI Addons: Forestry:1.12.15.41, NEI Addons:1.12.15.41, NEI Integration:1.1.2, Natura:2.3.0, Nature\u0027s Compass:1.3.1, Nether Portal Fix:1.0, NodalMechanics:1.7.10R1.0, Not Enough Items:2.0.4-GTNH, NotEnoughThaumcraftTabs:1.0.2, Nuclear Control 2:2.4.3a, OC Glasses:1.0.46, Open Modular Turrets:2.2.11-238, OpenBlocks:1.6.2, OpenComputers (Core):1.7.5.5.13, OpenComputers:1.7.5.5.13, OpenMods:0.10.1, OpenModsCore:0.10.1, OpenPrinter:0.1.0.132, OpenSecurity:1.0.117, Overloaded Armor Bar:1.7.10-1.0.0, Pam\u0027s Harvest the Nether:1.7.10, Pam\u0027s HarvestCraft:1.0.1, Player API:1.4, Project Blue:1.1.6, ProjectRed Compatibility:4.7.0pre11.52, ProjectRed Core:4.7.0pre11.52, ProjectRed Expansion:4.7.0pre11.52, ProjectRed Exploration:4.7.0pre11.52, ProjectRed Fabrication:4.7.0pre11.52, ProjectRed Illumination:4.7.0pre11.52, ProjectRed Integration:4.7.0pre11.52, ProjectRed Transmission:4.7.0pre11.52, ProjectRed Transportation:4.7.0pre11.52, Railcraft:9.12.2.1, Random Things:2.2.4, ReAuth:3.5.0, Realistic World Gen Alpha:Alpha 1.3.2, RelocationFMP:0.0.1.2, Remote IO:2.4.2, Resource Loader:1.3, Roguelike Dungeons:1.5.0, Sleeping Bag:0.1.1, Special Mobs:GRADLETOKEN_VERSION, SpongeMixins Loader:1.2.0, Standard Expansion:3.0.182-GTNH, Steve\u0027s Addons:0.10.17, Steve\u0027s Carts 2:2.0.0.b17, Steve\u0027s Factory Manager:A92, Storage Drawers: Biomes O\u0027 Plenty Pack:1.7.10-1.1.1b, Storage Drawers: Forestry Pack:1.7.10-1.1.2b, Storage Drawers: Misc Pack:1.7.10-1.1.2b, Storage Drawers: Natura Pack:1.7.10-1.1.1b, Storage Drawers:1.7.10-1.11.5-gtnh, Super Solar Panel:1.7.10-1.1.1-GT-NH-Mod, SuperTic:1.2.1, TC Inventory Scanning:1.0.11, TC Node Tracker:1.1.2, Tainted Magic:r7.6, TecTech:3.8.3, Thaumcraft Mob Aspects:1.7.x-2B, Thaumcraft NEI Additions:1.1.0.1, Thaumcraft NEI Plugin:@VERSION@, Thaumcraft:4.2.3.5, Thaumic Bases:1.4.22, Thaumic Energistics Core:1.0.0.1, Thaumic Energistics:1.1.3.1, Thaumic Exploration:1.1.74, Thaumic Horizons:1.1.9.17, Thaumic Machina:0.2.1, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:2.5, The Spice of Life - Carrot Edition:2.0.0-carrot-beta-5, The Twilight Forest:2.3.8dev, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.9-GTNH.build15, Tinkers\u0027 Defense:1.2, Tinkers\u0027 Gregworks:1.0.18, Tinkers\u0027 Mechworks:0.2.16.1, TooMuchLoot:4.0.3, ToroHealth Damage Indicators:1.7.10-1.0.0, Translocator:1.1.2.16, Traveller\u0027s Gear:1.16.6, Universal Singularities:1.7.10-8.5a, Utility Worlds:1.0.9d, WAILA Plugins:MC1.7.10-0.2.3.1-7, WR-CBE Addons:1.4.2-GTNH, WR-CBE Core:1.4.2-GTNH, WR-CBE Logic:1.4.2-GTNH, Waila Harvestability:1.1.7-GTNH, Waila:1.5.10, WanionLib:1.7.10-1.8, WarpTheory:1.7.10R1.0g.Custom, What Are We Looking At:1.3.1, Witchery:0.24.1, Witching Gadgets Core:1.2.12-GTNH, Witching Gadgets:1.2.12-GTNH, YAMCore:0.5.78, Ztones:1.7.10, asielib:0.4.9, p455w0rd\u0027s Library:1.0.4",
+  "modNames": "AE2 Stuff:0.5.1.9, AE2 Wireless Crafting Terminal:1.7.10-rv3-1.8.7.4-bigbass-1, AFSU Mod:1.2.3a-Freeza, Advanced Solar Panels:1.7.10-3.5.1, Adventure Backpack:1.7.10-0.9-h14-GTNH, AngerMod - Angry neutral mobs:0.6, AppleCore:1.3.9, Applied Energistics 2 Core:rv3-beta-31, Applied Energistics 2:rv3-beta-31, Aqua Creeper:1.0.1, ArchitectureCraft:1.7.2, Automagy:0.28.2, Avaritia:1.18, Avaritiaddons:1.4b, BC Builders:7.1.23, BC Energy:7.1.23, BC Factory:7.1.23, BC Robotics:7.1.23, BC Silicon:7.1.23, BC Transport:7.1.23, BD Lib:1.9.4.109, Backpack:2.2.0, BartWorks ASM Core:0.0.1, BartWorks Mod Additions:0.5.13.1, BartWorks:0.5.13.1, Baubles:1.0.1.10, BeeBetterAtBees:0.2, Better Achievements:0.1.0, Better Builder\u0027s Wands:0.8.1, Better Loading Screen GT:NH:1.3.23-GTNH, Better Questing Quest Book:2.1.1-1.7.10, Better Questing:3.0.334-GTNH, BiblioCraft:1.11.7, BiblioWoods Biomes O\u0027Plenty Edition:1.9, BiblioWoods Forestry Edition:1.7, BiblioWoods Natura Edition:1.5, Binnie Core:2.0.29.4, Biomes O\u0027 Plenty:2.1.1-GTNH, BlockLimiter. Restict your Blocks:0.52, Blood Arsenal:1.2.1-11, Blood Magic: Alchemical Wizardry:v1.3.3, Botany:2.0.29.4, Brandon\u0027s Core:1.0.0.12, Bug Torch:1.0.2, BuildCraft Compat:7.1.7, BuildCraft Oil Tweak:1.0.3, BuildCraft:7.1.23, Carpenter\u0027s Blocks:3.3.8.1, Catwalks Mod:2.0.4, Chisel Tones:@VERSION@, Chisel:1.7.10-2.9.8-GTNH.8, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.0.7.47, Command Blocks for Better Questing:1, Compact Kinetic Wind and Water Generators:1.7.10-1.0, Computronics:1.6.6, Controlling:1.0.0, CropLoadCore:0.1.4, CroploadCore ASM Core:0.0.1, Crops++:1.3.5.3, Custom Main Menu:1.9.2, Default World Generator:0.1-b13, Draconic Evolution:1.0.2h, DummyCore:1.13, Electro-Magic Tools:1.2.7.8, Ender IO:1.7.10-2.3.1.13_beta.18, Ender Zoo:1.7.10-1.0.18.3, EnderCore:1.7.10-0.2.0.39_beta, EnderStorage:1.4.7.38, Enhanced LootBags:1.0.3, EnhancedPortals:3.0.12, Eternal Singularity:1.7.10-.1.0.3, Extra Bees:2.0.29.4, Extra Cells 2:2.4.3, Extra Trees:2.0.29.4, Extra Utilities:1.2.12, FastCraft:1.25, FindIt:1.0.1, Flood Lights:1.2.8-137, Forbidden Magic:1.7.10-0.575, Forestry for Minecraft:4.2.27.12, Forge Microblocks:1.2.0.347, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.347, ForgeRelocation:0.0.1.4, GT NEI Ore Plugin GT:NH Mod:1.7.10-1.0.7, GT Scanner Mod:1.5.7, GT++ Australia:0.1, GT++ Preloader:0.5-Beta, GT++ Toxic Everglades:0.1, GT++:1.7.05, GT: New Horizons:1.6.46, GTNH-TC-Wands:1.2.1, GTTweaker:1.0, Gadomancy:1.0.7.4, Galactic Greg:1.0.3, Galacticraft Core:3.0.13-GTNH, Galacticraft Planets:3.0.13-GTNH, GalaxySpace:1.1.3, GenDustry:1.6.4.135, Genetics:2.0.29.4, Graviation Suite:2.0.68u, Greg\u0027s SG Craft:1.13.3, GregTech:MC1710, Hardcore Darkness:1.7, Hardcore Ender Expansion:1.8.6, HelpFixer:1.0.7, Hodgepodge:1.4.0, Holo Inventory:2.1.4-beta-GTNH.4, Hunger Overhaul:1.7.10-1.0.2.DEV.80bb6db, I Will Find You:1.5, IC2 Crop Plugin:1.2.1, INpureCore:1.7.10R1.0.0B9, Iguana Tinker Tweaks:1.7.10-2.1.7.4, InGame Info XML:2.8.2.3, IndustrialCraft 2:2.2.828-experimental, Infernal Mobs:1.7.1-GTNH, Inventory Tweaks:1.59-dev-156-af3bc68, Iron Chest Minecarts:1.0.4, Iron Chest:6.0.62.742, Iron Tanks:1.7.10-1.1.19, It\u0027s the little things:0.0.8, JABBA:1.2.2, JourneyMap:5.1.4p2, JourneyMapServer:1.0.5_MC1.7.10, KekzTech:0.4.6, Legacy Catwalk Compat:x.x.x, LootGames:1.0.18, LunatriusCore:1.1.2.21, MCFrames:1.0, Magic Bees:2.5.3-GTNH, Malisis\u0027 Doors:1.7.10-1.13.2, MalisisCore:1.7.10-0.14.3, Mantle:1.7.10-0.3.2.jenkins191, Micdoodle8 Core:, Mine \u0026 Blade Battlegear 2:1.7.10, MineTweaker 3:3.1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Minecraft Multipart Plugin:1.2.0.347, Mod Tweaker 2:0.9.6, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.4.4, MrTJPCore:1.1.0.33, NEI Addons: Applied Energistics 2:1.12.15.41, NEI Addons: Botany:1.12.15.41, NEI Addons: Crafting Tables:1.12.15.41, NEI Addons: Developer Tools:1.12.15.41, NEI Addons: Ex Nihilo:1.12.15.41, NEI Addons: Forestry:1.12.15.41, NEI Addons:1.12.15.41, NEI Integration:1.1.2, Natura:2.3.0, Nature\u0027s Compass:1.3.1, Nether Portal Fix:1.0, NodalMechanics:1.7.10R1.0, Not Enough Items:2.0.4-GTNH, NotEnoughThaumcraftTabs:1.0.2, Nuclear Control 2:2.4.3a, OC Glasses:1.0.46, Open Modular Turrets:2.2.11-238, OpenBlocks:1.6.2, OpenComputers (Core):1.7.5.5.13, OpenComputers:1.7.5.5.13, OpenMods:0.10.1, OpenModsCore:0.10.1, OpenPrinter:0.1.0.132, OpenSecurity:1.0.117, Overloaded Armor Bar:1.7.10-1.0.0, Pam\u0027s Harvest the Nether:1.7.10, Pam\u0027s HarvestCraft:1.0.1, Player API:1.4, Project Blue:1.1.6, ProjectRed Compatibility:4.7.0pre11.52, ProjectRed Core:4.7.0pre11.52, ProjectRed Expansion:4.7.0pre11.52, ProjectRed Exploration:4.7.0pre11.52, ProjectRed Fabrication:4.7.0pre11.52, ProjectRed Illumination:4.7.0pre11.52, ProjectRed Integration:4.7.0pre11.52, ProjectRed Transmission:4.7.0pre11.52, ProjectRed Transportation:4.7.0pre11.52, Railcraft:9.12.2.1, Random Things:2.2.4, ReAuth:3.5.0, Realistic World Gen Alpha:Alpha 1.3.2, RelocationFMP:0.0.1.2, Remote IO:2.4.2, Resource Loader:1.3, Roguelike Dungeons:1.5.0, Sleeping Bag:0.1.1, Special Mobs:GRADLETOKEN_VERSION, SpongeMixins Loader:1.2.0, Standard Expansion:3.0.182-GTNH, Steve\u0027s Addons:0.10.17, Steve\u0027s Carts 2:2.0.0.b17, Steve\u0027s Factory Manager:A92, Storage Drawers: Biomes O\u0027 Plenty Pack:1.7.10-1.1.1b, Storage Drawers: Forestry Pack:1.7.10-1.1.2b, Storage Drawers: Misc Pack:1.7.10-1.1.2b, Storage Drawers: Natura Pack:1.7.10-1.1.1b, Storage Drawers:1.7.10-1.11.5-gtnh, Super Solar Panel:1.7.10-1.1.1-GT-NH-Mod, SuperTic:1.2.1, TC Inventory Scanning:1.0.11, TC Node Tracker:1.1.2, Tainted Magic:r7.6, TecTech:3.8.3, Thaumcraft Mob Aspects:1.7.x-2B, Thaumcraft NEI Additions:1.1.0.1, Thaumcraft NEI Plugin:@VERSION@, Thaumcraft:4.2.3.5, Thaumic Bases:1.4.22, Thaumic Energistics Core:1.0.0.1, Thaumic Energistics:1.1.3.1, Thaumic Exploration:1.1.74, Thaumic Horizons:1.1.9.17, Thaumic Machina:0.2.1, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:2.5, The Spice of Life - Carrot Edition:2.0.0-carrot-beta-5, The Twilight Forest:2.3.8dev, TiC Tooltips:1.2.5, Tinkers\u0027 Construct:1.7.10-1.8.9-GTNH.build15, Tinkers\u0027 Defense:1.2, Tinkers\u0027 Gregworks:1.0.18, Tinkers\u0027 Mechworks:0.2.16.1, TooMuchLoot:4.0.3, ToroHealth Damage Indicators:1.7.10-1.0.0, Translocator:1.1.2.16, Traveller\u0027s Gear:1.16.6, Universal Singularities:1.7.10-8.5a, Utility Worlds:1.0.9d, WAILA Plugins:MC1.7.10-0.2.3.1-7, WR-CBE Addons:1.4.2-GTNH, WR-CBE Core:1.4.2-GTNH, WR-CBE Logic:1.4.2-GTNH, Waila Harvestability:1.1.7-GTNH, Waila:1.5.10, WanionLib:1.7.10-1.8, WarpTheory:1.7.10R1.0g.Custom, What Are We Looking At:1.3.1, Witchery:0.24.1, Witching Gadgets Core:1.2.12-GTNH, Witching Gadgets:1.2.12-GTNH, YAMCore:0.5.78, Ztones:1.7.10, asielib:0.4.9, p455w0rd\u0027s Library:1.0.4",
   "basicColors": [
     {
       "name": " Wood Slab",
@@ -17886,7 +17886,7 @@ var colorpalette={
       "name": "1k Crafting Storage",
       "uid": "appliedenergistics2:tile.BlockCraftingStorage",
       "meta": 0,
-      "color": "#3b3a3a"
+      "color": "#3c4747"
     },
     {
       "name": "256k Crafting Storage",
@@ -17928,19 +17928,19 @@ var colorpalette={
       "name": "A Glimpse of the Future",
       "uid": "ToxicEverglades:dimensionDarkWorld_portal",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "AFSU",
       "uid": "AFSU:AFSU",
       "meta": 0,
-      "color": "#c29fa2"
+      "color": "#bfa9ac"
     },
     {
       "name": "AFSU",
       "uid": "AFSU:AFSU",
       "meta": 1,
-      "color": "#c29fa2"
+      "color": "#bfa9ac"
     },
     {
       "name": "Abandoned Crate",
@@ -18060,7 +18060,7 @@ var colorpalette={
       "name": "Acacia Door",
       "uid": "malisisdoors:door_acacia",
       "meta": 0,
-      "color": "#b66a45"
+      "color": "#a05c3a"
     },
     {
       "name": "Acacia Drawer",
@@ -18481,7 +18481,7 @@ var colorpalette={
       "name": "Acid Hazard Sign Block",
       "uid": "gregtech:gt.blockcasings3",
       "meta": 6,
-      "color": "#8e8847"
+      "color": "#8c8754"
     },
     {
       "name": "Activator Blaze Rail",
@@ -18541,7 +18541,7 @@ var colorpalette={
       "name": "Advanced Alchemical Construct",
       "uid": "Thaumcraft:blockMetalDevice",
       "meta": 3,
-      "color": "#83633d",
+      "color": "#795838",
       "alpha": 0.99607843
     },
     {
@@ -18578,7 +18578,7 @@ var colorpalette={
       "name": "Advanced Crafting Table",
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 1,
-      "color": "#322d32"
+      "color": "#332d32"
     },
     {
       "name": "Advanced Cryogenic Casing",
@@ -18602,7 +18602,7 @@ var colorpalette={
       "name": "Advanced Energy Cluster",
       "uid": "GalaxySpace:storagemoduleT3",
       "meta": 0,
-      "color": "#43344e"
+      "color": "#3e3148"
     },
     {
       "name": "Advanced Energy Relay",
@@ -18641,7 +18641,7 @@ var colorpalette={
       "name": "Advanced Inscriber",
       "uid": "ae2stuff:Inscriber",
       "meta": 0,
-      "color": "#65656c"
+      "color": "#606066"
     },
     {
       "name": "Advanced Inventory Relay",
@@ -18653,7 +18653,7 @@ var colorpalette={
       "name": "Advanced Item Collector",
       "uid": "RandomThings:advancedItemCollector",
       "meta": 0,
-      "color": "#172c28"
+      "color": "#142623"
     },
     {
       "name": "Advanced Machine Casing",
@@ -18665,7 +18665,7 @@ var colorpalette={
       "name": "Advanced Machine Frame",
       "uid": "GalaxySpace:machineframes",
       "meta": 0,
-      "color": "#43344e"
+      "color": "#3e3148"
     },
     {
       "name": "Advanced Miner",
@@ -18683,7 +18683,7 @@ var colorpalette={
       "name": "Advanced Mutatron",
       "uid": "gendustry:MutatronAdv",
       "meta": 0,
-      "color": "#af9d78"
+      "color": "#ac996e"
     },
     {
       "name": "Advanced Node Stabilizer",
@@ -18695,7 +18695,7 @@ var colorpalette={
       "name": "Advanced Oxygen Module",
       "uid": "GalaxySpace:oxstoragemoduleT2",
       "meta": 0,
-      "color": "#43344e"
+      "color": "#3e3148"
     },
     {
       "name": "Advanced Panel Extender",
@@ -18719,7 +18719,7 @@ var colorpalette={
       "name": "Advanced Solar Panel",
       "uid": "GalacticraftCore:tile.solar",
       "meta": 4,
-      "color": "#3146d7"
+      "color": "#3145d7"
     },
     {
       "name": "Advanced Wireless Transceiver",
@@ -18750,7 +18750,7 @@ var colorpalette={
       "name": "Aer Generator",
       "uid": "EMT:EssentiaGenerators",
       "meta": 4,
-      "color": "#7f8080"
+      "color": "#868787"
     },
     {
       "name": "Aer Imbued Fire",
@@ -18928,13 +18928,13 @@ var colorpalette={
       "name": "Air Infused Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 15,
-      "color": "#684459"
+      "color": "#755461"
     },
     {
       "name": "Air Infused Double Compressed Solar Panel",
       "uid": "EMT:EMTSolars2",
       "meta": 0,
-      "color": "#79515d"
+      "color": "#815c66"
     },
     {
       "name": "Air Infused Stone",
@@ -18946,7 +18946,7 @@ var colorpalette={
       "name": "Air Infused Triple Compressed Solar Panel",
       "uid": "EMT:EMTSolars2",
       "meta": 1,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Air Lock Controller",
@@ -18964,7 +18964,7 @@ var colorpalette={
       "name": "Air Lock Seal",
       "uid": "GalacticraftCore:tile.airLockSeal",
       "meta": 0,
-      "color": "#8a8785"
+      "color": "#888684"
     },
     {
       "name": "Alarm",
@@ -18988,7 +18988,7 @@ var colorpalette={
       "name": "Alchemic Chemistry Set",
       "uid": "AWWayofTime:blockWritingTable",
       "meta": 0,
-      "color": "#781313"
+      "color": "#771414"
     },
     {
       "name": "Alchemical Boiler",
@@ -19006,7 +19006,7 @@ var colorpalette={
       "name": "Alchemical Construct",
       "uid": "Thaumcraft:blockMetalDevice",
       "meta": 9,
-      "color": "#423d38"
+      "color": "#413d3a"
     },
     {
       "name": "Alchemical Furnace",
@@ -19024,7 +19024,7 @@ var colorpalette={
       "name": "Alchemy Relay",
       "uid": "AWWayofTime:blockReagentConduit",
       "meta": 0,
-      "color": "#1e1e1e"
+      "color": "#212121"
     },
     {
       "name": "Alder Drawer",
@@ -19048,7 +19048,7 @@ var colorpalette={
       "name": "Alder Leaves",
       "uid": "witchery:witchleaves",
       "meta": 1,
-      "color": "#7a7566"
+      "color": "#9b947e"
     },
     {
       "name": "Alder Planks",
@@ -19157,7 +19157,7 @@ var colorpalette={
       "name": "Alloy Smelter",
       "uid": "EnderIO:blockAlloySmelter",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Alluring Skull",
@@ -19169,8 +19169,8 @@ var colorpalette={
       "name": "Almond",
       "uid": "harvestcraft:pamAlmond",
       "meta": 0,
-      "color": "#579330",
-      "alpha": 0.8980392
+      "color": "#589330",
+      "alpha": 0.972549
     },
     {
       "name": "Almond Sapling",
@@ -19188,7 +19188,7 @@ var colorpalette={
       "name": "Aluminium Block",
       "uid": "GalacticraftCore:tile.gcBlockCore",
       "meta": 11,
-      "color": "#a8b0b8"
+      "color": "#a5adb6"
     },
     {
       "name": "Aluminium Gravel Ore",
@@ -19206,7 +19206,7 @@ var colorpalette={
       "name": "Aluminium Ore",
       "uid": "GalacticraftMars:tile.asteroidsBlock",
       "meta": 3,
-      "color": "#414040"
+      "color": "#3d3c3c"
     },
     {
       "name": "Aluminium Ore",
@@ -19218,13 +19218,13 @@ var colorpalette={
       "name": "Aluminium Oreberry Bush",
       "uid": "TConstruct:ore.berries.two",
       "meta": 8,
-      "color": "#4d5b61"
+      "color": "#64747b"
     },
     {
       "name": "Aluminium Wire",
       "uid": "GalacticraftCore:tile.aluminumWire",
       "meta": 0,
-      "color": "#292a2b"
+      "color": "#2a2b2c"
     },
     {
       "name": "Aluminum Stairs",
@@ -19369,7 +19369,7 @@ var colorpalette={
       "name": "Amaranth Leaves",
       "uid": "Natura:Rare Leaves",
       "meta": 2,
-      "color": "#8d8089"
+      "color": "#8f8b8e"
     },
     {
       "name": "Amaranth Planks",
@@ -19480,7 +19480,7 @@ var colorpalette={
       "name": "Amplified Redcrystal",
       "uid": "Automagy:blockRedcrystalAmp",
       "meta": 0,
-      "color": "#a00c06"
+      "color": "#a10c06"
     },
     {
       "name": "Analog Signal Controller Box",
@@ -19744,91 +19744,91 @@ var colorpalette={
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 1,
-      "color": "#b30000"
+      "color": "#ab0000"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 2,
-      "color": "#6a9c00"
+      "color": "#659500"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 3,
-      "color": "#874300"
+      "color": "#814000"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 4,
-      "color": "#0029c9"
+      "color": "#0027c0"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 5,
-      "color": "#7500d3"
+      "color": "#7000ca"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 6,
-      "color": "#0084ca"
+      "color": "#007ec1"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 7,
-      "color": "#a7a7a7"
+      "color": "#a0a0a0"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 8,
-      "color": "#595959"
+      "color": "#555555"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 9,
-      "color": "#e0648c"
+      "color": "#d65f86"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 10,
-      "color": "#72c900"
+      "color": "#6dc000"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 11,
-      "color": "#d4e01e"
+      "color": "#cbd61d"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 12,
-      "color": "#3882e0"
+      "color": "#357cd6"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 13,
-      "color": "#ab21e0"
+      "color": "#a31fd6"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 14,
-      "color": "#e06c0a"
+      "color": "#d6670a"
     },
     {
       "name": "Anti Block",
       "uid": "chisel:antiBlock",
       "meta": 15,
-      "color": "#e0e0e0"
+      "color": "#d6d6d6"
     },
     {
       "name": "Anti-builder",
@@ -19882,14 +19882,14 @@ var colorpalette={
       "name": "Apple",
       "uid": "harvestcraft:pamApple",
       "meta": 0,
-      "color": "#1f3d10",
-      "alpha": 0.7058824
+      "color": "#203e11",
+      "alpha": 0.7411765
     },
     {
       "name": "Apple Leaves",
       "uid": "BiomesOPlenty:appleLeaves",
       "meta": 0,
-      "color": "#586319"
+      "color": "#788722"
     },
     {
       "name": "Apple Sapling",
@@ -19973,8 +19973,8 @@ var colorpalette={
       "name": "Apricot",
       "uid": "harvestcraft:pamApricot",
       "meta": 0,
-      "color": "#ad9e77",
-      "alpha": 0.94509804
+      "color": "#b5a47b",
+      "alpha": 0.99215686
     },
     {
       "name": "Apricot Sapling",
@@ -19992,13 +19992,13 @@ var colorpalette={
       "name": "Aquatic Casing",
       "uid": "miscutils:gtplusplus.blockcasings.3",
       "meta": 0,
-      "color": "#357d44"
+      "color": "#2c723e"
     },
     {
       "name": "Arbor Generator",
       "uid": "EMT:EssentiaGenerators",
       "meta": 3,
-      "color": "#7f8080"
+      "color": "#868787"
     },
     {
       "name": "Arborist\u0027s Chest",
@@ -20269,13 +20269,13 @@ var colorpalette={
       "name": "Assembly Machine",
       "uid": "GalaxySpace:assemblymachine",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Assembly Table",
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 0,
-      "color": "#352c33"
+      "color": "#382c33"
     },
     {
       "name": "Asteroid Rock",
@@ -20299,7 +20299,7 @@ var colorpalette={
       "name": "Asteroid Rock",
       "uid": "GalacticraftMars:tile.asteroidsBlock",
       "meta": 4,
-      "color": "#2c2c2d"
+      "color": "#2c2c2c"
     },
     {
       "name": "Astral Titanium Frame Box",
@@ -20317,7 +20317,7 @@ var colorpalette={
       "name": "Attractor Obelisk",
       "uid": "EnderIO:blockAttractor",
       "meta": 0,
-      "color": "#4a4541"
+      "color": "#494440"
     },
     {
       "name": "Audio Cable",
@@ -20341,7 +20341,7 @@ var colorpalette={
       "name": "Auram Generator",
       "uid": "EMT:EssentiaGenerators",
       "meta": 2,
-      "color": "#7f8080"
+      "color": "#868787"
     },
     {
       "name": "Aurelia",
@@ -20400,7 +20400,7 @@ var colorpalette={
       "name": "Auto Chisel",
       "uid": "chisel:autoChisel",
       "meta": 0,
-      "color": "#565455"
+      "color": "#5a5859"
     },
     {
       "name": "Auto Crafting Bench",
@@ -20412,7 +20412,7 @@ var colorpalette={
       "name": "Auto Enchantment Table",
       "uid": "OpenBlocks:autoenchantmenttable",
       "meta": 0,
-      "color": "#2c4580"
+      "color": "#2c4581"
     },
     {
       "name": "Auto Workbench",
@@ -20466,20 +20466,20 @@ var colorpalette={
       "name": "Average Counter",
       "uid": "IC2NuclearControl:blockNuclearControlMain",
       "meta": 7,
-      "color": "#929292"
+      "color": "#909090"
     },
     {
       "name": "Aversion Obelisk",
       "uid": "EnderIO:blockSpawnGuard",
       "meta": 0,
-      "color": "#4a4541"
+      "color": "#494440"
     },
     {
       "name": "Avocado",
       "uid": "harvestcraft:pamAvocado",
       "meta": 0,
-      "color": "#5a6831",
-      "alpha": 0.9490196
+      "color": "#5c6b32",
+      "alpha": 0.972549
     },
     {
       "name": "Avocado Sapling",
@@ -20793,7 +20793,7 @@ var colorpalette={
       "name": "Bamboo Leaves",
       "uid": "BiomesOPlenty:leaves1",
       "meta": 0,
-      "color": "#604b14"
+      "color": "#83661c"
     },
     {
       "name": "Bamboo Sapling",
@@ -20811,8 +20811,8 @@ var colorpalette={
       "name": "Banana",
       "uid": "harvestcraft:pamBanana",
       "meta": 0,
-      "color": "#c6d78e",
-      "alpha": 0.8862745
+      "color": "#c4d797",
+      "alpha": 0.98039216
     },
     {
       "name": "Banana Sapling",
@@ -21040,7 +21040,7 @@ var colorpalette={
       "name": "Barnarda C Leaves Log",
       "uid": "GalaxySpace:barnardaCleaves",
       "meta": 0,
-      "color": "#72279f"
+      "color": "#9840c1"
     },
     {
       "name": "Barnarda C Log",
@@ -21082,7 +21082,7 @@ var colorpalette={
       "name": "Barrier",
       "uid": "witchery:barrier",
       "meta": 0,
-      "color": "#6f0c9f",
+      "color": "#57007f",
       "alpha": 0.4
     },
     {
@@ -21155,55 +21155,55 @@ var colorpalette={
       "name": "Base Inventory Expander (Tier 2)",
       "uid": "openmodularturrets:expanderInvTierTwo",
       "meta": 0,
-      "color": "#e4e3e2"
+      "color": "#e2e1e1"
     },
     {
       "name": "Base Inventory Expander (Tier 3)",
       "uid": "openmodularturrets:expanderInvTierThree",
       "meta": 0,
-      "color": "#e6e4e0"
+      "color": "#e4e3df"
     },
     {
       "name": "Base Inventory Expander (Tier 4)",
       "uid": "openmodularturrets:expanderInvTierFour",
       "meta": 0,
-      "color": "#e3e6e6"
+      "color": "#e2e5e4"
     },
     {
       "name": "Base Inventory Expander (Tier 5)",
       "uid": "openmodularturrets:expanderInvTierFive",
       "meta": 0,
-      "color": "#e0dfdf"
+      "color": "#dfdede"
     },
     {
       "name": "Base Power Expander (Tier 1)",
       "uid": "openmodularturrets:expanderPowerTierOne",
       "meta": 0,
-      "color": "#e4e3e1"
+      "color": "#e2e1e0"
     },
     {
       "name": "Base Power Expander (Tier 2)",
       "uid": "openmodularturrets:expanderPowerTierTwo",
       "meta": 0,
-      "color": "#e4e4e4"
+      "color": "#e2e2e2"
     },
     {
       "name": "Base Power Expander (Tier 3)",
       "uid": "openmodularturrets:expanderPowerTierThree",
       "meta": 0,
-      "color": "#e8e6e1"
+      "color": "#e5e4df"
     },
     {
       "name": "Base Power Expander (Tier 4)",
       "uid": "openmodularturrets:expanderPowerTierFour",
       "meta": 0,
-      "color": "#e4e9e8"
+      "color": "#e2e6e6"
     },
     {
       "name": "Base Power Expander (Tier 5)",
       "uid": "openmodularturrets:expanderPowerTierFive",
       "meta": 0,
-      "color": "#dededf"
+      "color": "#ddddde"
     },
     {
       "name": "Basic Capacitor Bank",
@@ -21215,25 +21215,25 @@ var colorpalette={
       "name": "Basic Essence Altar",
       "uid": "HardcoreEnderExpansion:essence_altar",
       "meta": 0,
-      "color": "#823231"
+      "color": "#824241"
     },
     {
       "name": "Basic Essence Altar",
       "uid": "HardcoreEnderExpansion:essence_altar",
       "meta": 1,
-      "color": "#872a37"
+      "color": "#8a344d"
     },
     {
       "name": "Basic Essence Altar",
       "uid": "HardcoreEnderExpansion:essence_altar",
       "meta": 2,
-      "color": "#8c3426"
+      "color": "#93452e"
     },
     {
       "name": "Basic Essence Altar",
       "uid": "HardcoreEnderExpansion:essence_altar",
       "meta": 3,
-      "color": "#74222d"
+      "color": "#68253b"
     },
     {
       "name": "Basic Machine Casing",
@@ -21245,13 +21245,13 @@ var colorpalette={
       "name": "Basic Solar Panel",
       "uid": "GalacticraftCore:tile.solar",
       "meta": 0,
-      "color": "#3145dd"
+      "color": "#3244da"
     },
     {
       "name": "Basic Turret Base Crank",
       "uid": "openmodularturrets:leverBlock",
       "meta": 0,
-      "color": "#525258"
+      "color": "#535156"
     },
     {
       "name": "BatBox",
@@ -21478,7 +21478,7 @@ var colorpalette={
       "name": "Bedrock Portal",
       "uid": "ThaumicTinkerer:bedrockPortal",
       "meta": 0,
-      "color": "#303030"
+      "color": "#282828"
     },
     {
       "name": "Bedrockium Drum",
@@ -21581,7 +21581,7 @@ var colorpalette={
       "name": "Bio Hazard Sign Block",
       "uid": "gregtech:gt.blockcasings3",
       "meta": 3,
-      "color": "#8b8649"
+      "color": "#8a8555"
     },
     {
       "name": "Biocomposite Collector",
@@ -21669,7 +21669,7 @@ var colorpalette={
       "name": "Birch Door",
       "uid": "malisisdoors:door_birch",
       "meta": 0,
-      "color": "#d6cd9e"
+      "color": "#bbb183"
     },
     {
       "name": "Birch Drawer",
@@ -22055,13 +22055,13 @@ var colorpalette={
       "name": "Black Curtain",
       "uid": "malisisdoors:curtain_black",
       "meta": 0,
-      "color": "#1d1d1d"
+      "color": "#1f1f1f"
     },
     {
       "name": "Black Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 15,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Black Future Glass",
@@ -22169,7 +22169,7 @@ var colorpalette={
       "name": "Black Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 15,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Black Typewriter",
@@ -22193,7 +22193,7 @@ var colorpalette={
       "name": "Blackberry Bush",
       "uid": "Natura:BerryBush",
       "meta": 14,
-      "color": "#59781a"
+      "color": "#5d7226"
     },
     {
       "name": "Blackberry Crop",
@@ -22303,7 +22303,7 @@ var colorpalette={
       "name": "Blightberry Bush",
       "uid": "Natura:NetherBerryBush",
       "meta": 12,
-      "color": "#a15571"
+      "color": "#9e6f78"
     },
     {
       "name": "Block Breaker",
@@ -24812,14 +24812,14 @@ var colorpalette={
       "name": "Blood",
       "uid": "TConstruct:liquid.blood",
       "meta": 0,
-      "color": "#620000",
+      "color": "#610000",
       "alpha": 0.3
     },
     {
       "name": "Blood Altar",
       "uid": "AWWayofTime:Altar",
       "meta": 0,
-      "color": "#710504"
+      "color": "#6d0402"
     },
     {
       "name": "Blood Burned String",
@@ -25290,13 +25290,13 @@ var colorpalette={
       "name": "Blue Curtain",
       "uid": "malisisdoors:curtain_blue",
       "meta": 0,
-      "color": "#222562"
+      "color": "#232767"
     },
     {
       "name": "Blue Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 11,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Blue Force Field",
@@ -25429,7 +25429,7 @@ var colorpalette={
       "name": "Blue Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 11,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Blue Typewriter",
@@ -25465,7 +25465,7 @@ var colorpalette={
       "name": "Blueberry Bush",
       "uid": "Natura:BerryBush",
       "meta": 13,
-      "color": "#80a355"
+      "color": "#83a16e"
     },
     {
       "name": "Blueberry Crop",
@@ -25639,13 +25639,13 @@ var colorpalette={
       "name": "Border Stone",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 4,
-      "color": "#433a39"
+      "color": "#4a5555"
     },
     {
       "name": "Border Stone (Alternate)",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 7,
-      "color": "#4e4444"
+      "color": "#495555"
     },
     {
       "name": "Bordered Quartz",
@@ -25714,7 +25714,7 @@ var colorpalette={
       "name": "Brazier",
       "uid": "witchery:brazier",
       "meta": 0,
-      "color": "#433e39"
+      "color": "#3e362e"
     },
     {
       "name": "Brazier of Warding",
@@ -25763,7 +25763,8 @@ var colorpalette={
       "name": "Brick Block",
       "uid": "chisel:brickCustom",
       "meta": 5,
-      "color": "#525757"
+      "color": "#455151",
+      "alpha": 0.99607843
     },
     {
       "name": "Brick Block",
@@ -25806,13 +25807,6 @@ var colorpalette={
       "uid": "harvestcraft:pambroccoliCrop",
       "meta": 0,
       "color": "#5c812a"
-    },
-    {
-      "name": "Broken Dungeon Light",
-      "uid": "lootgames:LootGamesDungeonLight",
-      "meta": 0,
-      "color": "#70784e",
-      "alpha": 0.4
     },
     {
       "name": "Broken Dungeon Light",
@@ -25892,13 +25886,13 @@ var colorpalette={
       "name": "Brown Curtain",
       "uid": "malisisdoors:curtain_brown",
       "meta": 0,
-      "color": "#532f1b"
+      "color": "#57321c"
     },
     {
       "name": "Brown Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 12,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Brown Future Glass",
@@ -25982,7 +25976,7 @@ var colorpalette={
       "name": "Brown Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 12,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Brown Typewriter",
@@ -26091,7 +26085,7 @@ var colorpalette={
       "name": "Burnt Quartz",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 2,
-      "color": "#413737"
+      "color": "#4a5555"
     },
     {
       "name": "Burnt Thorns",
@@ -26290,7 +26284,7 @@ var colorpalette={
       "name": "Candelabra",
       "uid": "witchery:candelabra",
       "meta": 0,
-      "color": "#6e6b5c"
+      "color": "#89836f"
     },
     {
       "name": "Candle Stump",
@@ -26362,7 +26356,7 @@ var colorpalette={
       "name": "Cargo Loader",
       "uid": "GalacticraftCore:tile.cargo",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Cargo Manager",
@@ -26374,7 +26368,7 @@ var colorpalette={
       "name": "Cargo Unloader",
       "uid": "GalacticraftCore:tile.cargo",
       "meta": 4,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Carminite Builder",
@@ -26524,7 +26518,7 @@ var colorpalette={
       "name": "Carriage Door",
       "uid": "malisisdoors:carriage_door",
       "meta": 0,
-      "color": "#cf9969"
+      "color": "#ce9d74"
     },
     {
       "name": "Carrot Cake",
@@ -26554,21 +26548,21 @@ var colorpalette={
       "name": "Carved \u0027Eminence\u0027 Stone",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 14,
-      "color": "#403736"
+      "color": "#495555"
     },
     {
       "name": "Carved Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 3,
-      "color": "#463a39",
+      "color": "#495655",
       "alpha": 0.4
     },
     {
       "name": "Cashew",
       "uid": "harvestcraft:pamCashew",
       "meta": 0,
-      "color": "#839f51",
-      "alpha": 0.92156863
+      "color": "#87a453",
+      "alpha": 0.99215686
     },
     {
       "name": "Cashew Sapling",
@@ -26646,7 +26640,7 @@ var colorpalette={
       "name": "Cavernous Vines",
       "uid": "GalacticraftMars:tile.cavernVines",
       "meta": 0,
-      "color": "#0d441f"
+      "color": "#114923"
     },
     {
       "name": "Cedar Wood Planks",
@@ -26713,7 +26707,7 @@ var colorpalette={
       "name": "Cell Workbench",
       "uid": "appliedenergistics2:tile.BlockCellWorkbench",
       "meta": 0,
-      "color": "#3c3838"
+      "color": "#3c4847"
     },
     {
       "name": "Centrifuge",
@@ -27656,55 +27650,55 @@ var colorpalette={
       "name": "Certus Quartz Block",
       "uid": "appliedenergistics2:tile.BlockQuartz",
       "meta": 0,
-      "color": "#433a3a"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Ore",
       "uid": "appliedenergistics2:tile.OreQuartz",
       "meta": 0,
-      "color": "#3a3737"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Pillar",
       "uid": "appliedenergistics2:tile.BlockQuartzPillar",
       "meta": 0,
-      "color": "#433736"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Pillar Slabs",
       "uid": "appliedenergistics2:tile.QuartzPillarSlabBlock",
       "meta": 0,
-      "color": "#433736"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Pillar Slabs",
       "uid": "appliedenergistics2:tile.QuartzPillarSlabBlock.double",
       "meta": 0,
-      "color": "#433736"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Pillar Stairs",
       "uid": "appliedenergistics2:tile.QuartzPillarStairBlock",
       "meta": 0,
-      "color": "#433736"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Slabs",
       "uid": "appliedenergistics2:tile.QuartzSlabBlock",
       "meta": 0,
-      "color": "#433a3a"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Slabs",
       "uid": "appliedenergistics2:tile.QuartzSlabBlock.double",
       "meta": 0,
-      "color": "#433a3a"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Stairs",
       "uid": "appliedenergistics2:tile.QuartzStairBlock",
       "meta": 0,
-      "color": "#433a3a"
+      "color": "#3c4747"
     },
     {
       "name": "Certus Quartz Tank",
@@ -27717,7 +27711,7 @@ var colorpalette={
       "name": "Chalice",
       "uid": "witchery:chalice",
       "meta": 0,
-      "color": "#c5a856"
+      "color": "#c4ae57"
     },
     {
       "name": "Chandelier",
@@ -27753,7 +27747,7 @@ var colorpalette={
       "name": "Charged Certus Quartz Ore",
       "uid": "appliedenergistics2:tile.OreQuartzCharged",
       "meta": 0,
-      "color": "#383535"
+      "color": "#3c4747"
     },
     {
       "name": "Charged Draconium Block",
@@ -27765,7 +27759,7 @@ var colorpalette={
       "name": "Charged Quartz Fixture",
       "uid": "appliedenergistics2:tile.BlockQuartzTorch",
       "meta": 0,
-      "color": "#443535"
+      "color": "#3c4747"
     },
     {
       "name": "Charger",
@@ -27777,7 +27771,7 @@ var colorpalette={
       "name": "Charger",
       "uid": "appliedenergistics2:tile.BlockCharger",
       "meta": 0,
-      "color": "#383636"
+      "color": "#3c4847"
     },
     {
       "name": "Charging Bench",
@@ -27789,7 +27783,7 @@ var colorpalette={
       "name": "Charging Table",
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 3,
-      "color": "#2d262d"
+      "color": "#2e272e"
     },
     {
       "name": "Chat Box",
@@ -28420,25 +28414,25 @@ var colorpalette={
       "name": "Chiseled Certus Quartz Block",
       "uid": "appliedenergistics2:tile.BlockQuartzChiseled",
       "meta": 0,
-      "color": "#373636"
+      "color": "#3c4747"
     },
     {
       "name": "Chiseled Certus Quartz Slabs",
       "uid": "appliedenergistics2:tile.ChiseledQuartzSlabBlock",
       "meta": 0,
-      "color": "#373636"
+      "color": "#3c4747"
     },
     {
       "name": "Chiseled Certus Quartz Slabs",
       "uid": "appliedenergistics2:tile.ChiseledQuartzSlabBlock.double",
       "meta": 0,
-      "color": "#373636"
+      "color": "#3c4747"
     },
     {
       "name": "Chiseled Certus Quartz Stairs",
       "uid": "appliedenergistics2:tile.ChiseledQuartzStairBlock",
       "meta": 0,
-      "color": "#373636"
+      "color": "#3c4747"
     },
     {
       "name": "Chiseled Dark Concrete",
@@ -28661,13 +28655,13 @@ var colorpalette={
       "name": "Circuit Fabricator",
       "uid": "GalacticraftCore:tile.machine2",
       "meta": 4,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Circuit Programmer",
       "uid": "miscutils:blockCircuitProgrammer",
       "meta": 0,
-      "color": "#38372e"
+      "color": "#37362e"
     },
     {
       "name": "Citrus Bookcase",
@@ -28903,7 +28897,7 @@ var colorpalette={
       "name": "Coal Generator",
       "uid": "GalacticraftCore:tile.machine",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Coal Ore",
@@ -30456,7 +30450,7 @@ var colorpalette={
       "name": "Combustion Generator",
       "uid": "EnderIO:blockCombustionGenerator",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Command Block",
@@ -30474,7 +30468,7 @@ var colorpalette={
       "name": "Communications Dish",
       "uid": "GalacticraftCore:tile.dish",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Compact Acacia Drawers 1x2",
@@ -31476,7 +31470,7 @@ var colorpalette={
       "name": "Compacted Master Ritual Stone",
       "uid": "BloodArsenal:compacted_mrs",
       "meta": 0,
-      "color": "#393737"
+      "color": "#3e3b3b"
     },
     {
       "name": "Compound Recharge Focus",
@@ -31494,7 +31488,7 @@ var colorpalette={
       "name": "Compressed Cobblestone",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 0,
-      "color": "#626262"
+      "color": "#616161"
     },
     {
       "name": "Compressed Crafting Table",
@@ -31557,19 +31551,19 @@ var colorpalette={
       "name": "Compressed Sand",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 14,
-      "color": "#aea77f"
+      "color": "#aca67e"
     },
     {
       "name": "Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 0,
-      "color": "#684459"
+      "color": "#755461"
     },
     {
       "name": "Compressor",
       "uid": "GalacticraftCore:tile.machine",
       "meta": 12,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Compressor",
@@ -31771,7 +31765,7 @@ var colorpalette={
       "name": "Containment Casing",
       "uid": "miscutils:gtplusplus.blockcasings.3",
       "meta": 15,
-      "color": "#003f76"
+      "color": "#003f75"
     },
     {
       "name": "Containment Field Generator",
@@ -31789,13 +31783,13 @@ var colorpalette={
       "name": "Containment Frame",
       "uid": "Australia:blockAustraliaPortalFrame",
       "meta": 0,
-      "color": "#1a3059"
+      "color": "#122652"
     },
     {
       "name": "Containment Frame",
       "uid": "ToxicEverglades:blockDarkWorldPortalFrame",
       "meta": 0,
-      "color": "#1a3059"
+      "color": "#122652"
     },
     {
       "name": "Controller Slave",
@@ -31807,7 +31801,7 @@ var colorpalette={
       "name": "Converter Surface",
       "uid": "GalaxySpace:convertersurface",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Conveyor Belt",
@@ -31825,14 +31819,14 @@ var colorpalette={
       "name": "Coolant",
       "uid": "IC2:fluidCoolant",
       "meta": 0,
-      "color": "#135869",
+      "color": "#135969",
       "alpha": 0.3
     },
     {
       "name": "Copper Block",
       "uid": "GalacticraftCore:tile.gcBlockCore",
       "meta": 9,
-      "color": "#aa7b58"
+      "color": "#a67957"
     },
     {
       "name": "Copper Block",
@@ -31922,7 +31916,7 @@ var colorpalette={
       "name": "Copper Oreberry Bush",
       "uid": "TConstruct:ore.berries.one",
       "meta": 10,
-      "color": "#643f1b"
+      "color": "#835325"
     },
     {
       "name": "Copper Tank",
@@ -31982,14 +31976,14 @@ var colorpalette={
     {
       "name": "Cracked Dungeon Ceiling",
       "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 1,
-      "color": "#405040"
-    },
-    {
-      "name": "Cracked Dungeon Ceiling",
-      "uid": "lootgames:LootGamesDungeonWall",
       "meta": 4,
       "color": "#263226"
+    },
+    {
+      "name": "Cracked Dungeon Floor",
+      "uid": "lootgames:LootGamesDungeonWall",
+      "meta": 2,
+      "color": "#536253"
     },
     {
       "name": "Cracked Dungeon Floor",
@@ -32073,7 +32067,7 @@ var colorpalette={
       "name": "Crafter",
       "uid": "EnderIO:blockCrafter",
       "meta": 0,
-      "color": "#424c4c"
+      "color": "#444f4f"
     },
     {
       "name": "Crafting Co-Processing Unit",
@@ -32091,7 +32085,7 @@ var colorpalette={
       "name": "Crafting Monitor",
       "uid": "appliedenergistics2:tile.BlockCraftingMonitor",
       "meta": 0,
-      "color": "#413a3a"
+      "color": "#3c4747"
     },
     {
       "name": "Crafting Station",
@@ -32193,7 +32187,7 @@ var colorpalette={
       "name": "Crafting Unit",
       "uid": "appliedenergistics2:tile.BlockCraftingUnit",
       "meta": 0,
-      "color": "#413a3a"
+      "color": "#3c4747"
     },
     {
       "name": "Crag Rock",
@@ -32319,7 +32313,7 @@ var colorpalette={
       "name": "Creative Energy Cell",
       "uid": "appliedenergistics2:tile.BlockCreativeEnergyCell",
       "meta": 0,
-      "color": "#383838"
+      "color": "#3c4747"
     },
     {
       "name": "Creative Engine",
@@ -32337,7 +32331,7 @@ var colorpalette={
       "name": "Creative Player Interface",
       "uid": "RandomThings:creativePlayerInterface",
       "meta": 0,
-      "color": "#4f0b4a"
+      "color": "#4a0845"
     },
     {
       "name": "Creative Supplier",
@@ -32447,7 +32441,7 @@ var colorpalette={
       "name": "Crusted Stone",
       "uid": "Thaumcraft:blockCosmeticSolid",
       "meta": 14,
-      "color": "#63583f"
+      "color": "#645940"
     },
     {
       "name": "Crusted Taint",
@@ -32477,7 +32471,7 @@ var colorpalette={
       "name": "Cryogenic Chamber",
       "uid": "GalacticraftMars:tile.marsMachine",
       "meta": 4,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Cryolite Ore",
@@ -32489,7 +32483,7 @@ var colorpalette={
       "name": "Crystal Ball",
       "uid": "witchery:crystalball",
       "meta": 0,
-      "color": "#3ec2ce"
+      "color": "#4fcfc1"
     },
     {
       "name": "Crystal Belljar",
@@ -32520,13 +32514,13 @@ var colorpalette={
       "name": "Crystal Growth Accelerator",
       "uid": "appliedenergistics2:tile.BlockQuartzGrowthAccelerator",
       "meta": 0,
-      "color": "#443b3b"
+      "color": "#3c4747"
     },
     {
       "name": "Crystal Growth Chamber",
       "uid": "ae2stuff:Grower",
       "meta": 0,
-      "color": "#424243"
+      "color": "#3c3c3d"
     },
     {
       "name": "Crystal Matrix",
@@ -32642,13 +32636,13 @@ var colorpalette={
       "name": "Cyan Curtain",
       "uid": "malisisdoors:curtain_cyan",
       "meta": 0,
-      "color": "#356277"
+      "color": "#36677e"
     },
     {
       "name": "Cyan Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 9,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Cyan Future Glass",
@@ -32732,7 +32726,7 @@ var colorpalette={
       "name": "Cyan Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 9,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Cyan Typewriter",
@@ -32822,7 +32816,7 @@ var colorpalette={
       "name": "DNA Extractor",
       "uid": "gendustry:Extractor",
       "meta": 0,
-      "color": "#af997b"
+      "color": "#aa916e"
     },
     {
       "name": "Dandelion",
@@ -32918,14 +32912,14 @@ var colorpalette={
       "name": "Dark Ethereal Glass",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 2,
-      "color": "#403d3d",
+      "color": "#495554",
       "alpha": 0.4
     },
     {
       "name": "Dark Ethereal Glass (Inverted)",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 5,
-      "color": "#453636",
+      "color": "#4a5555",
       "alpha": 0.4
     },
     {
@@ -32951,7 +32945,7 @@ var colorpalette={
       "name": "Dark Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 10,
-      "color": "#4c3c3c",
+      "color": "#495555",
       "alpha": 0.4
     },
     {
@@ -32982,7 +32976,7 @@ var colorpalette={
       "name": "Dark Leaves",
       "uid": "BiomesOPlenty:leaves1",
       "meta": 2,
-      "color": "#415d7b"
+      "color": "#4d6f93"
     },
     {
       "name": "Dark Map Frame",
@@ -33024,7 +33018,7 @@ var colorpalette={
       "name": "Dark Oak Door",
       "uid": "malisisdoors:door_dark_oak",
       "meta": 0,
-      "color": "#4f3823"
+      "color": "#432f1d"
     },
     {
       "name": "Dark Oak Drawer",
@@ -33506,7 +33500,7 @@ var colorpalette={
       "name": "Darkwood Leaves",
       "uid": "Natura:Dark Leaves",
       "meta": 2,
-      "color": "#252832"
+      "color": "#363a4a"
     },
     {
       "name": "Darkwood Leaves",
@@ -33752,61 +33746,61 @@ var colorpalette={
       "name": "Decorate Adamantite Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 1,
-      "color": "#878e71"
+      "color": "#899073"
     },
     {
       "name": "Decorate Cobalt Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 2,
-      "color": "#788c8c"
+      "color": "#7a8e8e"
     },
     {
       "name": "Decorate Copper Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 9,
-      "color": "#99775e"
+      "color": "#9b7960"
     },
     {
       "name": "Decorate Lead Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 0,
-      "color": "#737787"
+      "color": "#757989"
     },
     {
       "name": "Decorate Magnesium Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 3,
-      "color": "#8b7f88"
+      "color": "#8d818b"
     },
     {
       "name": "Decorate Mithril Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 4,
-      "color": "#9e7495"
+      "color": "#a17698"
     },
     {
       "name": "Decorate Nickel Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 5,
-      "color": "#908e7c"
+      "color": "#92907e"
     },
     {
       "name": "Decorate Oriharukon Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 6,
-      "color": "#7c908c"
+      "color": "#7e928e"
     },
     {
       "name": "Decorate Platinum Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 7,
-      "color": "#92976e"
+      "color": "#959970"
     },
     {
       "name": "Decorate Wolframium Block",
       "uid": "GalaxySpace:metalsblock",
       "meta": 8,
-      "color": "#9c9c9c"
+      "color": "#9e9e9e"
     },
     {
       "name": "Decorative Mazestone Brick",
@@ -33818,7 +33812,7 @@ var colorpalette={
       "name": "Deep Crystal",
       "uid": "ThaumicHorizons:crystalDeep",
       "meta": 0,
-      "color": "#34b7ee",
+      "color": "#3499ee",
       "alpha": 0.4
     },
     {
@@ -33861,7 +33855,7 @@ var colorpalette={
       "name": "Demon Heart",
       "uid": "witchery:demonheart",
       "meta": 0,
-      "color": "#9e2d2b"
+      "color": "#9f2f2d"
     },
     {
       "name": "Demon Portal",
@@ -33916,7 +33910,7 @@ var colorpalette={
       "name": "Dense Redcrystal",
       "uid": "Automagy:blockRedcrystalDense",
       "meta": 0,
-      "color": "#3d1e08"
+      "color": "#3d1e09"
     },
     {
       "name": "Desert Acacia Wood Slab",
@@ -34187,7 +34181,8 @@ var colorpalette={
       "name": "Diamond Block",
       "uid": "chisel:diamond_block",
       "meta": 3,
-      "color": "#454444"
+      "color": "#455151",
+      "alpha": 0.99607843
     },
     {
       "name": "Diamond Block",
@@ -34326,7 +34321,7 @@ var colorpalette={
       "name": "Dim Redcrystal",
       "uid": "Automagy:blockRedcrystalDim",
       "meta": 0,
-      "color": "#4d151c"
+      "color": "#4d161c"
     },
     {
       "name": "Dimensional Bridge Generator",
@@ -34350,19 +34345,19 @@ var colorpalette={
       "name": "Dimensional Lure",
       "uid": "Automagy:blockDimensionLure",
       "meta": 0,
-      "color": "#161023"
+      "color": "#181124"
     },
     {
       "name": "Dimensional Transceiver",
       "uid": "EnderIO:blockTransceiver",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Dimensional Transceiver (Deprecated)",
       "uid": "EnderIO:blockHyperCube",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "Dinner Plate",
@@ -34548,7 +34543,7 @@ var colorpalette={
       "name": "DirtChest 9000!",
       "uid": "IronChest:BlockIronChest",
       "meta": 7,
-      "color": "#5f4832"
+      "color": "#614a33"
     },
     {
       "name": "Disassembler",
@@ -34610,7 +34605,7 @@ var colorpalette={
       "name": "Disposable Item Turret",
       "uid": "openmodularturrets:disposeItemTurret",
       "meta": 0,
-      "color": "#cdcdcc",
+      "color": "#d9d8d8",
       "alpha": 0.4
     },
     {
@@ -34623,7 +34618,7 @@ var colorpalette={
       "name": "Distillation Pattern Encoder",
       "uid": "thaumicenergistics:thaumicenergistics.block.distillation.encoder",
       "meta": 0,
-      "color": "#848180"
+      "color": "#7e7b79"
     },
     {
       "name": "Distilled Water",
@@ -34636,13 +34631,13 @@ var colorpalette={
       "name": "Distillery",
       "uid": "witchery:distilleryburning",
       "meta": 0,
-      "color": "#514843"
+      "color": "#584e47"
     },
     {
       "name": "Distillery",
       "uid": "witchery:distilleryidle",
       "meta": 0,
-      "color": "#514843"
+      "color": "#584e47"
     },
     {
       "name": "Distortion Flame",
@@ -34684,7 +34679,7 @@ var colorpalette={
       "name": "Double Compressed Cobblestone",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 1,
-      "color": "#505051"
+      "color": "#515151"
     },
     {
       "name": "Double Compressed Crafting Table",
@@ -34696,13 +34691,13 @@ var colorpalette={
       "name": "Double Compressed Dirt",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 9,
-      "color": "#573e2c"
+      "color": "#583f2c"
     },
     {
       "name": "Double Compressed Gravel",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 13,
-      "color": "#535150"
+      "color": "#545251"
     },
     {
       "name": "Double Compressed Obsidian (81)",
@@ -34714,13 +34709,13 @@ var colorpalette={
       "name": "Double Compressed Sand",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 15,
-      "color": "#8f8a69"
+      "color": "#908b6a"
     },
     {
       "name": "Double Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 1,
-      "color": "#79515d"
+      "color": "#815c66"
     },
     {
       "name": "Double Sided Cable Camouflage",
@@ -34768,8 +34763,8 @@ var colorpalette={
       "name": "Dragonfruit",
       "uid": "harvestcraft:pamDragonfruit",
       "meta": 0,
-      "color": "#9bbd6e",
-      "alpha": 0.84705883
+      "color": "#9cbe70",
+      "alpha": 0.8666667
     },
     {
       "name": "Dragonfruit Sapling",
@@ -34964,10 +34959,17 @@ var colorpalette={
       "color": "#91a36f"
     },
     {
-      "name": "Dungeon Floor",
+      "name": "Dungeon Ceiling",
       "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 2,
-      "color": "#536253"
+      "meta": 1,
+      "color": "#405040"
+    },
+    {
+      "name": "Dungeon Light",
+      "uid": "lootgames:LootGamesDungeonLight",
+      "meta": 0,
+      "color": "#70784e",
+      "alpha": 0.4
     },
     {
       "name": "Dungeon Puzzle (Triggerable - Unlit)",
@@ -35033,7 +35035,7 @@ var colorpalette={
       "name": "Dungeon Puzzle (Triggerable - Unlit)",
       "uid": "HardcoreEnderExpansion:dungeon_puzzle",
       "meta": 14,
-      "color": "#b36d2a"
+      "color": "#b36d29"
     },
     {
       "name": "Dungeon Puzzle (Triggerable - Unlit)",
@@ -35045,8 +35047,8 @@ var colorpalette={
       "name": "Durian",
       "uid": "harvestcraft:pamDurian",
       "meta": 0,
-      "color": "#b6a459",
-      "alpha": 0.8235294
+      "color": "#b4a256",
+      "alpha": 0.8784314
     },
     {
       "name": "Durian Sapling",
@@ -35058,7 +35060,7 @@ var colorpalette={
       "name": "Duskberry Bush",
       "uid": "Natura:NetherBerryBush",
       "meta": 13,
-      "color": "#2b0202"
+      "color": "#2a0403"
     },
     {
       "name": "Dust",
@@ -35076,7 +35078,7 @@ var colorpalette={
       "name": "Dying Leaves",
       "uid": "BiomesOPlenty:leaves2",
       "meta": 3,
-      "color": "#4f2a16"
+      "color": "#6b391f"
     },
     {
       "name": "Dying Sapling",
@@ -35158,13 +35160,13 @@ var colorpalette={
       "name": "Earth Infused Compressed Solar Panel",
       "uid": "EMT:EMTSolars2",
       "meta": 2,
-      "color": "#684459"
+      "color": "#755461"
     },
     {
       "name": "Earth Infused Double Compressed Solar Panel",
       "uid": "EMT:EMTSolars2",
       "meta": 3,
-      "color": "#79515d"
+      "color": "#815c66"
     },
     {
       "name": "Earth Infused Stone",
@@ -35176,7 +35178,7 @@ var colorpalette={
       "name": "Earth Infused Triple Compressed Solar Panel",
       "uid": "EMT:EMTSolars2",
       "meta": 4,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Ebony Bookcase",
@@ -35321,14 +35323,14 @@ var colorpalette={
       "name": "Edged Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 1,
-      "color": "#3d3636",
+      "color": "#495655",
       "alpha": 0.4
     },
     {
       "name": "Edged Stone Bricks",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 0,
-      "color": "#3f3535"
+      "color": "#4a5655"
     },
     {
       "name": "Efficiency Rune",
@@ -35364,13 +35366,13 @@ var colorpalette={
       "name": "Electric Arc Furnace",
       "uid": "GalacticraftCore:tile.machineTiered",
       "meta": 12,
-      "color": "#242a3c"
+      "color": "#222737"
     },
     {
       "name": "Electric Compressor",
       "uid": "GalacticraftCore:tile.machine2",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Electric Feeder Unit",
@@ -35388,7 +35390,7 @@ var colorpalette={
       "name": "Electric Furnace",
       "uid": "GalacticraftCore:tile.machineTiered",
       "meta": 4,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Electric Furnace",
@@ -35484,7 +35486,7 @@ var colorpalette={
       "name": "Elemental Confinement Shell",
       "uid": "miscutils:gtplusplus.blockcasings.5",
       "meta": 3,
-      "color": "#5d1317"
+      "color": "#570d0e"
     },
     {
       "name": "Elemental Matter Turret",
@@ -35775,7 +35777,8 @@ var colorpalette={
       "name": "End Stone",
       "uid": "chisel:end_Stone",
       "meta": 8,
-      "color": "#5e696a"
+      "color": "#4c5958",
+      "alpha": 0.99607843
     },
     {
       "name": "End Stone",
@@ -35823,8 +35826,7 @@ var colorpalette={
       "name": "Ender Bramble",
       "uid": "witchery:bramble",
       "meta": 0,
-      "color": "#533032",
-      "alpha": 0.99215686
+      "color": "#533033"
     },
     {
       "name": "Ender Charge",
@@ -35866,13 +35868,13 @@ var colorpalette={
       "name": "Ender Energy Distributor",
       "uid": "RandomThings:enderEnergyDistributor",
       "meta": 0,
-      "color": "#185e52"
+      "color": "#16564b"
     },
     {
       "name": "Ender Generator",
       "uid": "EnderIO:blockEnderGenerator",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Ender Generator",
@@ -35896,7 +35898,7 @@ var colorpalette={
       "name": "Ender Goo",
       "uid": "HardcoreEnderExpansion:ender_goo",
       "meta": 0,
-      "color": "#9a25c8"
+      "color": "#9a25c7"
     },
     {
       "name": "Ender IO",
@@ -36022,7 +36024,7 @@ var colorpalette={
       "name": "Ender-Sand Alloy",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 13,
-      "color": "#483838"
+      "color": "#495554"
     },
     {
       "name": "Ender-Thermic Pump",
@@ -36034,7 +36036,7 @@ var colorpalette={
       "name": "Ender-infused Obsidian",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 1,
-      "color": "#413535"
+      "color": "#495554"
     },
     {
       "name": "Enderlotus",
@@ -36077,7 +36079,7 @@ var colorpalette={
       "uid": "chisel:voidstone2",
       "meta": 0,
       "color": "#442251",
-      "alpha": 0.84313726
+      "alpha": 0.84705883
     },
     {
       "name": "Energised Voidstone",
@@ -36138,7 +36140,7 @@ var colorpalette={
       "name": "Energy Acceptor",
       "uid": "appliedenergistics2:tile.BlockEnergyAcceptor",
       "meta": 0,
-      "color": "#483a39"
+      "color": "#3c4847"
     },
     {
       "name": "Energy Cell",
@@ -36169,7 +36171,7 @@ var colorpalette={
       "name": "Energy Counter",
       "uid": "IC2NuclearControl:blockNuclearControlMain",
       "meta": 6,
-      "color": "#929292"
+      "color": "#909090"
     },
     {
       "name": "Energy Crystal Frame Box",
@@ -36224,13 +36226,13 @@ var colorpalette={
       "name": "Energy Storage Cluster",
       "uid": "GalacticraftCore:tile.machineTiered",
       "meta": 8,
-      "color": "#242a3c"
+      "color": "#222737"
     },
     {
       "name": "Energy Storage Module",
       "uid": "GalacticraftCore:tile.machineTiered",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Energy Transceiver",
@@ -36299,7 +36301,7 @@ var colorpalette={
       "name": "Entity Deconstructor",
       "uid": "thaumicbases:entityDeconstructor",
       "meta": 0,
-      "color": "#e78f35"
+      "color": "#e0952f"
     },
     {
       "name": "Entity Detector",
@@ -36339,13 +36341,13 @@ var colorpalette={
       "name": "Entropy Double Infused Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 7,
-      "color": "#79515d"
+      "color": "#815c66"
     },
     {
       "name": "Entropy Infused Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 6,
-      "color": "#684459"
+      "color": "#755461"
     },
     {
       "name": "Entropy Infused Stone",
@@ -36357,7 +36359,7 @@ var colorpalette={
       "name": "Entropy Triple Infused Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 8,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Environmental Spell Modifier",
@@ -36376,7 +36378,7 @@ var colorpalette={
       "name": "Essence Berry Bush",
       "uid": "TConstruct:ore.berries.two",
       "meta": 9,
-      "color": "#88ae3f"
+      "color": "#a3c549"
     },
     {
       "name": "Essentia Aggregator",
@@ -36388,8 +36390,7 @@ var colorpalette={
       "name": "Essentia Buffer",
       "uid": "Thaumcraft:blockTube",
       "meta": 4,
-      "color": "#433e2b",
-      "alpha": 0.93333334
+      "color": "#48422f"
     },
     {
       "name": "Essentia Cell Workbench",
@@ -36401,7 +36402,7 @@ var colorpalette={
       "name": "Essentia Condenser",
       "uid": "gadomancy:BlockEssentiaCompressor",
       "meta": 0,
-      "color": "#312927"
+      "color": "#322b2a"
     },
     {
       "name": "Essentia Crystallizer",
@@ -36413,7 +36414,7 @@ var colorpalette={
       "name": "Essentia Diffusion Cell",
       "uid": "EMT:EMT_GTBLOCK_CASEING",
       "meta": 1,
-      "color": "#a98fac"
+      "color": "#a98cad"
     },
     {
       "name": "Essentia Dynamo",
@@ -36425,7 +36426,7 @@ var colorpalette={
       "name": "Essentia Filler",
       "uid": "EMT:EMTMachines",
       "meta": 2,
-      "color": "#908d81"
+      "color": "#908f8a"
     },
     {
       "name": "Essentia Funnel",
@@ -36450,7 +36451,7 @@ var colorpalette={
       "name": "Essentia Provider",
       "uid": "thaumicenergistics:thaumicenergistics.block.essentia.provider",
       "meta": 0,
-      "color": "#686245"
+      "color": "#686144"
     },
     {
       "name": "Essentia Pump",
@@ -36614,14 +36615,14 @@ var colorpalette={
       "name": "Ethereal Glass",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 0,
-      "color": "#3f3a3a",
+      "color": "#495554",
       "alpha": 0.4
     },
     {
       "name": "Ethereal Glass (Inverted)",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 3,
-      "color": "#413a3a",
+      "color": "#4a5555",
       "alpha": 0.4
     },
     {
@@ -36634,7 +36635,7 @@ var colorpalette={
       "name": "Ethereal Leaves",
       "uid": "BiomesOPlenty:leaves2",
       "meta": 1,
-      "color": "#314e38"
+      "color": "#385b40"
     },
     {
       "name": "Ethereal Map Frame",
@@ -36688,7 +36689,7 @@ var colorpalette={
       "name": "Ethereal Processor",
       "uid": "EMT:EMTMachines",
       "meta": 1,
-      "color": "#908d81"
+      "color": "#908f8a"
     },
     {
       "name": "Ethereal Sapling",
@@ -36852,7 +36853,7 @@ var colorpalette={
       "name": "Eucalyptus Leaves",
       "uid": "Natura:floraleaves",
       "meta": 1,
-      "color": "#5f5f5f"
+      "color": "#7c7c7c"
     },
     {
       "name": "Eucalyptus Map Frame",
@@ -36990,7 +36991,7 @@ var colorpalette={
       "name": "Europa Ice",
       "uid": "GalaxySpace:europagrunt",
       "meta": 1,
-      "color": "#7aabff"
+      "color": "#79abff"
     },
     {
       "name": "Everburn Urn",
@@ -37014,7 +37015,7 @@ var colorpalette={
       "name": "Experience Obelisk",
       "uid": "EnderIO:blockExperienceObelisk",
       "meta": 0,
-      "color": "#4a4541"
+      "color": "#494440"
     },
     {
       "name": "Experience Table",
@@ -37026,7 +37027,7 @@ var colorpalette={
       "name": "Explosion Hazard Sign Block",
       "uid": "gregtech:gt.blockcasings3",
       "meta": 4,
-      "color": "#888247"
+      "color": "#868254"
     },
     {
       "name": "Extended Drawbridge",
@@ -37056,25 +37057,25 @@ var colorpalette={
       "name": "Extreme Kinetic Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 11,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Extreme Kinetic Water Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 7,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Extreme Kinetic Wind Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 3,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Eye Cluster",
       "uid": "ThaumicHorizons:eyeTH",
       "meta": 0,
-      "color": "#a9a3a5"
+      "color": "#a8a2a5"
     },
     {
       "name": "Eyebulb",
@@ -37164,7 +37165,8 @@ var colorpalette={
       "name": "Factory Block",
       "uid": "chisel:factoryblock",
       "meta": 13,
-      "color": "#5d6969"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Factory Block",
@@ -37206,7 +37208,7 @@ var colorpalette={
       "name": "Factory Door",
       "uid": "malisisdoors:factory_door",
       "meta": 0,
-      "color": "#211d1c"
+      "color": "#2d2928"
     },
     {
       "name": "Fallen Meteor",
@@ -37884,7 +37886,7 @@ var colorpalette={
       "name": "Farming Station",
       "uid": "EnderIO:blockFarmStation",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Farmland",
@@ -38000,36 +38002,31 @@ var colorpalette={
       "name": "Fence (Tier 1)",
       "uid": "openmodularturrets:fenceTierOne",
       "meta": 0,
-      "color": "#626160",
-      "alpha": 0.9764706
+      "color": "#606060"
     },
     {
       "name": "Fence (Tier 2)",
       "uid": "openmodularturrets:fenceTierTwo",
       "meta": 0,
-      "color": "#636261",
-      "alpha": 0.9843137
+      "color": "#616161"
     },
     {
       "name": "Fence (Tier 3)",
       "uid": "openmodularturrets:fenceTierThree",
       "meta": 0,
-      "color": "#766e57",
-      "alpha": 0.9843137
+      "color": "#736d57"
     },
     {
       "name": "Fence (Tier 4)",
       "uid": "openmodularturrets:fenceTierFour",
       "meta": 0,
-      "color": "#596d75",
-      "alpha": 0.9843137
+      "color": "#576b73"
     },
     {
       "name": "Fence (Tier 5)",
       "uid": "openmodularturrets:fenceTierFive",
       "meta": 0,
-      "color": "#615c5f",
-      "alpha": 0.9843137
+      "color": "#5f5b5f"
     },
     {
       "name": "Fence Gate",
@@ -38073,8 +38070,8 @@ var colorpalette={
       "name": "Fibrous Taint",
       "uid": "Thaumcraft:blockTaintFibres",
       "meta": 0,
-      "color": "#4b4b4b",
-      "alpha": 0.60784316
+      "color": "#535353",
+      "alpha": 0.7019608
     },
     {
       "name": "Fibrous Taint",
@@ -38104,8 +38101,8 @@ var colorpalette={
       "name": "Fig",
       "uid": "harvestcraft:pamFig",
       "meta": 0,
-      "color": "#527c2e",
-      "alpha": 0.9254902
+      "color": "#527d2d",
+      "alpha": 0.96862745
     },
     {
       "name": "Fig Sapling",
@@ -38255,7 +38252,7 @@ var colorpalette={
       "name": "Filtered Fume Funnel",
       "uid": "witchery:filteredfumefunnel",
       "meta": 0,
-      "color": "#120f10"
+      "color": "#120f12"
     },
     {
       "name": "Filtered Importer",
@@ -38357,7 +38354,7 @@ var colorpalette={
       "name": "Fir Leaves",
       "uid": "BiomesOPlenty:leaves2",
       "meta": 0,
-      "color": "#48391f"
+      "color": "#634e2a"
     },
     {
       "name": "Fir Map Frame",
@@ -38723,7 +38720,7 @@ var colorpalette={
       "name": "Fire",
       "uid": "minecraft:fire",
       "meta": 0,
-      "color": "#d18629"
+      "color": "#d08328"
     },
     {
       "name": "Fire Crystal Block",
@@ -38757,19 +38754,19 @@ var colorpalette={
       "name": "Fire Hazard Sign Block",
       "uid": "gregtech:gt.blockcasings3",
       "meta": 5,
-      "color": "#8c8647"
+      "color": "#8a8654"
     },
     {
       "name": "Fire Infused Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 12,
-      "color": "#684459"
+      "color": "#755461"
     },
     {
       "name": "Fire Infused Double Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 13,
-      "color": "#79515d"
+      "color": "#815c66"
     },
     {
       "name": "Fire Infused Stone",
@@ -38781,7 +38778,7 @@ var colorpalette={
       "name": "Fire Infused Triple Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 14,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Fire Jet",
@@ -39191,7 +39188,7 @@ var colorpalette={
       "name": "Flowering Oak Leaves",
       "uid": "BiomesOPlenty:colorizedLeaves2",
       "meta": 3,
-      "color": "#646464"
+      "color": "#868686"
     },
     {
       "name": "Flowering Oak Sapling",
@@ -39268,7 +39265,7 @@ var colorpalette={
       "name": "Fluid Tank",
       "uid": "EnderIO:blockTank",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Fluid Transportation Module",
@@ -39292,25 +39289,25 @@ var colorpalette={
       "name": "Fluix Block",
       "uid": "appliedenergistics2:tile.BlockFluix",
       "meta": 0,
-      "color": "#3b3534"
+      "color": "#3c4847"
     },
     {
       "name": "Fluix Slabs",
       "uid": "appliedenergistics2:tile.FluixSlabBlock",
       "meta": 0,
-      "color": "#3b3534"
+      "color": "#3c4847"
     },
     {
       "name": "Fluix Slabs",
       "uid": "appliedenergistics2:tile.FluixSlabBlock.double",
       "meta": 0,
-      "color": "#3b3534"
+      "color": "#3c4847"
     },
     {
       "name": "Fluix Stairs",
       "uid": "appliedenergistics2:tile.FluixStairBlock",
       "meta": 0,
-      "color": "#3b3534"
+      "color": "#3c4847"
     },
     {
       "name": "Fluorcaphite Ore",
@@ -39679,7 +39676,7 @@ var colorpalette={
       "name": "Frank\u0027N\u0027Zombie Generator",
       "uid": "EnderIO:blockFrankenzombieGenerator",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Frost Bound Block",
@@ -39709,7 +39706,7 @@ var colorpalette={
       "name": "Frost Hazard Sign Block",
       "uid": "gregtech:gt.blockcasings3",
       "meta": 8,
-      "color": "#8c8647"
+      "color": "#8b8654"
     },
     {
       "name": "Frost Proof Machine Casing",
@@ -39727,7 +39724,7 @@ var colorpalette={
       "name": "Frosted Stone",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 3,
-      "color": "#413837"
+      "color": "#495655"
     },
     {
       "name": "Fruit Juice",
@@ -39753,19 +39750,19 @@ var colorpalette={
       "name": "Fuel Generator",
       "uid": "GalaxySpace:fuelgenerator",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Fuel Loader",
       "uid": "GalacticraftCore:tile.fuelLoader",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Fume Funnel",
       "uid": "witchery:fumefunnel",
       "meta": 0,
-      "color": "#120f10"
+      "color": "#120f12"
     },
     {
       "name": "Furnace",
@@ -40031,7 +40028,8 @@ var colorpalette={
       "name": "Futura Block",
       "uid": "chisel:futura",
       "meta": 2,
-      "color": "#464545"
+      "color": "#485554",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Block",
@@ -40043,109 +40041,127 @@ var colorpalette={
       "name": "Futura Block",
       "uid": "chisel:futura",
       "meta": 4,
-      "color": "#464443"
+      "color": "#485554",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Block",
       "uid": "chisel:futura",
       "meta": 5,
-      "color": "#464444"
+      "color": "#485554",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 0,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 1,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 2,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 3,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 4,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 5,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 6,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 7,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 8,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 9,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 10,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 11,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 12,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 13,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 14,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Futura Circuit",
       "uid": "chisel:futuraCircuit",
       "meta": 15,
-      "color": "#606b6c"
+      "color": "#4b5857",
+      "alpha": 0.99607843
     },
     {
       "name": "Future Glass",
@@ -40230,7 +40246,7 @@ var colorpalette={
       "name": "Gas Liquefier",
       "uid": "GalacticraftMars:tile.marsMachineT2",
       "meta": 0,
-      "color": "#242a3c"
+      "color": "#222737"
     },
     {
       "name": "Geikielite Ore",
@@ -40261,25 +40277,25 @@ var colorpalette={
       "name": "Genetic Imprinter",
       "uid": "gendustry:Imprinter",
       "meta": 0,
-      "color": "#a28d66"
+      "color": "#a58a62"
     },
     {
       "name": "Genetic Replicator",
       "uid": "gendustry:Replicator",
       "meta": 0,
-      "color": "#a49467"
+      "color": "#a79364"
     },
     {
       "name": "Genetic Sampler",
       "uid": "gendustry:Sampler",
       "meta": 0,
-      "color": "#a28d66"
+      "color": "#a58a62"
     },
     {
       "name": "Genetic Transposer",
       "uid": "gendustry:Transposer",
       "meta": 0,
-      "color": "#a6916f"
+      "color": "#a58d68"
     },
     {
       "name": "Geolyzer",
@@ -40291,7 +40307,7 @@ var colorpalette={
       "name": "Geothermal Generator",
       "uid": "GalaxySpace:geothermalgenerator",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Geothermal Generator",
@@ -40502,7 +40518,7 @@ var colorpalette={
       "name": "Giant Cobblestone",
       "uid": "TwilightForest:tile.GiantCobble",
       "meta": 0,
-      "color": "#626262"
+      "color": "#6d7f7e"
     },
     {
       "name": "Giant Flower Stem",
@@ -40514,19 +40530,19 @@ var colorpalette={
       "name": "Giant Leaves",
       "uid": "TwilightForest:tile.GiantLeaves",
       "meta": 0,
-      "color": "#5e5e5e"
+      "color": "#5e6d6c"
     },
     {
       "name": "Giant Log",
       "uid": "TwilightForest:tile.GiantLog",
       "meta": 0,
-      "color": "#5e5e5e"
+      "color": "#5e6c6b"
     },
     {
       "name": "Giant Obsidian",
       "uid": "TwilightForest:tile.GiantObsidian",
       "meta": 0,
-      "color": "#4f4f4f"
+      "color": "#6f8180"
     },
     {
       "name": "Giant Red Flower",
@@ -40706,7 +40722,7 @@ var colorpalette={
       "name": "Glass Bricks",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 2,
-      "color": "#3c3636",
+      "color": "#495554",
       "alpha": 0.4
     },
     {
@@ -40799,7 +40815,7 @@ var colorpalette={
       "name": "Glow Globe",
       "uid": "witchery:glowglobe",
       "meta": 0,
-      "color": "#fed913",
+      "color": "#fed600",
       "alpha": 0.4
     },
     {
@@ -40833,7 +40849,7 @@ var colorpalette={
       "name": "Glowing Crusted Stone",
       "uid": "Thaumcraft:blockEldritch",
       "meta": 4,
-      "color": "#5b4f30"
+      "color": "#554b30"
     },
     {
       "name": "Glowing Obsidian Pillar",
@@ -40969,14 +40985,14 @@ var colorpalette={
       "name": "Glowstone Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 7,
-      "color": "#3c3939",
+      "color": "#495655",
       "alpha": 0.4
     },
     {
       "name": "Glowstone Torch",
       "uid": "GalacticraftCore:tile.glowstoneTorch",
       "meta": 0,
-      "color": "#a5895d"
+      "color": "#997f54"
     },
     {
       "name": "Glue",
@@ -41163,7 +41179,7 @@ var colorpalette={
       "name": "Gold Oreberry Bush",
       "uid": "TConstruct:ore.berries.one",
       "meta": 9,
-      "color": "#776837"
+      "color": "#95834b"
     },
     {
       "name": "Gold Tank",
@@ -41188,7 +41204,7 @@ var colorpalette={
       "name": "Golden Edged Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 4,
-      "color": "#433736",
+      "color": "#495655",
       "alpha": 0.4
     },
     {
@@ -41347,7 +41363,7 @@ var colorpalette={
       "name": "Grassper",
       "uid": "witchery:grassper",
       "meta": 0,
-      "color": "#1d3c10"
+      "color": "#183a0d"
     },
     {
       "name": "Grate Machine Casing",
@@ -41377,7 +41393,7 @@ var colorpalette={
       "name": "Gravel Road",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 10,
-      "color": "#413535"
+      "color": "#495655"
     },
     {
       "name": "Gravestone",
@@ -41402,13 +41418,13 @@ var colorpalette={
       "name": "Gray Curtain",
       "uid": "malisisdoors:curtain_gray",
       "meta": 0,
-      "color": "#3e3e3e"
+      "color": "#3f3f3f"
     },
     {
       "name": "Gray Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 7,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Gray Future Glass",
@@ -41452,7 +41468,7 @@ var colorpalette={
       "name": "Gray Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 7,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Gray Typewriter",
@@ -41482,7 +41498,7 @@ var colorpalette={
       "name": "Greatwood Leaves",
       "uid": "Thaumcraft:blockMagicalLeaves",
       "meta": 0,
-      "color": "#666666"
+      "color": "#777777"
     },
     {
       "name": "Greatwood Log",
@@ -41549,13 +41565,13 @@ var colorpalette={
       "name": "Green Curtain",
       "uid": "malisisdoors:curtain_green",
       "meta": 0,
-      "color": "#38421c"
+      "color": "#3a451d"
     },
     {
       "name": "Green Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 13,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Green Force Field",
@@ -41658,7 +41674,7 @@ var colorpalette={
       "name": "Green Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 13,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Green Thorns",
@@ -41826,7 +41842,7 @@ var colorpalette={
       "name": "Grenade Launcher Turret",
       "uid": "openmodularturrets:grenadeTurret",
       "meta": 0,
-      "color": "#b7b7b7",
+      "color": "#c2c2c2",
       "alpha": 0.4
     },
     {
@@ -42065,7 +42081,7 @@ var colorpalette={
       "name": "Gun Turret",
       "uid": "openmodularturrets:machineGunTurret",
       "meta": 0,
-      "color": "#bebebe",
+      "color": "#c7c7c7",
       "alpha": 0.4
     },
     {
@@ -42108,25 +42124,25 @@ var colorpalette={
       "name": "Hard Wall (Tier 2)",
       "uid": "openmodularturrets:hardWallTierTwo",
       "meta": 0,
-      "color": "#6e7275"
+      "color": "#6e7175"
     },
     {
       "name": "Hard Wall (Tier 3)",
       "uid": "openmodularturrets:hardWallTierThree",
       "meta": 0,
-      "color": "#5e6164"
+      "color": "#5d6063"
     },
     {
       "name": "Hard Wall (Tier 4)",
       "uid": "openmodularturrets:hardWallTierFour",
       "meta": 0,
-      "color": "#3c3f41"
+      "color": "#3c3e40"
     },
     {
       "name": "Hard Wall (Tier 5)",
       "uid": "openmodularturrets:hardWallTierFive",
       "meta": 0,
-      "color": "#282a2b"
+      "color": "#28292a"
     },
     {
       "name": "Hardcore Switch Block",
@@ -42228,7 +42244,7 @@ var colorpalette={
       "name": "Hawthorn Leaves",
       "uid": "witchery:witchleaves",
       "meta": 2,
-      "color": "#7d7d7c"
+      "color": "#939393"
     },
     {
       "name": "Hawthorn Planks",
@@ -42324,7 +42340,7 @@ var colorpalette={
       "name": "Heart Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 8,
-      "color": "#453636",
+      "color": "#4a5655",
       "alpha": 0.4
     },
     {
@@ -42392,7 +42408,7 @@ var colorpalette={
       "name": "Heavy Aluminium Wire",
       "uid": "GalacticraftCore:tile.aluminumWire",
       "meta": 1,
-      "color": "#1d1d1e"
+      "color": "#1c1d1d"
     },
     {
       "name": "Hedge",
@@ -42584,7 +42600,7 @@ var colorpalette={
       "name": "Hellish Fire",
       "uid": "miscutils:blockHellFire",
       "meta": 0,
-      "color": "#426685"
+      "color": "#416584"
     },
     {
       "name": "Hemlock Wood Planks",
@@ -42836,19 +42852,19 @@ var colorpalette={
       "name": "High Kinetic Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 10,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "High Kinetic Water Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 6,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "High Kinetic Wind Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 2,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "High Power Casing",
@@ -43243,7 +43259,7 @@ var colorpalette={
       "name": "Hopseed Leaves",
       "uid": "Natura:floraleaves",
       "meta": 2,
-      "color": "#68748b"
+      "color": "#848fa7"
     },
     {
       "name": "Hopseed Map Frame",
@@ -43443,7 +43459,7 @@ var colorpalette={
       "name": "Hybrid Solar Panel",
       "uid": "GalaxySpace:solarPanel",
       "meta": 0,
-      "color": "#cca935"
+      "color": "#c9a835"
     },
     {
       "name": "Hydrogen Pipe",
@@ -43880,8 +43896,8 @@ var colorpalette={
       "name": "Ignis Fruit",
       "uid": "harvestthenether:ignisFruit",
       "meta": 0,
-      "color": "#70612a",
-      "alpha": 0.7176471
+      "color": "#72632c",
+      "alpha": 0.7882353
     },
     {
       "name": "Ignis Fruit Sapling",
@@ -43893,7 +43909,7 @@ var colorpalette={
       "name": "Ignis Generator",
       "uid": "EMT:EssentiaGenerators",
       "meta": 1,
-      "color": "#7f8080"
+      "color": "#868787"
     },
     {
       "name": "Ignis Imbued Fire",
@@ -43947,13 +43963,15 @@ var colorpalette={
       "name": "Imperialistic Block",
       "uid": "chisel:nation",
       "meta": 0,
-      "color": "#536161"
+      "color": "#4c5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Imperialistic Block",
       "uid": "chisel:nation",
       "meta": 1,
-      "color": "#59696a"
+      "color": "#4c5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Imperialistic Block",
@@ -43977,7 +43995,7 @@ var colorpalette={
       "name": "Incendiary Turret",
       "uid": "openmodularturrets:incendiaryTurret",
       "meta": 0,
-      "color": "#d1d0d0",
+      "color": "#d9d8d8",
       "alpha": 0.4
     },
     {
@@ -44014,7 +44032,7 @@ var colorpalette={
       "name": "Inconel Reinforced Casing",
       "uid": "miscutils:gtplusplus.blockcasings.3",
       "meta": 1,
-      "color": "#555434"
+      "color": "#5c5b3a"
     },
     {
       "name": "Inconel-625 Frame Box",
@@ -44038,7 +44056,7 @@ var colorpalette={
       "name": "Indium Tungsten Framebox",
       "uid": "EMT:EMT_GTBLOCK_CASEING",
       "meta": 3,
-      "color": "#664d67"
+      "color": "#6f4e70"
     },
     {
       "name": "Induction Furnace",
@@ -44056,13 +44074,13 @@ var colorpalette={
       "name": "Industrial Alarm",
       "uid": "IC2NuclearControl:blockNuclearControlMain",
       "meta": 1,
-      "color": "#c07537"
+      "color": "#bb6f34"
     },
     {
       "name": "Industrial Apiary",
       "uid": "gendustry:IndustrialApiary",
       "meta": 0,
-      "color": "#9d952b"
+      "color": "#9b9321"
     },
     {
       "name": "Industrial Information Panel",
@@ -44092,33 +44110,34 @@ var colorpalette={
       "name": "Industrial Technical Block",
       "uid": "chisel:technical3",
       "meta": 0,
-      "color": "#596060",
+      "color": "#505d5c",
       "alpha": 0.99607843
     },
     {
       "name": "Industrial Technical Block",
       "uid": "chisel:technical3",
       "meta": 1,
-      "color": "#5c6767"
+      "color": "#4c5858",
+      "alpha": 0.99607843
     },
     {
       "name": "Industrial Wand Charging Station",
       "uid": "EMT:EMTMachines",
       "meta": 0,
-      "color": "#a5a6a7"
+      "color": "#999a9b"
     },
     {
       "name": "Ineffable Glass",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 1,
-      "color": "#3b3636",
+      "color": "#495554",
       "alpha": 0.4
     },
     {
       "name": "Ineffable Glass (Inverted)",
       "uid": "ExtraUtilities:etherealglass",
       "meta": 4,
-      "color": "#433535",
+      "color": "#4a5555",
       "alpha": 0.4
     },
     {
@@ -44234,20 +44253,20 @@ var colorpalette={
       "name": "Infusion Provider",
       "uid": "thaumicenergistics:thaumicenergistics.block.infusion.provider",
       "meta": 0,
-      "color": "#535353",
-      "alpha": 0.3529412
+      "color": "#5b5b5b",
+      "alpha": 0.3882353
     },
     {
       "name": "Inhibitor Obelisk",
       "uid": "EnderIO:blockInhibitorObelisk",
       "meta": 0,
-      "color": "#4a4541"
+      "color": "#494440"
     },
     {
       "name": "Inscriber",
       "uid": "appliedenergistics2:tile.BlockInscriber",
       "meta": 0,
-      "color": "#3e3636"
+      "color": "#3e4949"
     },
     {
       "name": "Inspiratron",
@@ -44326,7 +44345,7 @@ var colorpalette={
       "name": "Integration Table",
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 2,
-      "color": "#2e292e"
+      "color": "#2e292f"
     },
     {
       "name": "Intelligent Workbench",
@@ -44338,7 +44357,7 @@ var colorpalette={
       "name": "Inventarium Core",
       "uid": "Automagy:blockInventarium",
       "meta": 0,
-      "color": "#6b6179"
+      "color": "#6c627a"
     },
     {
       "name": "Inventory Cable",
@@ -44350,7 +44369,7 @@ var colorpalette={
       "name": "Inventory Panel",
       "uid": "EnderIO:blockInventoryPanel",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Inventory Relay",
@@ -44561,7 +44580,7 @@ var colorpalette={
       "name": "Iridium Osmiridium Framebox",
       "uid": "EMT:EMT_GTBLOCK_CASEING",
       "meta": 2,
-      "color": "#6f7273"
+      "color": "#676a6b"
     },
     {
       "name": "Iridium Reinforced Block",
@@ -44761,7 +44780,7 @@ var colorpalette={
       "name": "Iron Door",
       "uid": "minecraft:iron_door",
       "meta": 0,
-      "color": "#bbbbbb"
+      "color": "#a8a8a8"
     },
     {
       "name": "Iron Fence",
@@ -44821,7 +44840,7 @@ var colorpalette={
       "name": "Iron Ore",
       "uid": "GalacticraftMars:tile.asteroidsBlock",
       "meta": 5,
-      "color": "#433830"
+      "color": "#3f352e"
     },
     {
       "name": "Iron Ore",
@@ -44857,7 +44876,7 @@ var colorpalette={
       "name": "Iron Oreberry Bush",
       "uid": "TConstruct:ore.berries.one",
       "meta": 8,
-      "color": "#775337"
+      "color": "#956b4b"
     },
     {
       "name": "Iron Plated Bricks",
@@ -45050,7 +45069,7 @@ var colorpalette={
       "name": "Item Buffer",
       "uid": "EnderIO:blockBuffer",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Item Buffer",
@@ -45068,7 +45087,7 @@ var colorpalette={
       "name": "Item Collector",
       "uid": "RandomThings:itemCollector",
       "meta": 0,
-      "color": "#2c0e2c"
+      "color": "#260d26"
     },
     {
       "name": "Item Dropper",
@@ -45189,7 +45208,7 @@ var colorpalette={
       "name": "Jacaranda Leaves",
       "uid": "BiomesOPlenty:leaves4",
       "meta": 0,
-      "color": "#443610"
+      "color": "#5e4817"
     },
     {
       "name": "Jacaranda Map Frame",
@@ -45598,7 +45617,7 @@ var colorpalette={
       "name": "Jungle Door",
       "uid": "malisisdoors:door_jungle",
       "meta": 0,
-      "color": "#b49379"
+      "color": "#99785e"
     },
     {
       "name": "Jungle Drawer",
@@ -46032,7 +46051,7 @@ var colorpalette={
       "name": "Kettle",
       "uid": "witchery:kettle",
       "meta": 0,
-      "color": "#837a70"
+      "color": "#766c65"
     },
     {
       "name": "Keyboard",
@@ -46050,13 +46069,13 @@ var colorpalette={
       "name": "Keystone Receptacle",
       "uid": "ThaumicHorizons:slotTH",
       "meta": 0,
-      "color": "#020211"
+      "color": "#02020f"
     },
     {
       "name": "Killer Joe",
       "uid": "EnderIO:blockKillerJoe",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Kinetic Attractor",
@@ -46104,7 +46123,7 @@ var colorpalette={
       "name": "Knowledge Inscriber",
       "uid": "thaumicenergistics:thaumicenergistics.block.knowledge.inscriber",
       "meta": 0,
-      "color": "#888a8a"
+      "color": "#7f7f7e"
     },
     {
       "name": "Koboldite Ore",
@@ -46422,7 +46441,7 @@ var colorpalette={
       "name": "Laboratory Door",
       "uid": "malisisdoors:laboratory_door",
       "meta": 0,
-      "color": "#685f62"
+      "color": "#70676a"
     },
     {
       "name": "Laboratory Floor",
@@ -48485,113 +48504,113 @@ var colorpalette={
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 0,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 1,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 2,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 3,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 4,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 5,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 6,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 7,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 8,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 9,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 10,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 11,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 12,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 13,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 14,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Hex Plating",
       "uid": "chisel:hexLargePlating",
       "meta": 15,
-      "color": "#636463",
-      "alpha": 0.98039216
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Large Sieve Grate",
@@ -48609,14 +48628,14 @@ var colorpalette={
       "name": "Laser Turret",
       "uid": "openmodularturrets:laserTurret",
       "meta": 0,
-      "color": "#c3c3c3",
+      "color": "#cacacb",
       "alpha": 0.4
     },
     {
       "name": "Launch Controller",
       "uid": "GalacticraftMars:tile.marsMachine",
       "meta": 8,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Laurenium Frame Box",
@@ -48670,29 +48689,29 @@ var colorpalette={
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 0,
-      "color": "#8f776c",
-      "alpha": 0.85882354
+      "color": "#8f786c",
+      "alpha": 0.8627451
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 1,
-      "color": "#41271b",
-      "alpha": 0.85882354
+      "color": "#40271b",
+      "alpha": 0.8627451
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 2,
-      "color": "#8d7a72",
-      "alpha": 0.79607844
+      "color": "#8b7b73",
+      "alpha": 0.8039216
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 3,
-      "color": "#76665f",
-      "alpha": 0.7372549
+      "color": "#74655e",
+      "alpha": 0.7490196
     },
     {
       "name": "Lavastone",
@@ -48705,15 +48724,15 @@ var colorpalette={
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 5,
-      "color": "#757575",
-      "alpha": 0.85882354
+      "color": "#727272",
+      "alpha": 0.8745098
     },
     {
       "name": "Lavastone",
       "uid": "chisel:lavastone",
       "meta": 6,
-      "color": "#858585",
-      "alpha": 0.93333334
+      "color": "#848484",
+      "alpha": 0.9411765
     },
     {
       "name": "Lavastone",
@@ -48887,43 +48906,43 @@ var colorpalette={
       "name": "Leaves",
       "uid": "chisel:leaves",
       "meta": 6,
-      "color": "#895b12"
+      "color": "#8c5d12"
     },
     {
       "name": "Leaves",
       "uid": "chisel:leaves",
       "meta": 7,
-      "color": "#0f3d00"
+      "color": "#0e3e00"
     },
     {
       "name": "Leaves",
       "uid": "chisel:leaves",
       "meta": 8,
-      "color": "#e98faa"
+      "color": "#eb95ae"
     },
     {
       "name": "Leaves",
       "uid": "chisel:leaves",
       "meta": 9,
-      "color": "#3a3806"
+      "color": "#3e3a07"
     },
     {
       "name": "Leaves",
       "uid": "chisel:leaves",
       "meta": 10,
-      "color": "#496022"
+      "color": "#4e6625"
     },
     {
       "name": "Leaves",
       "uid": "chisel:leaves",
       "meta": 11,
-      "color": "#263902"
+      "color": "#283702"
     },
     {
       "name": "Leaves",
       "uid": "chisel:leaves",
       "meta": 12,
-      "color": "#1b3c08"
+      "color": "#1b3b09"
     },
     {
       "name": "Leech Chest",
@@ -49039,13 +49058,13 @@ var colorpalette={
       "name": "Light Blue Curtain",
       "uid": "malisisdoors:curtain_light_blue",
       "meta": 0,
-      "color": "#405286"
+      "color": "#42578e"
     },
     {
       "name": "Light Blue Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 3,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Light Blue Lamp",
@@ -49122,7 +49141,7 @@ var colorpalette={
       "name": "Light Blue Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 3,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Light Blue Typewriter",
@@ -49158,7 +49177,7 @@ var colorpalette={
       "name": "Light Detecting Fixture",
       "uid": "appliedenergistics2:tile.BlockLightDetector",
       "meta": 0,
-      "color": "#413535"
+      "color": "#3e4a49"
     },
     {
       "name": "Light Gray Crystal",
@@ -49171,7 +49190,7 @@ var colorpalette={
       "name": "Light Gray Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 8,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Light Gray Metal Platform",
@@ -49195,7 +49214,7 @@ var colorpalette={
       "name": "Light Gray Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 8,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Light Gray Typewriter",
@@ -49365,7 +49384,7 @@ var colorpalette={
       "name": "Lime Curtain",
       "uid": "malisisdoors:curtain_lime",
       "meta": 0,
-      "color": "#4d8843"
+      "color": "#4f8f46"
     },
     {
       "name": "Lime Desk",
@@ -49407,7 +49426,7 @@ var colorpalette={
       "name": "Lime Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 5,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Lime Future Glass",
@@ -49563,7 +49582,7 @@ var colorpalette={
       "name": "Lime Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 5,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Lime Tool Rack",
@@ -50000,14 +50019,14 @@ var colorpalette={
       "name": "Liquified Ender",
       "uid": "TConstruct:fluid.ender",
       "meta": 0,
-      "color": "#003920",
+      "color": "#003820",
       "alpha": 0.3
     },
     {
       "name": "Liquified Slime",
       "uid": "TConstruct:liquid.slime",
       "meta": 0,
-      "color": "#30d3f3",
+      "color": "#2fd3f3",
       "alpha": 0.3
     },
     {
@@ -50236,19 +50255,19 @@ var colorpalette={
       "name": "Low Kinetic Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 8,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Low Kinetic Water Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 4,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Low Kinetic Wind Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 0,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Low Pressure Boiler Tank",
@@ -50278,7 +50297,7 @@ var colorpalette={
       "name": "Lucrum Generator",
       "uid": "EMT:EssentiaGenerators",
       "meta": 5,
-      "color": "#7f8080"
+      "color": "#868787"
     },
     {
       "name": "Luminator",
@@ -50291,7 +50310,7 @@ var colorpalette={
       "name": "Lump of Brain",
       "uid": "ThaumicHorizons:brainTH",
       "meta": 0,
-      "color": "#965e46"
+      "color": "#986048"
     },
     {
       "name": "Lump of Flesh",
@@ -50309,19 +50328,19 @@ var colorpalette={
       "name": "ME Chest",
       "uid": "appliedenergistics2:tile.BlockChest",
       "meta": 0,
-      "color": "#433837"
+      "color": "#3d4848"
     },
     {
       "name": "ME Controller",
       "uid": "appliedenergistics2:tile.BlockController",
       "meta": 0,
-      "color": "#383838"
+      "color": "#3e4949"
     },
     {
       "name": "ME Drive",
       "uid": "appliedenergistics2:tile.BlockDrive",
       "meta": 0,
-      "color": "#474040"
+      "color": "#3c4747"
     },
     {
       "name": "ME Fluid Assembler",
@@ -50339,43 +50358,43 @@ var colorpalette={
       "name": "ME IO Port",
       "uid": "appliedenergistics2:tile.BlockIOPort",
       "meta": 0,
-      "color": "#3f3838"
+      "color": "#3d4848"
     },
     {
       "name": "ME Interface",
       "uid": "appliedenergistics2:tile.BlockInterface",
       "meta": 0,
-      "color": "#3f3535"
+      "color": "#3e4949"
     },
     {
       "name": "ME Network Monitor",
       "uid": "IC2NuclearControl:networkLink",
       "meta": 0,
-      "color": "#1e2224"
+      "color": "#171b1c"
     },
     {
       "name": "ME Quantum Link Chamber",
       "uid": "appliedenergistics2:tile.BlockQuantumLinkChamber",
       "meta": 0,
-      "color": "#453636"
+      "color": "#3c4747"
     },
     {
       "name": "ME Quantum Ring",
       "uid": "appliedenergistics2:tile.BlockQuantumRing",
       "meta": 0,
-      "color": "#463636"
+      "color": "#3c4747"
     },
     {
       "name": "ME Security Terminal",
       "uid": "appliedenergistics2:tile.BlockSecurity",
       "meta": 0,
-      "color": "#433433"
+      "color": "#3c4747"
     },
     {
       "name": "ME Wireless Access Point",
       "uid": "appliedenergistics2:tile.BlockWireless",
       "meta": 0,
-      "color": "#3b3636"
+      "color": "#3d4848"
     },
     {
       "name": "MV Machine Casing",
@@ -50442,13 +50461,13 @@ var colorpalette={
       "name": "Magenta Curtain",
       "uid": "malisisdoors:curtain_magenta",
       "meta": 0,
-      "color": "#7a4279"
+      "color": "#7f447f"
     },
     {
       "name": "Magenta Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 2,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Magenta Lamp",
@@ -50525,7 +50544,7 @@ var colorpalette={
       "name": "Magenta Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 2,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Magenta Typewriter",
@@ -50567,7 +50586,7 @@ var colorpalette={
       "name": "Magic Containing Casing",
       "uid": "EMT:EMT_GTBLOCK_CASEING",
       "meta": 0,
-      "color": "#a2a4a4"
+      "color": "#979999"
     },
     {
       "name": "Magic Desk",
@@ -50609,13 +50628,13 @@ var colorpalette={
       "name": "Magic Hazard Sign Block",
       "uid": "gregtech:gt.blockcasings3",
       "meta": 7,
-      "color": "#8e8847"
+      "color": "#8c8754"
     },
     {
       "name": "Magic Hourglass",
       "uid": "Automagy:blockHourglassMagic",
       "meta": 0,
-      "color": "#af904b"
+      "color": "#af8e47"
     },
     {
       "name": "Magic Label",
@@ -50627,7 +50646,7 @@ var colorpalette={
       "name": "Magic Leaves",
       "uid": "BiomesOPlenty:leaves1",
       "meta": 1,
-      "color": "#647b21"
+      "color": "#8aaa2d"
     },
     {
       "name": "Magic Map Frame",
@@ -51050,7 +51069,7 @@ var colorpalette={
       "name": "Mahogany Leaves",
       "uid": "BiomesOPlenty:colorizedLeaves2",
       "meta": 2,
-      "color": "#797979"
+      "color": "#878787"
     },
     {
       "name": "Mahogany Map Frame",
@@ -51242,7 +51261,7 @@ var colorpalette={
       "name": "Maloberry Bush",
       "uid": "Natura:BerryBush",
       "meta": 15,
-      "color": "#76930b"
+      "color": "#81970e"
     },
     {
       "name": "Mana Pod Stem",
@@ -51254,15 +51273,14 @@ var colorpalette={
       "name": "Mandrake",
       "uid": "witchery:mandrake",
       "meta": 0,
-      "color": "#0d5d06",
-      "alpha": 0.6666667
+      "color": "#005c07"
     },
     {
       "name": "Mango",
       "uid": "harvestcraft:pamMango",
       "meta": 0,
-      "color": "#97b755",
-      "alpha": 0.8039216
+      "color": "#90b24b",
+      "alpha": 0.9098039
     },
     {
       "name": "Mango Sapling",
@@ -51334,7 +51352,7 @@ var colorpalette={
       "name": "Mangrove Leaves",
       "uid": "BiomesOPlenty:colorizedLeaves1",
       "meta": 1,
-      "color": "#545454"
+      "color": "#747474"
     },
     {
       "name": "Mangrove Leaves",
@@ -51617,13 +51635,13 @@ var colorpalette={
       "name": "Maple Leaves",
       "uid": "BiomesOPlenty:leaves3",
       "meta": 1,
-      "color": "#b16c92"
+      "color": "#e89fc3"
     },
     {
       "name": "Maple Leaves",
       "uid": "Natura:Rare Leaves",
       "meta": 0,
-      "color": "#717171"
+      "color": "#939393"
     },
     {
       "name": "Maple Map Frame",
@@ -52475,19 +52493,19 @@ var colorpalette={
       "name": "Matter Condenser",
       "uid": "appliedenergistics2:tile.BlockCondenser",
       "meta": 0,
-      "color": "#423939"
+      "color": "#3e4949"
     },
     {
       "name": "Matter Fabricator Casing",
       "uid": "miscutils:miscutils.blockcasings",
       "meta": 9,
-      "color": "#31312d"
+      "color": "#2e2e2b"
     },
     {
       "name": "Matter Generation Coil",
       "uid": "miscutils:miscutils.blockcasings",
       "meta": 8,
-      "color": "#373561"
+      "color": "#36335c"
     },
     {
       "name": "Mayapple",
@@ -52536,7 +52554,7 @@ var colorpalette={
       "name": "Medieval Door",
       "uid": "malisisdoors:medieval_door",
       "meta": 0,
-      "color": "#75402c",
+      "color": "#713e2b",
       "alpha": 0.99607843
     },
     {
@@ -52549,19 +52567,19 @@ var colorpalette={
       "name": "Medium Kinetic Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 9,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Medium Kinetic Water Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 5,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Medium Kinetic Wind Generator",
       "uid": "compactkineticgenerators:BlockCkg",
       "meta": 1,
-      "color": "#aab2b4"
+      "color": "#a9b1b2"
     },
     {
       "name": "Medium Lily Pad",
@@ -52573,7 +52591,7 @@ var colorpalette={
       "name": "Melding Mirror",
       "uid": "Automagy:blockMirrorAlt",
       "meta": 0,
-      "color": "#412b26",
+      "color": "#553921",
       "alpha": 0.4
     },
     {
@@ -52599,7 +52617,7 @@ var colorpalette={
       "name": "Mercurial Redcrystal",
       "uid": "Automagy:blockRedcrystalMerc",
       "meta": 0,
-      "color": "#79553e"
+      "color": "#75513c"
     },
     {
       "name": "Mercury Core",
@@ -52653,8 +52671,7 @@ var colorpalette={
       "name": "Metalleat Crop",
       "uid": "thaumicbases:metalleat",
       "meta": 0,
-      "color": "#91b4b4",
-      "alpha": 0.6666667
+      "color": "#92b5b5"
     },
     {
       "name": "Metals Chest",
@@ -52678,7 +52695,7 @@ var colorpalette={
       "name": "Methane Synthesizer",
       "uid": "GalacticraftMars:tile.marsMachineT2",
       "meta": 4,
-      "color": "#242a3c"
+      "color": "#222737"
     },
     {
       "name": "Microcontroller",
@@ -52710,8 +52727,7 @@ var colorpalette={
       "name": "Minedrake",
       "uid": "witchery:mindrake",
       "meta": 0,
-      "color": "#175112",
-      "alpha": 0.64705884
+      "color": "#0c4f12"
     },
     {
       "name": "Miner",
@@ -53037,7 +53053,7 @@ var colorpalette={
       "name": "Molecular Assembler",
       "uid": "appliedenergistics2:tile.BlockMolecularAssembler",
       "meta": 0,
-      "color": "#3a3635"
+      "color": "#3c4747"
     },
     {
       "name": "Molecular Casing",
@@ -53097,7 +53113,7 @@ var colorpalette={
       "name": "Molten Conductive Redmetal",
       "uid": "ProjRed|Compatibility:projectred.compatibility.liqcondredmetal",
       "meta": 0,
-      "color": "#7c0000"
+      "color": "#7b0000"
     },
     {
       "name": "Molten Copper",
@@ -53128,7 +53144,7 @@ var colorpalette={
       "uid": "TConstruct:fluid.molten.glass",
       "meta": 0,
       "color": "#9feefd",
-      "alpha": 0.7019608
+      "alpha": 0.69803923
     },
     {
       "name": "Molten Gold",
@@ -53520,7 +53536,8 @@ var colorpalette={
       "name": "Mossy Temple Block",
       "uid": "chisel:mossy_templeblock",
       "meta": 0,
-      "color": "#4e5151"
+      "color": "#4c5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Mossy Temple Block",
@@ -53538,7 +53555,8 @@ var colorpalette={
       "name": "Mossy Temple Block",
       "uid": "chisel:mossy_templeblock",
       "meta": 3,
-      "color": "#606b6c"
+      "color": "#4c5858",
+      "alpha": 0.99607843
     },
     {
       "name": "Mossy Temple Block",
@@ -53670,7 +53688,7 @@ var colorpalette={
       "name": "Multi-Use Casing",
       "uid": "miscutils:gtplusplus.blockcasings.3",
       "meta": 2,
-      "color": "#787d87"
+      "color": "#838999"
     },
     {
       "name": "Multipurpose Canning Machine",
@@ -53688,8 +53706,7 @@ var colorpalette={
       "name": "Mushgloom",
       "uid": "TwilightForest:tile.TFPlant",
       "meta": 9,
-      "color": "#b8a86a",
-      "alpha": 0.92941177
+      "color": "#c7b572"
     },
     {
       "name": "Mushroom",
@@ -53758,13 +53775,13 @@ var colorpalette={
       "name": "Mutagen Producer",
       "uid": "gendustry:MutagenProducer",
       "meta": 0,
-      "color": "#af997b"
+      "color": "#aa916e"
     },
     {
       "name": "Mutatron",
       "uid": "gendustry:Mutatron",
       "meta": 0,
-      "color": "#ad9676"
+      "color": "#aa906c"
     },
     {
       "name": "Mycelium",
@@ -53914,7 +53931,7 @@ var colorpalette={
       "name": "Naquadah Containment Chamber",
       "uid": "miscutils:gtplusplus.blockcasings.4",
       "meta": 2,
-      "color": "#373561"
+      "color": "#36335c"
     },
     {
       "name": "Naquadah Ore",
@@ -54179,7 +54196,7 @@ var colorpalette={
       "name": "Nethermind",
       "uid": "Automagy:blockNethermind",
       "meta": 0,
-      "color": "#1a1528"
+      "color": "#191526"
     },
     {
       "name": "Netherrack",
@@ -54423,7 +54440,7 @@ var colorpalette={
       "name": "Noise Hazard Sign Block",
       "uid": "gregtech:gt.blockcasings3",
       "meta": 9,
-      "color": "#8b8547"
+      "color": "#8a8554"
     },
     {
       "name": "Non-electric Floodlight",
@@ -54477,8 +54494,8 @@ var colorpalette={
       "name": "Nutmeg",
       "uid": "harvestcraft:pamNutmeg",
       "meta": 0,
-      "color": "#98986a",
-      "alpha": 0.85490197
+      "color": "#96966b",
+      "alpha": 0.9254902
     },
     {
       "name": "Nutmeg Sapling",
@@ -56023,7 +56040,7 @@ var colorpalette={
       "name": "Object Submission Station (OSS)",
       "uid": "betterquesting:submit_station",
       "meta": 0,
-      "color": "#694e27"
+      "color": "#6a4f29"
     },
     {
       "name": "Oblivion Jar",
@@ -56150,7 +56167,7 @@ var colorpalette={
       "name": "Obsidian Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 5,
-      "color": "#483837",
+      "color": "#495554",
       "alpha": 0.4
     },
     {
@@ -56218,13 +56235,13 @@ var colorpalette={
       "name": "Octuple Compressed Aer Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 15,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Octuple Compressed Aqua Solar",
       "uid": "EMT:EMTSolars5",
       "meta": 1,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Octuple Compressed Cobblestone",
@@ -56236,31 +56253,31 @@ var colorpalette={
       "name": "Octuple Compressed Ignis Solar",
       "uid": "EMT:EMTSolars5",
       "meta": 2,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Octuple Compressed Ordo Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 13,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Octuple Compressed Perditio Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 14,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Octuple Compressed Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 12,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Octuple Compressed Terra Solar",
       "uid": "EMT:EMTSolars5",
       "meta": 0,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Offensive Spell Modifier",
@@ -56370,7 +56387,7 @@ var colorpalette={
       "name": "Orange Autumn Leaves",
       "uid": "BiomesOPlenty:leaves2",
       "meta": 2,
-      "color": "#284a33"
+      "color": "#335e41"
     },
     {
       "name": "Orange Autumn Sapling",
@@ -56414,13 +56431,13 @@ var colorpalette={
       "name": "Orange Curtain",
       "uid": "malisisdoors:curtain_orange",
       "meta": 0,
-      "color": "#925521"
+      "color": "#995922"
     },
     {
       "name": "Orange Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 1,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Orange Force Field",
@@ -56440,13 +56457,13 @@ var colorpalette={
       "name": "Orange Lamp",
       "uid": "IC2NuclearControl:blockNuclearControlLight",
       "meta": 2,
-      "color": "#932216"
+      "color": "#8e1f16"
     },
     {
       "name": "Orange Lamp",
       "uid": "IC2NuclearControl:blockNuclearControlLight",
       "meta": 3,
-      "color": "#d46033"
+      "color": "#d25e32"
     },
     {
       "name": "Orange Lamp",
@@ -56529,7 +56546,7 @@ var colorpalette={
       "name": "Orange Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 1,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Orange Tulip",
@@ -56581,13 +56598,13 @@ var colorpalette={
       "name": "Order Infused Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 9,
-      "color": "#684459"
+      "color": "#755461"
     },
     {
       "name": "Order Infused Double Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 10,
-      "color": "#79515d"
+      "color": "#815c66"
     },
     {
       "name": "Order Infused Stone",
@@ -56599,7 +56616,7 @@ var colorpalette={
       "name": "Order Infused Triple Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 11,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Ordo Imbued Fire",
@@ -56623,7 +56640,7 @@ var colorpalette={
       "name": "Origin Leaves",
       "uid": "BiomesOPlenty:leaves3",
       "meta": 3,
-      "color": "#a48a99"
+      "color": "#dbc3d1"
     },
     {
       "name": "Origin Sapling",
@@ -56714,7 +56731,7 @@ var colorpalette={
       "name": "Overchanting Table",
       "uid": "thaumicbases:overchanter",
       "meta": 0,
-      "color": "#634c1d"
+      "color": "#584c21"
     },
     {
       "name": "Overgrown Netherrack",
@@ -56732,31 +56749,31 @@ var colorpalette={
       "name": "Oxygen Bubble Distributor",
       "uid": "GalacticraftCore:tile.distributor",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Oxygen Collector",
       "uid": "GalacticraftCore:tile.oxygenCollector",
       "meta": 0,
-      "color": "#45443a"
+      "color": "#3e3e34"
     },
     {
       "name": "Oxygen Compressor",
       "uid": "GalacticraftCore:tile.oxygenCompressor",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Oxygen Decompressor",
       "uid": "GalacticraftCore:tile.oxygenCompressor",
       "meta": 4,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Oxygen Detector",
       "uid": "GalacticraftCore:tile.oxygenDetector",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Oxygen Pipe",
@@ -56769,13 +56786,13 @@ var colorpalette={
       "name": "Oxygen Sealer",
       "uid": "GalacticraftCore:tile.sealer",
       "meta": 0,
-      "color": "#3e3d36"
+      "color": "#3b3a31"
     },
     {
       "name": "Oxygen Storage Module",
       "uid": "GalacticraftCore:tile.machine2",
       "meta": 8,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "PTFE Pipe Casing",
@@ -57146,7 +57163,7 @@ var colorpalette={
       "name": "Painting Machine",
       "uid": "EnderIO:blockPainter",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Painting Press",
@@ -57278,7 +57295,7 @@ var colorpalette={
       "name": "Palm Leaves",
       "uid": "BiomesOPlenty:colorizedLeaves1",
       "meta": 2,
-      "color": "#696969"
+      "color": "#7c7c7c"
     },
     {
       "name": "Palm Map Frame",
@@ -57464,8 +57481,8 @@ var colorpalette={
       "name": "Papaya",
       "uid": "harvestcraft:pamPapaya",
       "meta": 0,
-      "color": "#c9b07b",
-      "alpha": 0.9019608
+      "color": "#c8b27e",
+      "alpha": 0.94509804
     },
     {
       "name": "Papaya Bookcase",
@@ -57814,7 +57831,7 @@ var colorpalette={
       "name": "Pattern Encoder",
       "uid": "ae2stuff:Encoder",
       "meta": 0,
-      "color": "#58585f"
+      "color": "#535359"
     },
     {
       "name": "Pattern Storage",
@@ -57892,8 +57909,8 @@ var colorpalette={
       "name": "Peach",
       "uid": "harvestcraft:pamPeach",
       "meta": 0,
-      "color": "#9f7a56",
-      "alpha": 0.94509804
+      "color": "#a67e58",
+      "alpha": 0.9882353
     },
     {
       "name": "Peach Sapling",
@@ -57954,8 +57971,8 @@ var colorpalette={
       "name": "Peony",
       "uid": "minecraft:double_plant",
       "meta": 5,
-      "color": "#85868e",
-      "alpha": 0.9882353
+      "color": "#84858d",
+      "alpha": 0.99607843
     },
     {
       "name": "Peppercorn",
@@ -58113,7 +58130,7 @@ var colorpalette={
       "name": "Persimmon Leaves",
       "uid": "BiomesOPlenty:persimmonLeaves",
       "meta": 0,
-      "color": "#474320"
+      "color": "#5a5629"
     },
     {
       "name": "Persimmon Sapling",
@@ -58185,7 +58202,7 @@ var colorpalette={
       "name": "Photovoltaic Cell",
       "uid": "EnderIO:blockSolarPanel",
       "meta": 0,
-      "color": "#ed8e49"
+      "color": "#ec8a46"
     },
     {
       "name": "Pigmented Glass",
@@ -58889,7 +58906,7 @@ var colorpalette={
       "name": "Pine Leaves",
       "uid": "BiomesOPlenty:colorizedLeaves2",
       "meta": 1,
-      "color": "#4d4d4d"
+      "color": "#6c6c6c"
     },
     {
       "name": "Pine Leaves",
@@ -59123,7 +59140,7 @@ var colorpalette={
       "name": "Pink Cherry Leaves",
       "uid": "BiomesOPlenty:leaves3",
       "meta": 0,
-      "color": "#2e8a23"
+      "color": "#3bbf28"
     },
     {
       "name": "Pink Cherry Sapling",
@@ -59149,7 +59166,7 @@ var colorpalette={
       "name": "Pink Curtain",
       "uid": "malisisdoors:curtain_pink",
       "meta": 0,
-      "color": "#a35c6f"
+      "color": "#ae6276"
     },
     {
       "name": "Pink Daffodil",
@@ -59161,7 +59178,7 @@ var colorpalette={
       "name": "Pink Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 6,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Pink Force Field",
@@ -59282,7 +59299,7 @@ var colorpalette={
       "name": "Pink Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 6,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Pink Tulip",
@@ -59343,19 +59360,19 @@ var colorpalette={
       "name": "Planar Boundary",
       "uid": "ThaumicHorizons:voidTH",
       "meta": 0,
-      "color": "#020211"
+      "color": "#02020f"
     },
     {
       "name": "Planar Vortex",
       "uid": "ThaumicHorizons:vortexTH",
       "meta": 0,
-      "color": "#752b96"
+      "color": "#7c2ca0"
     },
     {
       "name": "Planar Vortex",
       "uid": "ThaumicHorizons:vortexTH",
       "meta": 1,
-      "color": "#752b96"
+      "color": "#7c2ca0"
     },
     {
       "name": "Plascrete Block",
@@ -59397,7 +59414,7 @@ var colorpalette={
       "name": "Player Interface",
       "uid": "RandomThings:playerinterface",
       "meta": 0,
-      "color": "#280c51"
+      "color": "#25094b"
     },
     {
       "name": "Player Sensor",
@@ -59816,7 +59833,7 @@ var colorpalette={
       "name": "Poppet Shelf",
       "uid": "witchery:poppetshelf",
       "meta": 0,
-      "color": "#353c39"
+      "color": "#353c38"
     },
     {
       "name": "Poppy",
@@ -59900,26 +59917,26 @@ var colorpalette={
       "name": "Portable Altar",
       "uid": "BloodArsenal:portable_altar",
       "meta": 0,
-      "color": "#710504"
+      "color": "#6d0402"
     },
     {
       "name": "Portable Node",
       "uid": "EMT:PortableNode",
       "meta": 0,
-      "color": "#898589"
+      "color": "#8d8a88"
     },
     {
       "name": "Portal",
       "uid": "enhancedportals:portal",
       "meta": 0,
-      "color": "#1a53ae",
-      "alpha": 0.74509805
+      "color": "#1a54ae",
+      "alpha": 0.7490196
     },
     {
       "name": "Portal",
       "uid": "minecraft:portal",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "Portal Controller",
@@ -59943,13 +59960,13 @@ var colorpalette={
       "name": "Portal to The Deep Dark",
       "uid": "ExtraUtilities:dark_portal",
       "meta": 0,
-      "color": "#272727"
+      "color": "#1a1a1a"
     },
     {
       "name": "Portal to The Last Millenium",
       "uid": "ExtraUtilities:dark_portal",
       "meta": 2,
-      "color": "#372b41"
+      "color": "#32283b"
     },
     {
       "name": "Portobello",
@@ -59967,7 +59984,7 @@ var colorpalette={
       "name": "Potato Cannon Turret",
       "uid": "openmodularturrets:potatoCannonTurret",
       "meta": 0,
-      "color": "#dbdad9",
+      "color": "#e1e1e0",
       "alpha": 0.4
     },
     {
@@ -59980,7 +59997,7 @@ var colorpalette={
       "name": "Potentia Generator",
       "uid": "EMT:EssentiaGenerators",
       "meta": 0,
-      "color": "#7f8080"
+      "color": "#868787"
     },
     {
       "name": "Potentiometer",
@@ -60034,7 +60051,7 @@ var colorpalette={
       "name": "Power Monitor",
       "uid": "EnderIO:blockPowerMonitor",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Powered Blaze Rail",
@@ -60058,7 +60075,7 @@ var colorpalette={
       "name": "Powered Spawner",
       "uid": "EnderIO:blockPoweredSpawner",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Present",
@@ -60196,7 +60213,7 @@ var colorpalette={
       "name": "Pressurized Fluid Tank",
       "uid": "EnderIO:blockTank",
       "meta": 1,
-      "color": "#353f3f"
+      "color": "#353e3e"
     },
     {
       "name": "Primal Shroom",
@@ -60209,13 +60226,13 @@ var colorpalette={
       "name": "Primitive Kinetic Shaftbox",
       "uid": "bartworks:BWRotorBlock",
       "meta": 0,
-      "color": "#a18a64"
+      "color": "#a0875c"
     },
     {
       "name": "Primordial Fossil",
       "uid": "ThaumicHorizons:leviathanTH",
       "meta": 0,
-      "color": "#423306"
+      "color": "#413205"
     },
     {
       "name": "Printing Press",
@@ -60239,8 +60256,8 @@ var colorpalette={
       "name": "Programming Table",
       "uid": "BuildCraft|Silicon:laserTableBlock",
       "meta": 4,
-      "color": "#343435",
-      "alpha": 0.972549
+      "color": "#323234",
+      "alpha": 0.98039216
     },
     {
       "name": "Project Bench",
@@ -60265,7 +60282,7 @@ var colorpalette={
       "name": "Protein Liquifier",
       "uid": "gendustry:Liquifier",
       "meta": 0,
-      "color": "#af997b"
+      "color": "#aa916e"
     },
     {
       "name": "Proteus Dungeon Bricks",
@@ -60460,13 +60477,13 @@ var colorpalette={
       "name": "Purple Curtain",
       "uid": "malisisdoors:curtain_purple",
       "meta": 0,
-      "color": "#51256b"
+      "color": "#542771"
     },
     {
       "name": "Purple Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 10,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Purple Future Glass",
@@ -60562,7 +60579,7 @@ var colorpalette={
       "name": "Purple Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 10,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Purple Typewriter",
@@ -60823,7 +60840,7 @@ var colorpalette={
       "color": "#6d6d6d"
     },
     {
-      "name": "QED (Quasar Entanglement Device)",
+      "name": "QED (Quark/Electron Director)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -60832,31 +60849,31 @@ var colorpalette={
       "name": "Quadruple Compressed Aer Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 3,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quadruple Compressed Aqua Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 5,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quadruple Compressed Cobblestone",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 3,
-      "color": "#2b2b2c"
+      "color": "#2e2e2f"
     },
     {
       "name": "Quadruple Compressed Dirt",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 11,
-      "color": "#2f2218"
+      "color": "#33241a"
     },
     {
       "name": "Quadruple Compressed Ignis Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 6,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quadruple Compressed Obsidian (6561)",
@@ -60868,25 +60885,25 @@ var colorpalette={
       "name": "Quadruple Compressed Ordo Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 1,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quadruple Compressed Perditio Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 2,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quadruple Compressed Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 0,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quadruple Compressed Terra Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 4,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quantum Frame Box",
@@ -60971,7 +60988,7 @@ var colorpalette={
       "name": "Quartz Glass",
       "uid": "appliedenergistics2:tile.BlockQuartzGlass",
       "meta": 0,
-      "color": "#403736",
+      "color": "#3c4747",
       "alpha": 0.4
     },
     {
@@ -61026,25 +61043,25 @@ var colorpalette={
       "name": "Quintuple Compressed Aer Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 10,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quintuple Compressed Aqua Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 12,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quintuple Compressed Cobblestone",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 4,
-      "color": "#1e1e1f"
+      "color": "#1f1f20"
     },
     {
       "name": "Quintuple Compressed Ignis Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 13,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quintuple Compressed Obsidian (59049)",
@@ -61056,25 +61073,25 @@ var colorpalette={
       "name": "Quintuple Compressed Ordo Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 8,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quintuple Compressed Perditio Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 9,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quintuple Compressed Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 7,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Quintuple Compressed Terra Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 11,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "RF Node",
@@ -61123,7 +61140,7 @@ var colorpalette={
       "name": "Radioactive Hazard Sign Block",
       "uid": "gregtech:gt.blockcasings3",
       "meta": 2,
-      "color": "#827d47"
+      "color": "#817d54"
     },
     {
       "name": "Radioisotope Heat Generator",
@@ -61159,7 +61176,7 @@ var colorpalette={
       "name": "Rail Gun Turret",
       "uid": "openmodularturrets:railGunTurret",
       "meta": 0,
-      "color": "#cfcfd0",
+      "color": "#cdcdce",
       "alpha": 0.4
     },
     {
@@ -61178,13 +61195,13 @@ var colorpalette={
       "name": "Rainbow Cacti",
       "uid": "thaumicbases:rainbowCactus",
       "meta": 0,
-      "color": "#54385e"
+      "color": "#612f5e"
     },
     {
       "name": "Rainbow Crystal",
       "uid": "GalaxySpace:barnardaCcrystal",
       "meta": 0,
-      "color": "#1a5756",
+      "color": "#175a59",
       "alpha": 0.4
     },
     {
@@ -61221,8 +61238,8 @@ var colorpalette={
       "name": "Rainbow Oak Sapling",
       "uid": "TwilightForest:tile.TFSapling",
       "meta": 9,
-      "color": "#626b4b",
-      "alpha": 0.95686275
+      "color": "#636c4c",
+      "alpha": 0.96862745
     },
     {
       "name": "Rainforest Oak",
@@ -61258,7 +61275,7 @@ var colorpalette={
       "name": "Range Trigger",
       "uid": "IC2NuclearControl:blockNuclearControlMain",
       "meta": 8,
-      "color": "#7a7a7a"
+      "color": "#7c7c7c"
     },
     {
       "name": "Rapid Item Valve",
@@ -61288,7 +61305,7 @@ var colorpalette={
       "name": "Raspberry Bush",
       "uid": "Natura:BerryBush",
       "meta": 12,
-      "color": "#8ea03f"
+      "color": "#979c51"
     },
     {
       "name": "Raspberry Crop",
@@ -61361,13 +61378,13 @@ var colorpalette={
       "name": "Raw Essentia Diffusion Cell",
       "uid": "EMT:EMT_GTBLOCK_CASEING",
       "meta": 5,
-      "color": "#a591a6"
+      "color": "#a98daa"
     },
     {
       "name": "Raw Magic Containing Casing",
       "uid": "EMT:EMT_GTBLOCK_CASEING",
       "meta": 4,
-      "color": "#b09979"
+      "color": "#ac9168"
     },
     {
       "name": "Reactor Access Hatch",
@@ -61421,13 +61438,15 @@ var colorpalette={
       "name": "Rebellious Block",
       "uid": "chisel:rebel",
       "meta": 0,
-      "color": "#4d5050"
+      "color": "#4b5858",
+      "alpha": 0.99607843
     },
     {
       "name": "Rebellious Block",
       "uid": "chisel:rebel",
       "meta": 1,
-      "color": "#546363"
+      "color": "#4b5858",
+      "alpha": 0.99607843
     },
     {
       "name": "Rebellious Block",
@@ -61488,7 +61507,7 @@ var colorpalette={
       "name": "Red Curtain",
       "uid": "malisisdoors:curtain_red",
       "meta": 0,
-      "color": "#6d1c1c"
+      "color": "#721e1e"
     },
     {
       "name": "Red Drawer",
@@ -61512,7 +61531,7 @@ var colorpalette={
       "name": "Red Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 14,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Red Future Glass",
@@ -61633,7 +61652,7 @@ var colorpalette={
       "name": "Red Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 14,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Red Trim",
@@ -61675,7 +61694,7 @@ var colorpalette={
       "name": "Redcrystal",
       "uid": "Automagy:blockRedcrystal",
       "meta": 0,
-      "color": "#6f0606"
+      "color": "#6f0707"
     },
     {
       "name": "Redirection Focus",
@@ -62198,7 +62217,7 @@ var colorpalette={
       "name": "Redwood Leaves",
       "uid": "BiomesOPlenty:colorizedLeaves1",
       "meta": 3,
-      "color": "#565656"
+      "color": "#7a7a7a"
     },
     {
       "name": "Redwood Leaves",
@@ -62552,7 +62571,7 @@ var colorpalette={
       "name": "Refinery",
       "uid": "GalacticraftCore:tile.refinery",
       "meta": 0,
-      "color": "#3f403e"
+      "color": "#424341"
     },
     {
       "name": "Reinforced Blood Stone",
@@ -62570,7 +62589,7 @@ var colorpalette={
       "name": "Reinforced Dark Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 11,
-      "color": "#413837",
+      "color": "#4a5655",
       "alpha": 0.4
     },
     {
@@ -62656,7 +62675,7 @@ var colorpalette={
       "name": "Relativistic Turret",
       "uid": "openmodularturrets:relativisticTurret",
       "meta": 0,
-      "color": "#ebebe8",
+      "color": "#f0efea",
       "alpha": 0.4
     },
     {
@@ -62669,7 +62688,7 @@ var colorpalette={
       "name": "Remote Comparator",
       "uid": "Automagy:blockRemoteComparator",
       "meta": 0,
-      "color": "#6d5b3a"
+      "color": "#685739"
     },
     {
       "name": "Remote Interface",
@@ -62687,7 +62706,7 @@ var colorpalette={
       "name": "Remote Thermal Monitor",
       "uid": "IC2NuclearControl:blockNuclearControlMain",
       "meta": 3,
-      "color": "#737474"
+      "color": "#767676"
     },
     {
       "name": "Replicator",
@@ -62736,13 +62755,13 @@ var colorpalette={
       "name": "Resonating Redcrystal",
       "uid": "Automagy:blockRedcrystalRes",
       "meta": 0,
-      "color": "#9e590a"
+      "color": "#9f5a0a"
     },
     {
       "name": "Restricted Essentia Tube",
       "uid": "Thaumcraft:blockTube",
       "meta": 5,
-      "color": "#444444"
+      "color": "#434343"
     },
     {
       "name": "Resurrection Stone",
@@ -62888,7 +62907,7 @@ var colorpalette={
       "name": "Rocket Launcher Turret",
       "uid": "openmodularturrets:rocketTurret",
       "meta": 0,
-      "color": "#cbcbcb",
+      "color": "#d2d1d1",
       "alpha": 0.4
     },
     {
@@ -63075,31 +63094,31 @@ var colorpalette={
       "name": "Round Robinator I",
       "uid": "miscutils:blockRoundRobinator",
       "meta": 0,
-      "color": "#52555a"
+      "color": "#52555b"
     },
     {
       "name": "Round Robinator I",
       "uid": "miscutils:blockRoundRobinator",
       "meta": 1,
-      "color": "#625a4a"
+      "color": "#635a4a"
     },
     {
       "name": "Round Robinator I",
       "uid": "miscutils:blockRoundRobinator",
       "meta": 2,
-      "color": "#647256"
+      "color": "#657355"
     },
     {
       "name": "Round Robinator I",
       "uid": "miscutils:blockRoundRobinator",
       "meta": 3,
-      "color": "#463045"
+      "color": "#473046"
     },
     {
       "name": "Round Robinator I",
       "uid": "miscutils:blockRoundRobinator",
       "meta": 4,
-      "color": "#383046"
+      "color": "#373047"
     },
     {
       "name": "Routing Switch Motor",
@@ -63129,7 +63148,7 @@ var colorpalette={
       "name": "Rowan Leaves",
       "uid": "witchery:witchleaves",
       "meta": 0,
-      "color": "#686161"
+      "color": "#897f7f"
     },
     {
       "name": "Rowan Planks",
@@ -63285,85 +63304,85 @@ var colorpalette={
       "name": "Runed Obsidian",
       "uid": "Automagy:blockRunedObsidian",
       "meta": 0,
-      "color": "#161221"
+      "color": "#191324"
     },
     {
       "name": "Runed Obsidian (Bat)",
       "uid": "Automagy:blockNetherRuneMob",
       "meta": 5,
-      "color": "#290f1b"
+      "color": "#23111f"
     },
     {
       "name": "Runed Obsidian (Blaze)",
       "uid": "Automagy:blockNetherRuneMob",
       "meta": 1,
-      "color": "#322715"
+      "color": "#2b211b"
     },
     {
       "name": "Runed Obsidian (Celerity)",
       "uid": "Automagy:blockNetherRune",
       "meta": 6,
-      "color": "#231b2f"
+      "color": "#1f182b"
     },
     {
       "name": "Runed Obsidian (Crystal)",
       "uid": "Automagy:blockNetherRune",
       "meta": 2,
-      "color": "#2c2a37"
+      "color": "#231f2f"
     },
     {
       "name": "Runed Obsidian (Ghast)",
       "uid": "Automagy:blockNetherRuneMob",
       "meta": 2,
-      "color": "#222a31"
+      "color": "#20232e"
     },
     {
       "name": "Runed Obsidian (Light)",
       "uid": "Automagy:blockNetherRune",
       "meta": 3,
-      "color": "#372a28"
+      "color": "#2a2027"
     },
     {
       "name": "Runed Obsidian (Rock)",
       "uid": "Automagy:blockNetherRune",
       "meta": 0,
-      "color": "#230f1c"
+      "color": "#1e1121"
     },
     {
       "name": "Runed Obsidian (Sea)",
       "uid": "Automagy:blockNetherRune",
       "meta": 1,
-      "color": "#30131a"
+      "color": "#27131f"
     },
     {
       "name": "Runed Obsidian (Skull)",
       "uid": "Automagy:blockNetherRuneMob",
       "meta": 3,
-      "color": "#1a1622"
+      "color": "#1b1624"
     },
     {
       "name": "Runed Obsidian (Slime)",
       "uid": "Automagy:blockNetherRuneMob",
       "meta": 4,
-      "color": "#19201f"
+      "color": "#1a1e21"
     },
     {
       "name": "Runed Obsidian (Soul)",
       "uid": "Automagy:blockNetherRune",
       "meta": 4,
-      "color": "#20171f"
+      "color": "#1e1622"
     },
     {
       "name": "Runed Obsidian (Wisp)",
       "uid": "Automagy:blockNetherRuneMob",
       "meta": 6,
-      "color": "#3a2547"
+      "color": "#31203e"
     },
     {
       "name": "Runed Obsidian (Zombie)",
       "uid": "Automagy:blockNetherRuneMob",
       "meta": 0,
-      "color": "#2d1924"
+      "color": "#261725"
     },
     {
       "name": "Runic Matrix",
@@ -63471,7 +63490,7 @@ var colorpalette={
       "name": "Rusty Hatch",
       "uid": "malisisdoors:rustyHatch",
       "meta": 0,
-      "color": "#916047"
+      "color": "#7c5441"
     },
     {
       "name": "Rusty Ladder",
@@ -63501,7 +63520,7 @@ var colorpalette={
       "name": "SAG Mill",
       "uid": "EnderIO:blockSagMill",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "SDX",
@@ -63579,7 +63598,7 @@ var colorpalette={
       "name": "Sacred Oak Leaves",
       "uid": "BiomesOPlenty:colorizedLeaves1",
       "meta": 0,
-      "color": "#6e6e6e"
+      "color": "#787878"
     },
     {
       "name": "Sacred Oak Map Frame",
@@ -63922,7 +63941,7 @@ var colorpalette={
       "name": "Saloon Door",
       "uid": "malisisdoors:saloon",
       "meta": 0,
-      "color": "#8d6029"
+      "color": "#8c602a"
     },
     {
       "name": "Salt Containment Casing",
@@ -64830,7 +64849,7 @@ var colorpalette={
       "name": "Scaffold",
       "uid": "catwalks:scaffold",
       "meta": 1,
-      "color": "#30302b"
+      "color": "#30302a"
     },
     {
       "name": "Scaffolding",
@@ -64854,7 +64873,7 @@ var colorpalette={
       "name": "Scarecrow",
       "uid": "witchery:scarecrow",
       "meta": 0,
-      "color": "#736856"
+      "color": "#837358"
     },
     {
       "name": "Schematic Saver",
@@ -64896,43 +64915,43 @@ var colorpalette={
       "name": "Sealable Cobblestone Transport Pipe",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 8,
-      "color": "#7b7b7a"
+      "color": "#8e8e8d"
     },
     {
       "name": "Sealable Cobblestone Waterproof Pipe",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 10,
-      "color": "#7c7d7a"
+      "color": "#8f8f8d"
     },
     {
       "name": "Sealable Copper Cable",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 2,
-      "color": "#8d8c8a"
+      "color": "#969695"
     },
     {
       "name": "Sealable Glass Fibre Cable",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 5,
-      "color": "#9d9f9f"
+      "color": "#9e9f9e"
     },
     {
       "name": "Sealable Gold Cable",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 3,
-      "color": "#949490"
+      "color": "#999997"
     },
     {
       "name": "Sealable Golden Conductive Pipe",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 12,
-      "color": "#95877a"
+      "color": "#9a948e"
     },
     {
       "name": "Sealable Heavy Aluminium Wire",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 15,
-      "color": "#747372"
+      "color": "#7d7c7a"
     },
     {
       "name": "Sealable ME Cable",
@@ -64944,31 +64963,31 @@ var colorpalette={
       "name": "Sealable Oxygen Pipe",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 1,
-      "color": "#858482"
+      "color": "#848381"
     },
     {
       "name": "Sealable Stone Conductive Pipe",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 11,
-      "color": "#887c7c"
+      "color": "#948f8e"
     },
     {
       "name": "Sealable Stone Transport Pipe",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 7,
-      "color": "#7f7f7e"
+      "color": "#90908f"
     },
     {
       "name": "Sealable Stone Waterproof Pipe",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 9,
-      "color": "#80817e"
+      "color": "#91918f"
     },
     {
       "name": "Sealable Ultra-Low-Current Cable",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 6,
-      "color": "#a1a1a0"
+      "color": "#9f9f9e"
     },
     {
       "name": "Seared Brick Slab",
@@ -65155,49 +65174,49 @@ var colorpalette={
       "name": "Septuple Compressed Aer Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 8,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Septuple Compressed Aqua Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 10,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Septuple Compressed Cobblestone",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 6,
-      "color": "#080809"
+      "color": "#09090a"
     },
     {
       "name": "Septuple Compressed Ignis Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 11,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Septuple Compressed Ordo Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 6,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Septuple Compressed Perditio Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 7,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Septuple Compressed Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 5,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Septuple Compressed Terra Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 9,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Sequoia Bookcase",
@@ -65383,49 +65402,49 @@ var colorpalette={
       "name": "Sextuple Compressed Aer Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 1,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Sextuple Compressed Aqua Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 3,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Sextuple Compressed Cobblestone",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 5,
-      "color": "#131313"
+      "color": "#131314"
     },
     {
       "name": "Sextuple Compressed Ignis Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 4,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Sextuple Compressed Ordo Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 15,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Sextuple Compressed Perditio Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 0,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Sextuple Compressed Solar",
       "uid": "EMT:EMTSolars3",
       "meta": 14,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Sextuple Compressed Terra Solar",
       "uid": "EMT:EMTSolars4",
       "meta": 2,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Shadow Orchid",
@@ -65473,7 +65492,7 @@ var colorpalette={
       "name": "Shoji Door",
       "uid": "malisisdoors:shoji_door",
       "meta": 0,
-      "color": "#432104"
+      "color": "#512e0c"
     },
     {
       "name": "Short Mead",
@@ -65510,8 +65529,8 @@ var colorpalette={
       "name": "Sickly Twilight Oak Sapling",
       "uid": "TwilightForest:tile.TFSapling",
       "meta": 0,
-      "color": "#496831",
-      "alpha": 0.95686275
+      "color": "#496932",
+      "alpha": 0.96862745
     },
     {
       "name": "Sign",
@@ -65650,7 +65669,7 @@ var colorpalette={
       "name": "SilverCurtain",
       "uid": "malisisdoors:curtain_silver",
       "meta": 0,
-      "color": "#939393"
+      "color": "#969696"
     },
     {
       "name": "Silverbell Bookcase",
@@ -65729,7 +65748,7 @@ var colorpalette={
       "name": "Silverbell Leaves",
       "uid": "Natura:Rare Leaves",
       "meta": 1,
-      "color": "#589238"
+      "color": "#71a94f"
     },
     {
       "name": "Silverbell Map Frame",
@@ -65867,7 +65886,7 @@ var colorpalette={
       "name": "Silverwood Leaves",
       "uid": "Thaumcraft:blockMagicalLeaves",
       "meta": 1,
-      "color": "#31547e"
+      "color": "#4c72ae"
     },
     {
       "name": "Silverwood Log",
@@ -65927,7 +65946,7 @@ var colorpalette={
       "name": "Siren\u0027s Lure",
       "uid": "Automagy:blockMobLure",
       "meta": 0,
-      "color": "#191226"
+      "color": "#1c1429"
     },
     {
       "name": "Skeleton Skull",
@@ -65945,7 +65964,7 @@ var colorpalette={
       "name": "Sky Stone",
       "uid": "appliedenergistics2:tile.BlockSkyStone",
       "meta": 0,
-      "color": "#413433"
+      "color": "#3c4747"
     },
     {
       "name": "Sky Stone Block",
@@ -66005,19 +66024,19 @@ var colorpalette={
       "name": "Sky Stone Chest",
       "uid": "appliedenergistics2:tile.BlockSkyChest",
       "meta": 0,
-      "color": "#413433"
+      "color": "#3c4747"
     },
     {
       "name": "Sky Stone Slabs",
       "uid": "appliedenergistics2:tile.SkyStoneSlabBlock",
       "meta": 0,
-      "color": "#413433"
+      "color": "#3c4747"
     },
     {
       "name": "Sky Stone Slabs",
       "uid": "appliedenergistics2:tile.SkyStoneSlabBlock.double",
       "meta": 0,
-      "color": "#413433"
+      "color": "#3c4747"
     },
     {
       "name": "Sky Stone Small Brick",
@@ -66047,13 +66066,13 @@ var colorpalette={
       "name": "Sky Stone Stairs",
       "uid": "appliedenergistics2:tile.SkyStoneStairBlock",
       "meta": 0,
-      "color": "#413433"
+      "color": "#3c4747"
     },
     {
       "name": "Skyberry Bush",
       "uid": "Natura:NetherBerryBush",
       "meta": 14,
-      "color": "#4a4eab"
+      "color": "#5b66ac"
     },
     {
       "name": "Skylight",
@@ -66084,7 +66103,7 @@ var colorpalette={
       "name": "Slice\u0027N\u0027Splice",
       "uid": "EnderIO:blockSliceAndSplice",
       "meta": 0,
-      "color": "#4a4541"
+      "color": "#494440"
     },
     {
       "name": "Slide Trap",
@@ -66163,7 +66182,7 @@ var colorpalette={
       "name": "Slimy Leaves",
       "uid": "TConstruct:slime.leaves",
       "meta": 0,
-      "color": "#4ba6a4"
+      "color": "#67cfcc"
     },
     {
       "name": "Slimy Mud",
@@ -66531,7 +66550,7 @@ var colorpalette={
       "name": "Solar Wind Panel",
       "uid": "GalaxySpace:solarwindpanel",
       "meta": 0,
-      "color": "#959595"
+      "color": "#979797"
     },
     {
       "name": "Solid Canning Machine",
@@ -66711,7 +66730,7 @@ var colorpalette={
       "name": "Soul Binder",
       "uid": "EnderIO:blockSoulBinder",
       "meta": 0,
-      "color": "#4a4541"
+      "color": "#494440"
     },
     {
       "name": "Soul Brazier",
@@ -66723,7 +66742,7 @@ var colorpalette={
       "name": "Soul Compacter",
       "uid": "BloodArsenal:compacter",
       "meta": 0,
-      "color": "#5e1818"
+      "color": "#611a1a"
     },
     {
       "name": "Soul Glass",
@@ -66785,7 +66804,7 @@ var colorpalette={
       "name": "Spacetime Altering Casing",
       "uid": "tectech:gt.blockcasingsTT",
       "meta": 9,
-      "color": "#285375"
+      "color": "#1f4868"
     },
     {
       "name": "Spanish Moss",
@@ -66798,13 +66817,13 @@ var colorpalette={
       "name": "Spatial IO Port",
       "uid": "appliedenergistics2:tile.BlockSpatialIOPort",
       "meta": 0,
-      "color": "#413939"
+      "color": "#3c4747"
     },
     {
       "name": "Spatial Pylon",
       "uid": "appliedenergistics2:tile.BlockSpatialPylon",
       "meta": 0,
-      "color": "#3a3737"
+      "color": "#3c4847"
     },
     {
       "name": "Speaker",
@@ -66858,7 +66877,7 @@ var colorpalette={
       "name": "Spell Conduit",
       "uid": "AWWayofTime:blockConduit",
       "meta": 0,
-      "color": "#710504"
+      "color": "#6d0402"
     },
     {
       "name": "Spell Table",
@@ -66906,13 +66925,13 @@ var colorpalette={
       "name": "Spinning Wheel",
       "uid": "witchery:spinningwheel",
       "meta": 0,
-      "color": "#998055"
+      "color": "#977e56"
     },
     {
       "name": "Spirit Portal",
       "uid": "witchery:spiritportal",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "Sponge",
@@ -66991,7 +67010,7 @@ var colorpalette={
       "name": "Spruce Door",
       "uid": "malisisdoors:door_spruce",
       "meta": 0,
-      "color": "#564127"
+      "color": "#54412c"
     },
     {
       "name": "Spruce Drawer",
@@ -68592,8 +68611,8 @@ var colorpalette={
       "name": "Starfruit",
       "uid": "harvestcraft:pamStarfruit",
       "meta": 0,
-      "color": "#d0ed99",
-      "alpha": 0.73333335
+      "color": "#d2ee9f",
+      "alpha": 0.8666667
     },
     {
       "name": "Starfruit Sapling",
@@ -68846,7 +68865,7 @@ var colorpalette={
       "name": "Stingberry Bush",
       "uid": "Natura:NetherBerryBush",
       "meta": 15,
-      "color": "#9e3a1f"
+      "color": "#a13d2e"
     },
     {
       "name": "Stirling Engine",
@@ -68858,7 +68877,7 @@ var colorpalette={
       "name": "Stirling Generator",
       "uid": "EnderIO:blockStirlingGenerator",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Stirling Generator",
@@ -68900,25 +68919,29 @@ var colorpalette={
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 0,
-      "color": "#4b5252"
+      "color": "#4b5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 1,
-      "color": "#4c5050"
+      "color": "#4b5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 2,
-      "color": "#566565"
+      "color": "#4b5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Stone Bricks",
       "uid": "chisel:stonebricksmooth",
       "meta": 3,
-      "color": "#505454"
+      "color": "#4b5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Stone Bricks",
@@ -69265,7 +69288,7 @@ var colorpalette={
       "name": "Sturdy Activator Rail",
       "uid": "catwalks:sturdy_rail_activator",
       "meta": 0,
-      "color": "#5f534c"
+      "color": "#655d58"
     },
     {
       "name": "Sturdy Aluminium Machine Casing",
@@ -69277,19 +69300,19 @@ var colorpalette={
       "name": "Sturdy Detector Rail",
       "uid": "catwalks:sturdy_rail_detector",
       "meta": 0,
-      "color": "#665f5b"
+      "color": "#696461"
     },
     {
       "name": "Sturdy Powered Rail",
       "uid": "catwalks:sturdy_rail_powered",
       "meta": 0,
-      "color": "#736148"
+      "color": "#726656"
     },
     {
       "name": "Sturdy Rail",
       "uid": "catwalks:sturdy_rail",
       "meta": 0,
-      "color": "#645f57"
+      "color": "#686560"
     },
     {
       "name": "Sub-Station External Casing",
@@ -69344,7 +69367,7 @@ var colorpalette={
       "name": "Supply Depot Casing",
       "uid": "miscutils:gtplusplus.blockcasings.3",
       "meta": 9,
-      "color": "#42392a"
+      "color": "#463c2c"
     },
     {
       "name": "Support Column",
@@ -69398,7 +69421,7 @@ var colorpalette={
       "name": "Swirling Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 6,
-      "color": "#433636",
+      "color": "#495655",
       "alpha": 0.4
     },
     {
@@ -69667,43 +69690,43 @@ var colorpalette={
       "name": "T.F.F.T Casing",
       "uid": "kekztech:kekztech_tfftcasingblock_block",
       "meta": 0,
-      "color": "#2e382e"
+      "color": "#2a312a"
     },
     {
       "name": "T.F.F.T Multi-Fluid I/O Hatch",
       "uid": "kekztech:kekztech_tfftmultihatch_block",
       "meta": 0,
-      "color": "#284131"
+      "color": "#26362c"
     },
     {
       "name": "T.F.F.T Storage Field Block (Tier I)",
       "uid": "kekztech:kekztech_tfftstoragefieldblock1_block",
       "meta": 0,
-      "color": "#323636"
+      "color": "#313535"
     },
     {
       "name": "T.F.F.T Storage Field Block (Tier II)",
       "uid": "kekztech:kekztech_tfftstoragefieldblock2_block",
       "meta": 0,
-      "color": "#423229"
+      "color": "#403128"
     },
     {
       "name": "T.F.F.T Storage Field Block (Tier III)",
       "uid": "kekztech:kekztech_tfftstoragefieldblock3_block",
       "meta": 0,
-      "color": "#3f3728"
+      "color": "#3e3628"
     },
     {
       "name": "T.F.F.T Storage Field Block (Tier IV)",
       "uid": "kekztech:kekztech_tfftstoragefieldblock4_block",
       "meta": 0,
-      "color": "#2c2e2c"
+      "color": "#2b2d2b"
     },
     {
       "name": "T.F.F.T Storage Field Block (Tier V)",
       "uid": "kekztech:kekztech_tfftstoragefieldblock5_block",
       "meta": 0,
-      "color": "#3d3f3d"
+      "color": "#3c3d3c"
     },
     {
       "name": "TNT",
@@ -69772,7 +69795,7 @@ var colorpalette={
       "name": "Tainted Leaves",
       "uid": "ForbiddenMagic:TaintLeaves",
       "meta": 0,
-      "color": "#28063b"
+      "color": "#2d0643"
     },
     {
       "name": "Tainted Log",
@@ -70253,7 +70276,8 @@ var colorpalette={
       "name": "Technical Block",
       "uid": "chisel:technical",
       "meta": 12,
-      "color": "#5f6a6b"
+      "color": "#4c5858",
+      "alpha": 0.99607843
     },
     {
       "name": "Technical Block",
@@ -70277,13 +70301,15 @@ var colorpalette={
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 0,
-      "color": "#545b5b"
+      "color": "#4b5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 1,
-      "color": "#5c6d6e"
+      "color": "#4b5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Technical Block",
@@ -70307,13 +70333,15 @@ var colorpalette={
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 5,
-      "color": "#606b6b"
+      "color": "#4c5858",
+      "alpha": 0.99607843
     },
     {
       "name": "Technical Block",
       "uid": "chisel:technical4",
       "meta": 6,
-      "color": "#5f6a6b"
+      "color": "#4c5858",
+      "alpha": 0.99607843
     },
     {
       "name": "Technical Block",
@@ -70325,7 +70353,7 @@ var colorpalette={
       "name": "Telemetry Unit",
       "uid": "GalacticraftCore:tile.telemetry",
       "meta": 0,
-      "color": "#424342"
+      "color": "#3e3f3e"
     },
     {
       "name": "Teleological Recombinator",
@@ -70337,7 +70365,7 @@ var colorpalette={
       "name": "Telepad Block",
       "uid": "EnderIO:blockTelePad",
       "meta": 0,
-      "color": "#5c6262"
+      "color": "#515959"
     },
     {
       "name": "Teleportation Casing",
@@ -70355,7 +70383,7 @@ var colorpalette={
       "name": "Teleporter Turret",
       "uid": "openmodularturrets:teleporterTurret",
       "meta": 0,
-      "color": "#cbcdcd",
+      "color": "#cacbcc",
       "alpha": 0.4
     },
     {
@@ -70380,13 +70408,14 @@ var colorpalette={
       "name": "Tempered Arc Furnace Casing",
       "uid": "miscutils:gtplusplus.blockcasings.4",
       "meta": 3,
-      "color": "#1e280e"
+      "color": "#20280d"
     },
     {
       "name": "Temple Block",
       "uid": "chisel:templeblock",
       "meta": 0,
-      "color": "#4f5656"
+      "color": "#4c5958",
+      "alpha": 0.99607843
     },
     {
       "name": "Temple Block",
@@ -70404,7 +70433,8 @@ var colorpalette={
       "name": "Temple Block",
       "uid": "chisel:templeblock",
       "meta": 3,
-      "color": "#5c6767"
+      "color": "#4c5858",
+      "alpha": 0.99607843
     },
     {
       "name": "Temple Block",
@@ -70494,7 +70524,7 @@ var colorpalette={
       "name": "Terraformer",
       "uid": "GalacticraftMars:tile.marsMachine",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Terraformer",
@@ -70698,7 +70728,8 @@ var colorpalette={
       "name": "Thaumium Block",
       "uid": "chisel:thaumium",
       "meta": 1,
-      "color": "#586768"
+      "color": "#4e5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Thaumium Block",
@@ -70766,7 +70797,7 @@ var colorpalette={
       "name": "The Vat",
       "uid": "EnderIO:blockVat",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Thermal Centrifuge",
@@ -70784,7 +70815,7 @@ var colorpalette={
       "name": "Thermal Monitor",
       "uid": "IC2NuclearControl:blockNuclearControlMain",
       "meta": 0,
-      "color": "#678867"
+      "color": "#708870"
     },
     {
       "name": "Thermal Processing Casing",
@@ -70808,7 +70839,7 @@ var colorpalette={
       "name": "Thickened Glass",
       "uid": "ExtraUtilities:decorativeBlock2",
       "meta": 0,
-      "color": "#3b3636",
+      "color": "#495655",
       "alpha": 0.4
     },
     {
@@ -70925,7 +70956,7 @@ var colorpalette={
       "name": "Tiger Leaves",
       "uid": "Natura:Rare Leaves",
       "meta": 3,
-      "color": "#4e2405"
+      "color": "#4e290a"
     },
     {
       "name": "Tiger Map Frame",
@@ -71094,7 +71125,7 @@ var colorpalette={
       "name": "Tin Block",
       "uid": "GalacticraftCore:tile.gcBlockCore",
       "meta": 10,
-      "color": "#b6b1aa"
+      "color": "#b4aea7"
     },
     {
       "name": "Tin Block",
@@ -71106,49 +71137,49 @@ var colorpalette={
       "name": "Tin Decoration Block",
       "uid": "GalacticraftCore:tile.gcBlockCore",
       "meta": 3,
-      "color": "#83807c"
+      "color": "#85827e"
     },
     {
       "name": "Tin Decoration Block",
       "uid": "GalacticraftCore:tile.gcBlockCore",
       "meta": 4,
-      "color": "#8a8785"
+      "color": "#888684"
     },
     {
       "name": "Tin Decoration Slab",
       "uid": "GalacticraftCore:slabGCHalf",
       "meta": 0,
-      "color": "#8a8785"
+      "color": "#888684"
     },
     {
       "name": "Tin Decoration Slab",
       "uid": "GalacticraftCore:slabGCHalf",
       "meta": 1,
-      "color": "#83807c"
+      "color": "#85827e"
     },
     {
       "name": "Tin Decoration Stairs",
       "uid": "GalacticraftCore:tile.tinStairs1",
       "meta": 0,
-      "color": "#8a8785"
+      "color": "#888684"
     },
     {
       "name": "Tin Decoration Stairs",
       "uid": "GalacticraftCore:tile.tinStairs2",
       "meta": 0,
-      "color": "#83807c"
+      "color": "#85827e"
     },
     {
       "name": "Tin Decoration Wall",
       "uid": "GalacticraftCore:tile.wallGC",
       "meta": 0,
-      "color": "#8a8785"
+      "color": "#888684"
     },
     {
       "name": "Tin Decoration Wall",
       "uid": "GalacticraftCore:tile.wallGC",
       "meta": 1,
-      "color": "#83807c"
+      "color": "#85827e"
     },
     {
       "name": "Tin Gravel Ore",
@@ -71214,7 +71245,7 @@ var colorpalette={
       "name": "Tin Oreberry Bush",
       "uid": "TConstruct:ore.berries.one",
       "meta": 11,
-      "color": "#61381f"
+      "color": "#7d492a"
     },
     {
       "name": "Tin Wall",
@@ -71350,7 +71381,7 @@ var colorpalette={
       "name": "Tiny TNT",
       "uid": "appliedenergistics2:tile.BlockTinyTNT",
       "meta": 0,
-      "color": "#433a3a"
+      "color": "#495655"
     },
     {
       "name": "Titan Stone",
@@ -71674,14 +71705,13 @@ var colorpalette={
       "name": "Torchberry Plant",
       "uid": "TwilightForest:tile.TFPlant",
       "meta": 13,
-      "color": "#a8ae66",
-      "alpha": 0.972549
+      "color": "#a7ae68"
     },
     {
       "name": "Torment Portal",
       "uid": "witchery:tormentportal",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "Torment Stone",
@@ -71765,7 +71795,7 @@ var colorpalette={
       "name": "Transformer-Winding Block",
       "uid": "bartworks:BW_Machinery_Casings",
       "meta": 1,
-      "color": "#ad704a"
+      "color": "#a97451"
     },
     {
       "name": "Transforming Cable Camouflage",
@@ -71872,7 +71902,7 @@ var colorpalette={
       "name": "Travel Anchor",
       "uid": "EnderIO:blockTravelAnchor",
       "meta": 0,
-      "color": "#3e504e"
+      "color": "#435150"
     },
     {
       "name": "Treasure Chest",
@@ -71957,7 +71987,7 @@ var colorpalette={
       "name": "Trent Effigy",
       "uid": "witchery:trent",
       "meta": 0,
-      "color": "#645031"
+      "color": "#665132"
     },
     {
       "name": "Trinium Naquadah Carbonite Frame Box",
@@ -71981,13 +72011,13 @@ var colorpalette={
       "name": "Triple Compressed Cobblestone",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 2,
-      "color": "#3a3a3a"
+      "color": "#3d3d3e"
     },
     {
       "name": "Triple Compressed Dirt",
       "uid": "ExtraUtilities:cobblestone_compressed",
       "meta": 10,
-      "color": "#3f2d20"
+      "color": "#433022"
     },
     {
       "name": "Triple Compressed Obsidian (729)",
@@ -71999,7 +72029,7 @@ var colorpalette={
       "name": "Triple Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 2,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Tripwire Hook",
@@ -72186,37 +72216,37 @@ var colorpalette={
       "name": "Turret Base (Tier 1)",
       "uid": "openmodularturrets:baseTierWood",
       "meta": 0,
-      "color": "#615540"
+      "color": "#5b513f"
     },
     {
       "name": "Turret Base (Tier 2)",
       "uid": "openmodularturrets:baseTierOneBlock",
       "meta": 0,
-      "color": "#525258"
+      "color": "#535156"
     },
     {
       "name": "Turret Base (Tier 3)",
       "uid": "openmodularturrets:baseTierTwoBlock",
       "meta": 0,
-      "color": "#6a6030"
+      "color": "#6d622d"
     },
     {
       "name": "Turret Base (Tier 4)",
       "uid": "openmodularturrets:baseTierThreeBlock",
       "meta": 0,
-      "color": "#4f7176"
+      "color": "#507376"
     },
     {
       "name": "Turret Base (Tier 5)",
       "uid": "openmodularturrets:baseTierFourBlock",
       "meta": 0,
-      "color": "#30303b"
+      "color": "#302f39"
     },
     {
       "name": "Twilight Forest Portal",
       "uid": "TwilightForest:tile.TFPortal",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "Twilight Mangrove Sapling",
@@ -72469,7 +72499,7 @@ var colorpalette={
       "name": "Unknow Crystal",
       "uid": "GalaxySpace:enceladuscrystal",
       "meta": 0,
-      "color": "#1a5756",
+      "color": "#175a59",
       "alpha": 0.4
     },
     {
@@ -72501,13 +72531,13 @@ var colorpalette={
       "name": "Unnamed Block, report to mod author.",
       "uid": "ThaumicHorizons:portalTH",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "Unnamed Block, report to mod author.",
       "uid": "minecraft:end_portal",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "Unripe Trollber",
@@ -72531,7 +72561,7 @@ var colorpalette={
       "name": "Unstable Ingot Block",
       "uid": "ExtraUtilities:decorativeBlock1",
       "meta": 5,
-      "color": "#403a39"
+      "color": "#4a5655"
     },
     {
       "name": "Unstable Spell Augmentor",
@@ -72579,7 +72609,7 @@ var colorpalette={
       "name": "Vacuum Casing",
       "uid": "miscutils:gtplusplus.blockcasings.4",
       "meta": 10,
-      "color": "#963a20"
+      "color": "#913c23"
     },
     {
       "name": "Vacuum Chest",
@@ -72958,14 +72988,14 @@ var colorpalette={
       "name": "Vibrant Quartz Glass",
       "uid": "appliedenergistics2:tile.BlockQuartzLamp",
       "meta": 0,
-      "color": "#4a3a3a",
+      "color": "#3c4747",
       "alpha": 0.4
     },
     {
       "name": "Vibration Chamber",
       "uid": "appliedenergistics2:tile.BlockVibrationChamber",
       "meta": 0,
-      "color": "#3c3b3b"
+      "color": "#3c4847"
     },
     {
       "name": "Vigorous Laurenium Machine Casing",
@@ -73065,8 +73095,7 @@ var colorpalette={
       "name": "Void Bramble",
       "uid": "witchery:voidbramble",
       "meta": 0,
-      "color": "#50263a",
-      "alpha": 0.99215686
+      "color": "#50263a"
     },
     {
       "name": "Void Chest",
@@ -73205,7 +73234,7 @@ var colorpalette={
       "name": "Volumetric Flask Configurator",
       "uid": "miscutils:blockVolumetricFlaskSetter",
       "meta": 0,
-      "color": "#3a3933"
+      "color": "#383832"
     },
     {
       "name": "Vortex Attenuator",
@@ -73217,19 +73246,19 @@ var colorpalette={
       "name": "Walkway",
       "uid": "GalacticraftMars:tile.walkway",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Walkway",
       "uid": "GalacticraftMars:tile.walkwayOxygenPipe",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Walkway",
       "uid": "GalacticraftMars:tile.walkwayWire",
       "meta": 0,
-      "color": "#41413e"
+      "color": "#3c3d39"
     },
     {
       "name": "Walnut",
@@ -73391,8 +73420,8 @@ var colorpalette={
       "name": "Warded Glass",
       "uid": "Thaumcraft:blockCosmeticOpaque",
       "meta": 2,
-      "color": "#798ca2",
-      "alpha": 0.42745098
+      "color": "#6f7d8b",
+      "alpha": 0.49803922
     },
     {
       "name": "Warded Jar",
@@ -73412,20 +73441,20 @@ var colorpalette={
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 1,
-      "color": "#197a0d",
-      "alpha": 0.9764706
+      "color": "#18720c",
+      "alpha": 0.9647059
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 2,
-      "color": "#8f5e34"
+      "color": "#8c5c33"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 3,
-      "color": "#868686"
+      "color": "#878787"
     },
     {
       "name": "Warning Sign",
@@ -73437,70 +73466,69 @@ var colorpalette={
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 5,
-      "color": "#cacaca"
-    },
-    {
-      "name": "Warning Sign",
-      "uid": "chisel:warningSign",
-      "meta": 6,
       "color": "#c9c9c9"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
+      "meta": 6,
+      "color": "#c8c8c8"
+    },
+    {
+      "name": "Warning Sign",
+      "uid": "chisel:warningSign",
       "meta": 7,
-      "color": "#bc931c",
-      "alpha": 0.9882353
+      "color": "#bb921c",
+      "alpha": 0.99215686
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 8,
-      "color": "#cfa600"
+      "color": "#caa200"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 9,
-      "color": "#6ca073"
+      "color": "#739e79"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 10,
-      "color": "#353636"
+      "color": "#2e2e2e"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 11,
-      "color": "#9b9b9b",
-      "alpha": 0.9411765
+      "color": "#949494"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 12,
-      "color": "#b5b5b5",
-      "alpha": 0.9254902
+      "color": "#b8b8b8",
+      "alpha": 0.91764706
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 13,
-      "color": "#888804"
+      "color": "#808005"
     },
     {
       "name": "Warning Sign",
       "uid": "chisel:warningSign",
       "meta": 14,
-      "color": "#a9a9a9"
+      "color": "#acacac"
     },
     {
       "name": "Warped Leaves",
       "uid": "TaintedMagic:BlockWarpwoodLeaves",
       "meta": 0,
-      "color": "#0a0421"
+      "color": "#0b0425"
     },
     {
       "name": "Warpwood",
@@ -73544,8 +73572,7 @@ var colorpalette={
       "name": "Water Artichoke",
       "uid": "witchery:artichoke",
       "meta": 0,
-      "color": "#145a3e",
-      "alpha": 0.24313726
+      "color": "#00670b"
     },
     {
       "name": "Water Chestnut Crop",
@@ -73585,7 +73612,7 @@ var colorpalette={
       "name": "Water Electrolyzer",
       "uid": "GalacticraftMars:tile.marsMachineT2",
       "meta": 8,
-      "color": "#242a3c"
+      "color": "#222737"
     },
     {
       "name": "Water Garden",
@@ -73621,13 +73648,13 @@ var colorpalette={
       "name": "Water Infused Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 3,
-      "color": "#684459"
+      "color": "#755461"
     },
     {
       "name": "Water Infused Double Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 4,
-      "color": "#79515d"
+      "color": "#815c66"
     },
     {
       "name": "Water Infused Stone",
@@ -73639,7 +73666,7 @@ var colorpalette={
       "name": "Water Infused Triple Compressed Solar Panel",
       "uid": "EMT:EMTSolars",
       "meta": 5,
-      "color": "#7f5b57"
+      "color": "#846261"
     },
     {
       "name": "Water Mill",
@@ -73675,50 +73702,50 @@ var colorpalette={
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 0,
-      "color": "#7e7e7e",
-      "alpha": 0.7764706
+      "color": "#7c7c7c",
+      "alpha": 0.8039216
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 1,
-      "color": "#212121",
-      "alpha": 0.76862746
+      "color": "#151515",
+      "alpha": 0.8392157
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 2,
-      "color": "#7f7f7f",
-      "alpha": 0.76862746
+      "color": "#7e7e7e",
+      "alpha": 0.7882353
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 3,
-      "color": "#6a6a6a",
-      "alpha": 0.69411767
+      "color": "#686868",
+      "alpha": 0.7058824
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 4,
       "color": "#818181",
-      "alpha": 0.9254902
+      "alpha": 0.9372549
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 5,
-      "color": "#737373",
-      "alpha": 0.8666667
+      "color": "#707070",
+      "alpha": 0.8862745
     },
     {
       "name": "Waterstone",
       "uid": "chisel:waterstone",
       "meta": 6,
-      "color": "#858585",
-      "alpha": 0.93333334
+      "color": "#848484",
+      "alpha": 0.9411765
     },
     {
       "name": "Watertight Steel Frame Box",
@@ -73742,7 +73769,7 @@ var colorpalette={
       "name": "Weather Obelisk",
       "uid": "EnderIO:blockWeatherObelisk",
       "meta": 0,
-      "color": "#4a4541"
+      "color": "#494440"
     },
     {
       "name": "Weathered Deadrock",
@@ -73958,7 +73985,7 @@ var colorpalette={
       "name": "White Cherry Leaves",
       "uid": "BiomesOPlenty:leaves3",
       "meta": 2,
-      "color": "#451b1b"
+      "color": "#5e2525"
     },
     {
       "name": "White Cherry Sapling",
@@ -73977,7 +74004,7 @@ var colorpalette={
       "name": "White Curtain",
       "uid": "malisisdoors:curtain_white",
       "meta": 0,
-      "color": "#c6c6c6"
+      "color": "#cacaca"
     },
     {
       "name": "White Drawer",
@@ -74001,7 +74028,7 @@ var colorpalette={
       "name": "White Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 0,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "White Future Glass",
@@ -74014,13 +74041,13 @@ var colorpalette={
       "name": "White Lamp",
       "uid": "IC2NuclearControl:blockNuclearControlLight",
       "meta": 0,
-      "color": "#a3a3a3"
+      "color": "#a1a1a1"
     },
     {
       "name": "White Lamp",
       "uid": "IC2NuclearControl:blockNuclearControlLight",
       "meta": 1,
-      "color": "#dbdbdb"
+      "color": "#d7d7d7"
     },
     {
       "name": "White Lamp",
@@ -74109,7 +74136,7 @@ var colorpalette={
       "name": "White Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 0,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "White Trim",
@@ -74151,8 +74178,7 @@ var colorpalette={
       "name": "Wild Bramble",
       "uid": "witchery:bramble",
       "meta": 1,
-      "color": "#463625",
-      "alpha": 0.99215686
+      "color": "#463625"
     },
     {
       "name": "Wild Rice",
@@ -74370,13 +74396,13 @@ var colorpalette={
       "name": "Willow Leaves",
       "uid": "BiomesOPlenty:colorizedLeaves2",
       "meta": 0,
-      "color": "#515151"
+      "color": "#747474"
     },
     {
       "name": "Willow Leaves",
       "uid": "Natura:floraleavesnocolor",
       "meta": 0,
-      "color": "#df758c"
+      "color": "#eb7e96"
     },
     {
       "name": "Willow Map Frame",
@@ -74713,13 +74739,13 @@ var colorpalette={
       "name": "Wireless Charger",
       "uid": "EnderIO:blockWirelessCharger",
       "meta": 0,
-      "color": "#455150"
+      "color": "#465150"
     },
     {
       "name": "Wireless Connector",
       "uid": "ae2stuff:Wireless",
       "meta": 0,
-      "color": "#302536"
+      "color": "#372e3c"
     },
     {
       "name": "Wireless Energy Transceiver",
@@ -74744,8 +74770,7 @@ var colorpalette={
       "name": "Wispy Cotton",
       "uid": "witchery:somniancotton",
       "meta": 0,
-      "color": "#5f814d",
-      "alpha": 0.92941177
+      "color": "#5e7d4c"
     },
     {
       "name": "Wisteria",
@@ -74770,13 +74795,13 @@ var colorpalette={
       "name": "Witches Oven",
       "uid": "witchery:witchesovenburning",
       "meta": 0,
-      "color": "#12110f"
+      "color": "#11100f"
     },
     {
       "name": "Witches Oven",
       "uid": "witchery:witchesovenidle",
       "meta": 0,
-      "color": "#12110f"
+      "color": "#11100f"
     },
     {
       "name": "Wither Cage",
@@ -74824,7 +74849,7 @@ var colorpalette={
       "name": "Wooden Door",
       "uid": "minecraft:wooden_door",
       "meta": 0,
-      "color": "#a08443"
+      "color": "#886936"
     },
     {
       "name": "Wooden Door",
@@ -75047,7 +75072,7 @@ var colorpalette={
       "name": "Yellow Autumn Leaves",
       "uid": "BiomesOPlenty:leaves1",
       "meta": 3,
-      "color": "#1b1c26"
+      "color": "#232432"
     },
     {
       "name": "Yellow Autumn Sapling",
@@ -75084,7 +75109,7 @@ var colorpalette={
       "name": "Yellow Curtain",
       "uid": "malisisdoors:curtain_yellow",
       "meta": 0,
-      "color": "#92863a"
+      "color": "#998c3c"
     },
     {
       "name": "Yellow Drawer",
@@ -75108,7 +75133,7 @@ var colorpalette={
       "name": "Yellow Floating Candle",
       "uid": "ThaumicExploration:floatCandle",
       "meta": 4,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Yellow Future Glass",
@@ -75210,7 +75235,7 @@ var colorpalette={
       "name": "Yellow Tallow Candle",
       "uid": "Thaumcraft:blockCandle",
       "meta": 4,
-      "color": "#f2e1c0"
+      "color": "#f1dfbe"
     },
     {
       "name": "Yellow Trim",
@@ -76014,7 +76039,7 @@ var colorpalette={
       "name": "Zombie Generator",
       "uid": "EnderIO:blockZombieGenerator",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Zome ①",
@@ -76518,37 +76543,37 @@ var colorpalette={
       "name": "block.leaves..name",
       "uid": "Natura:Dark Leaves",
       "meta": 0,
-      "color": "#040815"
+      "color": "#080e24"
     },
     {
       "name": "block.leaves..name",
       "uid": "Natura:Dark Leaves",
       "meta": 1,
-      "color": "#0b211d"
+      "color": "#10312b"
     },
     {
       "name": "block.leaves..name",
       "uid": "Natura:Dark Leaves",
       "meta": 3,
-      "color": "#195a6a"
+      "color": "#0a414e"
     },
     {
       "name": "block.leaves..name",
       "uid": "Natura:floraleavesnocolor",
       "meta": 1,
-      "color": "#e0dcd2"
+      "color": "#edeae2"
     },
     {
       "name": "block.leaves..name",
       "uid": "Natura:floraleavesnocolor",
       "meta": 2,
-      "color": "#8d0404"
+      "color": "#900404"
     },
     {
       "name": "block.leaves..name",
       "uid": "Natura:floraleavesnocolor",
       "meta": 3,
-      "color": "#355124"
+      "color": "#446833"
     },
     {
       "name": "bw.blockores.01.0.name",
@@ -97976,25 +98001,25 @@ var colorpalette={
       "name": "tile.TFMagicLeaves.5.name",
       "uid": "TwilightForest:tile.TFMagicLeaves",
       "meta": 0,
-      "color": "#585858"
+      "color": "#7b7b7a"
     },
     {
       "name": "tile.TFMagicLeaves.6.name",
       "uid": "TwilightForest:tile.TFMagicLeaves",
       "meta": 1,
-      "color": "#505050"
+      "color": "#a3a3a3"
     },
     {
       "name": "tile.TFMagicLeaves.7.name",
       "uid": "TwilightForest:tile.TFMagicLeaves",
       "meta": 2,
-      "color": "#585858"
+      "color": "#7b7b7a"
     },
     {
       "name": "tile.TFMagicLeaves.8.name",
       "uid": "TwilightForest:tile.TFMagicLeaves",
       "meta": 3,
-      "color": "#727272"
+      "color": "#9a9a9a"
     },
     {
       "name": "tile.TFTrophy.0.name",
@@ -98068,7 +98093,7 @@ var colorpalette={
       "name": "tile.dimensionAustraliaPortalBlock.name",
       "uid": "Australia:dimensionAustraliaPortalBlock",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "tile.draconicevolution:placedItem.name",
@@ -98080,19 +98105,19 @@ var colorpalette={
       "name": "tile.draconicevolution:safetyFlame.name",
       "uid": "DraconicEvolution:safetyFlame",
       "meta": 0,
-      "color": "#d18629"
+      "color": "#d08328"
     },
     {
       "name": "tile.dummyblock.null.name",
       "uid": "GalacticraftCore:tile.dummyblock",
       "meta": 0,
-      "color": "#3145dd"
+      "color": "#3244da"
     },
     {
       "name": "tile.enclosed.null.name",
       "uid": "GalacticraftCore:tile.enclosed",
       "meta": 4,
-      "color": "#7f7f7f"
+      "color": "#909090"
     },
     {
       "name": "tile.extrautils:pureLove.name",
@@ -98141,7 +98166,7 @@ var colorpalette={
       "name": "tile.leaves4.yellowautumn.name",
       "uid": "BiomesOPlenty:leaves4",
       "meta": 1,
-      "color": "#3e3151"
+      "color": "#54436f"
     },
     {
       "name": "tile.lilypad.name",
@@ -98351,13 +98376,13 @@ var colorpalette={
       "name": "tile.slabGCDouble.tinSlab.name",
       "uid": "GalacticraftCore:slabGCDouble",
       "meta": 0,
-      "color": "#8a8785"
+      "color": "#888684"
     },
     {
       "name": "tile.slabGCDouble.tinSlab.name",
       "uid": "GalacticraftCore:slabGCDouble",
       "meta": 1,
-      "color": "#83807c"
+      "color": "#85827e"
     },
     {
       "name": "tile.sleepingBagBlock.name",
@@ -98375,7 +98400,7 @@ var colorpalette={
       "name": "tile.templeEndPortal.name",
       "uid": "HardcoreEnderExpansion:temple_end_portal",
       "meta": 0,
-      "color": "#560abe"
+      "color": "#560abf"
     },
     {
       "name": "tile.witchery:brew.name",
@@ -98408,7 +98433,7 @@ var colorpalette={
       "name": "tile.witchery:slurp.name",
       "uid": "witchery:slurp",
       "meta": 0,
-      "color": "#6f0c9f",
+      "color": "#57007f",
       "alpha": 0.4
     },
     {

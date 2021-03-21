@@ -1,0 +1,17 @@
+{
+  "id": "temp garden_-118,65,-9",
+  "name": "temp garden",
+  "icon": "waypoint-normal.png",
+  "x": -118,
+  "y": 65,
+  "z": -9,
+  "r": 111,
+  "g": 167,
+  "b": 109,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
