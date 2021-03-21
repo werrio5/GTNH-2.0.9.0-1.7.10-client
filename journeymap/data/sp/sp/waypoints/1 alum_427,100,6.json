@@ -1,0 +1,17 @@
+{
+  "id": "1 alum_427,100,6",
+  "name": "1 alum",
+  "icon": "waypoint-normal.png",
+  "x": 427,
+  "y": 100,
+  "z": 6,
+  "r": 46,
+  "g": 30,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1 alu_218,84,-107",
+  "name": "1 alu",
+  "icon": "waypoint-normal.png",
+  "x": 218,
+  "y": 84,
+  "z": -107,
+  "r": 87,
+  "g": 171,
+  "b": 72,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
