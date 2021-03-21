@@ -13,7 +13,7 @@ ofCloudsHeight:0.0
 ofTrees:0
 ofGrass:0
 ofDroppedItems:0
-ofRain:0
+ofRain:2
 ofWater:0
 ofAnimatedWater:0
 ofAnimatedLava:0
