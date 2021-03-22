@@ -1,19 +1,19 @@
-#Sun Mar 21 13:56:23 MSK 2021
+#Mon Mar 22 16:37:06 MSK 2021
 shaderPack=SEUS-Renewed-1.0.0.zip
-antialiasingLevel=0
-normalMapEnabled=true
-specularMapEnabled=true
-renderResMul=1.0
-shadowResMul=0.70710677
-handDepthMul=0.125
-cloudShadow=true
-oldHandLight=default
-oldLighting=default
-tweakBlockDamage=false
-shadowClipFrustrum=true
 TexMinFilB=0
-TexMinFilN=0
-TexMinFilS=0
-TexMagFilB=0
-TexMagFilN=0
+handDepthMul=0.125
 TexMagFilS=0
+cloudShadow=true
+TexMagFilN=0
+antialiasingLevel=0
+specularMapEnabled=true
+oldLighting=default
+TexMinFilS=0
+renderResMul=1.0
+TexMagFilB=0
+normalMapEnabled=true
+tweakBlockDamage=false
+shadowResMul=0.5
+TexMinFilN=0
+shadowClipFrustrum=true
+oldHandLight=default

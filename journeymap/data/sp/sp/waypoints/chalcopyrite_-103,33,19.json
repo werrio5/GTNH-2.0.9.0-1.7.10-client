@@ -1,0 +1,17 @@
+{
+  "id": "chalcopyrite_-103,33,19",
+  "name": "chalcopyrite",
+  "icon": "waypoint-normal.png",
+  "x": -103,
+  "y": 33,
+  "z": 19,
+  "r": 124,
+  "g": 48,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

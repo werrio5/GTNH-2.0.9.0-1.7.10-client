@@ -4158,7 +4158,7 @@
       "maps": [],
       "shaderpacks": [
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 10000039,
           "name": "SEUS Renewed",
           "version": {
@@ -4169,6 +4169,30 @@
               "size": 7062993,
               "path": "shaderpacks/SEUS-Renewed-1.0.0.zip",
               "url": "/shaderpacks/10000039/11000425/SEUS-Renewed-1.0.0.zip"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 9999999,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 10000043,
+          "name": "Sushi",
+          "version": {
+            "id": 11000431,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ab6c094097165de40af5480abe8825fc85b43f82",
+              "size": 152729,
+              "path": "shaderpacks/Sushi Shader V2 (Chocapic13 edit).zip",
+              "url": "/shaderpacks/10000043/11000431/SushiShaderV2Chocapic13edit.zip"
             }
           },
           "userInstall": false,
