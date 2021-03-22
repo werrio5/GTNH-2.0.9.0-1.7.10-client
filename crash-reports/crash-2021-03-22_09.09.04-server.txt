@@ -1,0 +1,476 @@
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 3/22/21 9:09 AM
+Description: Ticking memory connection
+
+java.lang.NullPointerException: Ticking memory connection
+	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:101)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:396)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at cpw.mods.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:101)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+
+-- Ticking connection --
+Details:
+	Connection: net.minecraft.network.NetworkManager@508a130e
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:396)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_241, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 4428412288 bytes (4223 MB) / 7147094016 bytes (6816 MB) up to 7147094016 bytes (6816 MB)
+	JVM Flags: 8 total; -Xmn128M -Xmx6791M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 Optifine OptiFine_1.7.10_HD_U_E7 250 mods loaded, 250 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAAAAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAAAAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAAAAA	appliedenergistics2-core{rv3-beta-31} [Applied Energistics 2 Core] (minecraft.jar) 
+	UCHIJAAAAAAAAA	CodeChickenCore{1.0.7.47} [CodeChicken Core] (minecraft.jar) 
+	UCHIJAAAAAAAAA	CropLoadCoreASM{0.0.1} [CroploadCore ASM Core] (minecraft.jar) 
+	UCHIJAAAAAAAAA	Micdoodlecore{} [Micdoodle8 Core] (minecraft.jar) 
+	UCHIJAAAAAAAAA	NotEnoughItems{2.0.4-GTNH} [Not Enough Items] (NotEnoughItems-1.7.10-2.0.4-GTNH-universal.jar) 
+	UCHIJAAAAAAAAA	OpenComputers|Core{1.7.5.5.13} [OpenComputers (Core)] (minecraft.jar) 
+	UCHIJAAAAAAAAA	PlayerAPI{1.4} [Player API] (minecraft.jar) 
+	UCHIJAAAAAAAAA	ThE-core{1.0.0.1} [Thaumic Energistics Core] (minecraft.jar) 
+	UCHIJAAAAAAAAA	ThaumicTinkerer-preloader{0.1} [Thaumic Tinkerer Core] (minecraft.jar) 
+	UCHIJAAAAAAAAA	WitchingGadgetsCore{1.2.12-GTNH} [Witching Gadgets Core] (minecraft.jar) 
+	UCHIJAAAAAAAAA	OpenModsCore{0.10.1} [OpenModsCore] (minecraft.jar) 
+	UCHIJAAAAAAAAA	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	UCHIJAAAAAAAAA	GT++_Preloader{0.5-Beta} [GT++ Preloader] (minecraft.jar) 
+	UCHIJAAAAAAAAA	BWCore{0.0.1} [BartWorks ASM Core] (minecraft.jar) 
+	UCHIJAAAAAAAAA	FastCraft{1.25} [FastCraft] (fastcraft-1.25.jar) 
+	UCHIJAAAAAAAAA	IC2{2.2.828-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.828a-experimental.jar) 
+	UCHIJAAAAAAAAA	AdvancedSolarPanel{1.7.10-3.5.1} [Advanced Solar Panels] (AdvancedSolarPanel-1.7.10-3.5.1a.jar) 
+	UCHIJAAAAAAAAA	adventurebackpack{1.7.10-0.9-h14-GTNH} [Adventure Backpack] (adventurebackpack-1.7.10-0.9-h14.jar) 
+	UCHIJAAAAAAAAA	appliedenergistics2{rv3-beta-31} [Applied Energistics 2] (appliedenergistics2-rv3-beta-31.jar) 
+	UCHIJAAAAAAAAA	bdlib{1.9.4.109} [BD Lib] (bdlib-1.9.4.109-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	ae2stuff{0.5.1.9} [AE2 Stuff] (ae2stuff-rv3-0.5.1.9-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	AFSU{1.2.3a-Freeza} [AFSU Mod] (AFSU-1.2.3a-Freeza.jar) 
+	UCHIJAAAAAAAAA	YAMCore{0.5.78} [YAMCore] (YAMCore-1.7.10-0.5.78.jar) 
+	UCHIJAAAAAAAAA	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.12.jar) 
+	UCHIJAAAAAAAAA	angermod{0.6} [AngerMod - Angry neutral mobs] (AngerMod-1.7.10-0.6.jar) 
+	UCHIJAAAAAAAAA	AppleCore{1.3.9} [AppleCore] (AppleCore-mc1.7.10-1.3.9.jar) 
+	UCHIJAAAAAAAAA	aquacreeper{1.0.1} [Aqua Creeper] (AquaCreepers-1.0.1.jar) 
+	UCHIJAAAAAAAAA	ArchitectureCraft{1.7.2} [ArchitectureCraft] (ArchitectureCraft-1.7.4-GTNH.jar) 
+	UCHIJAAAAAAAAA	CoFHCore{1.7.10R3.1.4} [CoFH Core] (CoFHCore-[1.7.10]3.1.4-329.jar) 
+	UCHIJAAAAAAAAA	asielib{0.4.9} [asielib] (AsieLib-1.7.10-0.4.9.jar) 
+	UCHIJAAAAAAAAA	Thaumcraft{4.2.3.5} [Thaumcraft] (Thaumcraft-1.7.10-4.2.3.5a.jar) 
+	UCHIJAAAAAAAAA	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJAAAAAAAAA	Automagy{0.28.2} [Automagy] (Automagy-1.7.10-0.28.2.jar) 
+	UCHIJAAAAAAAAA	AWWayofTime{v1.3.3} [Blood Magic: Alchemical Wizardry] (BloodMagic-1.7.10-1.3.3-30.jar) 
+	UCHIJAAAAAAAAA	Avaritia{1.18} [Avaritia] (Avaritia-1.18.jar) 
+	UCHIJAAAAAAAAA	wanionlib{1.7.10-1.8} [WanionLib] (WanionLib-1.7.10-1.8.jar) 
+	UCHIJAAAAAAAAA	avaritiaddons{1.4b} [Avaritiaddons] (Avaritiaddons-1.4b.jar) 
+	UCHIJAAAAAAAAA	Backpack{2.2.0} [Backpack] (backpack-2.2.4-1.7.x.jar) 
+	UCHIJAAAAAAAAA	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	UCHIJAAAAAAAAA	Natura{2.3.0} [Natura] (natura-1-7.10-2.3.2-dev.jar) 
+	UCHIJAAAAAAAAA	BiomesOPlenty{2.1.1-GTNH} [Biomes O' Plenty] (BiomesOPlenty-1.7.10-2.1.1-GTNH.2-universal.jar) 
+	UCHIJAAAAAAAAA	HardcoreEnderExpansion{1.8.6} [Hardcore Ender Expansion] (HardcoreEnderExpansion_MC-1.7.10_v1.8.6a.jar) 
+	UCHIJAAAAAAAAA	Forestry{4.2.27.12} [Forestry for Minecraft] (forestry_1.7.10-4.2.27.12.jar) 
+	UCHIJAAAAAAAAA	BinnieCore{2.0.29.4} [Binnie Core] (binnie-mods-1.7.10-gtnh-2.0.29.4.jar) 
+	UCHIJAAAAAAAAA	ExtraTrees{2.0.29.4} [Extra Trees] (binnie-mods-1.7.10-gtnh-2.0.29.4.jar) 
+	UCHIJAAAAAAAAA	BuildCraft|Core{7.1.23} [BuildCraft] (buildcraft-7.1.23.jar) 
+	UCHIJAAAAAAAAA	BuildCraft|Energy{7.1.23} [BC Energy] (buildcraft-7.1.23.jar) 
+	UCHIJAAAAAAAAA	ForgeMultipart{1.2.0.347} [Forge Multipart] (ForgeMultipart-1.7.10-1.2.0.347-universal.jar) 
+	UCHIJAAAAAAAAA	ExtraUtilities{1.2.12} [Extra Utilities] (extrautilities-1.2.13a.jar) 
+	UCHIJAAAAAAAAA	battlegear2{1.7.10} [Mine & Blade Battlegear 2] (MB_Battlegear_2-1.7.10-1.1.1.4-GTNH.jar) 
+	UCHIJAAAAAAAAA	TConstruct{1.7.10-1.8.9-GTNH.build15} [Tinkers' Construct] (TConstruct-1.7.10-1.8.9-GTNH.build15.jar) 
+	UCHIJAAAAAAAAA	GalacticraftCore{3.0.13-GTNH} [Galacticraft Core] (Galacticraft-1.7-3.0.15-GTNH-full.jar) 
+	UCHIJAAAAAAAAA	BuildCraft|Transport{7.1.23} [BC Transport] (buildcraft-7.1.23.jar) 
+	UCHIJAAAAAAAAA	BuildCraft|Factory{7.1.23} [BC Factory] (buildcraft-7.1.23.jar) 
+	UCHIJAAAAAAAAA	BuildCraft|Silicon{7.1.23} [BC Silicon] (buildcraft-7.1.23.jar) 
+	UCHIJAAAAAAAAA	BuildCraft|Builders{7.1.23} [BC Builders] (buildcraft-7.1.23.jar) 
+	UCHIJAAAAAAAAA	GalacticraftMars{3.0.13-GTNH} [Galacticraft Planets] (Galacticraft-1.7-3.0.15-GTNH-full.jar) 
+	UCHIJAAAAAAAAA	endercore{1.7.10-0.2.0.39_beta} [EnderCore] (EnderCore-1.7.10-0.2.0.39_beta.jar) 
+	UCHIJAAAAAAAAA	Railcraft{9.12.2.1} [Railcraft] (Railcraft_1.7.10-9.12.2.1.jar) 
+	UCHIJAAAAAAAAA	TwilightForest{2.3.8dev} [The Twilight Forest] (twilightforest-1.7.10-2.3.8.5-dev.jar) 
+	UCHIJAAAAAAAAA	chisel{1.7.10-2.9.8-GTNH.8} [Chisel] (Chisel-1.7.10-2.9.8-GTNH.8.jar) 
+	UCHIJAAAAAAAAA	EnderIO{1.7.10-2.3.1.13_beta.18} [Ender IO] (EnderIO-1.7.10-2.3.1.13_beta.18.jar) 
+	UCHIJAAAAAAAAA	supersolarpanel{1.7.10-1.1.1-GT-NH-Mod} [Super Solar Panel] (SSP-1.1.2-GT-NH-Mod.jar) 
+	UCHIJAAAAAAAAA	dreamcraft{1.6.46} [GT: New Horizons] (GTNewHorizonsCoreMod-1.7.10-1.6.46t.jar) 
+	UCHIJAAAAAAAAA	harvestcraft{1.0.1} [Pam's HarvestCraft] (Pams-Harvestcraft-1.7.10Lb-1.0.1-GTNH.jar) 
+	UCHIJAAAAAAAAA	Translocator{1.1.2.16} [Translocator] (Translocator-1.7.10-1.1.2.16-universal.jar) 
+	UCHIJAAAAAAAAA	gregtech{MC1710} [GregTech] (gregtech-5.09.33.52.jar) 
+	UCHIJAAAAAAAAA	DummyCore{1.13} [DummyCore] (DummyCore1.13.jar) 
+	UCHIJAAAAAAAAA	thaumicbases{1.4.22} [Thaumic Bases] (Thaumic-Based-1.4.22-0.jar) 
+	UCHIJAAAAAAAAA	witchery{0.24.1} [Witchery] (witchery-1.7.10-0.24.1.jar) 
+	UCHIJAAAAAAAAA	Ztones{1.7.10} [Ztones] (Ztones-1.7.10-2.2.2.jar) 
+	UCHIJAAAAAAAAA	croploadcore{0.1.4} [CropLoadCore] (CropLoadCore-0.1.4.jar) 
+	UCHIJAAAAAAAAA	berriespp{1.3.5.3} [Crops++] (CropsPP-1.3.5.3.jar) 
+	UCHIJAAAAAAAAA	bartworks{0.5.13.1} [BartWorks] (bartworks[1.7.10]-0.5.13.1.jar) 
+	UCHIJAAAAAAAAA	ThaumicTinkerer{2.5} [Thaumic Tinkerer] (ThaumicTinkerer-1.7.10-2.5-557-GTNH.jar) 
+	UCHIJAAAAAAAAA	ForbiddenMagic{1.7.10-0.575} [Forbidden Magic] (Forbidden Magic-1.7.10-0.575.jar) 
+	UCHIJAAAAAAAAA	ExtraBees{2.0.29.4} [Extra Bees] (binnie-mods-1.7.10-gtnh-2.0.29.4.jar) 
+	UCHIJAAAAAAAAA	MagicBees{2.5.3-GTNH} [Magic Bees] (magicbees-1.7.10-2.5.3-GTNH.jar) 
+	UCHIJAAAAAAAAA	EMT{1.2.7.8} [Electro-Magic Tools] (ElectroMagicTools-1.2.7.8[1.7.10].jar) 
+	UCHIJAAAAAAAAA	IC2NuclearControl{2.4.3a} [Nuclear Control 2] (IC2NuclearControl-2.4.3a.jar) 
+	UCHIJAAAAAAAAA	OpenMods{0.10.1} [OpenMods] (OpenModsLib-1.7.10-0.10.1.jar) 
+	UCHIJAAAAAAAAA	OpenBlocks{1.6.2} [OpenBlocks] (OpenBlocks-1.7.10-1.6.2-1.7.10-snapshot-4.jar) 
+	UCHIJAAAAAAAAA	StevesCarts{2.0.0.b17} [Steve's Carts 2] (StevesCarts-2.0.0.b19.jar) 
+	UCHIJAAAAAAAAA	tectech{3.8.3} [TecTech] (TecTech-1.7.10-3.8.3.jar) 
+	UCHIJAAAAAAAAA	TGregworks{1.0.18} [Tinkers' Gregworks] (TGregworks-1.7.10-1.0.18.jar) 
+	UCHIJAAAAAAAAA	miscutils{1.7.05} [GT++] (GT-PlusPlus-1.7.05.68.jar) 
+	UCHIJAAAAAAAAA	bartworkscrossmod{0.5.13.1} [BartWorks Mod Additions] (bartworks[1.7.10]-0.5.13.1.jar) 
+	UCHIJAAAAAAAAA	beebetteratbees{0.2} [BeeBetterAtBees] (BeeBetterAtBees-0.3.jar) 
+	UCHIJAAAAAAAAA	BetterAchievements{0.1.0} [Better Achievements] (BetterAchievements-1.7.10-0.1.0.jar) 
+	UCHIJAAAAAAAAA	betterbuilderswands{0.8.1} [Better Builder's Wands] (BetterBuildersWands-0.8.1-1.7.10r92+aec06c3.jar) 
+	UCHIJAAAAAAAAA	betterloadingscreen{1.3.23-GTNH} [Better Loading Screen GT:NH] (BetterLoadingScreen-1.3.23-GTNH.jar) 
+	UCHIJAAAAAAAAA	betterquesting{3.0.334-GTNH} [Better Questing] (BetterQuesting-3.0.334-GTNH.jar) 
+	UCHIJAAAAAAAAA	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJAAAAAAAAA	BiblioWoodsBoP{1.9} [BiblioWoods Biomes O'Plenty Edition] (BiblioWoods[BiomesOPlenty][v1.9].jar) 
+	UCHIJAAAAAAAAA	BiblioWoodsForestry{1.7} [BiblioWoods Forestry Edition] (BiblioWoods[Forestry][v1.7].jar) 
+	UCHIJAAAAAAAAA	BiblioWoodsNatura{1.5} [BiblioWoods Natura Edition] (BiblioWoods[Natura][v1.5].jar) 
+	UCHIJAAAAAAAAA	Botany{2.0.29.4} [Botany] (binnie-mods-1.7.10-gtnh-2.0.29.4.jar) 
+	UCHIJAAAAAAAAA	Genetics{2.0.29.4} [Genetics] (binnie-mods-1.7.10-gtnh-2.0.29.4.jar) 
+	UCHIJAAAAAAAAA	blocklimiter{0.52} [BlockLimiter. Restict your Blocks] (BlockLimiter-1.7.10-0.52.jar) 
+	UCHIJAAAAAAAAA	BloodArsenal{1.2.1-11} [Blood Arsenal] (BloodArsenal-1.7.10-1.2.1-11.jar) 
+	UCHIJAAAAAAAAA	BrandonsCore{1.0.0.12} [Brandon's Core] (BrandonsCore-1.0.0.12.jar) 
+	UCHIJAAAAAAAAA	spongemixins{1.2.0} [SpongeMixins Loader] (SpongeMixins-1.2.0.jar) 
+	UCHIJAAAAAAAAA	bugtorch{1.0.2} [Bug Torch] (BugTorch-1.0.2.jar) 
+	UCHIJAAAAAAAAA	BuildCraft|Robotics{7.1.23} [BC Robotics] (buildcraft-7.1.23.jar) 
+	UCHIJAAAAAAAAA	BuildCraft|Compat{7.1.7} [BuildCraft Compat] (buildcraft-compat-7.1.7.jar) 
+	UCHIJAAAAAAAAA	OilTweak{1.0.3} [BuildCraft Oil Tweak] (BuildCraftOilTweak-1.7.10-1.0.3.jar) 
+	UCHIJAAAAAAAAA	CarpentersBlocks{3.3.8.1} [Carpenter's Blocks] (Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar) 
+	UCHIJAAAAAAAAA	catwalks{2.0.4} [Catwalks Mod] (catwalks-2.0.4.jar) 
+	UCHIJAAAAAAAAA	catwalkmod{x.x.x} [Legacy Catwalk Compat] (catwalks-2.0.4.jar) 
+	UCHIJAAAAAAAAA	cb4bq{1} [Command Blocks for Better Questing] (CB4BQ-3.jar) 
+	UCHIJAAAAAAAAA	chiseltones{@VERSION@} [Chisel Tones] (ChiselTones-1.7.10-1.0-3.jar) 
+	UCHIJAAAAAAAAA	compactkineticgenerators{1.7.10-1.0} [Compact Kinetic Wind and Water Generators] (CompactKineticGenerators-1.7.10-1.0.jar) 
+	UCHIJAAAAAAAAA	EnderStorage{1.4.7.38} [EnderStorage] (EnderStorage-1.7.10-1.4.7.38-universal.jar) 
+	UCHIJAAAAAAAAA	MrTJPCoreMod{1.1.0.33} [MrTJPCore] (MrTJPCore-1.1.0.33-universal.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Core{4.7.0pre11.52} [ProjectRed Core] (ProjectRed-1.7.10-4.7.0pre12.95-Base.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Transmission{4.7.0pre11.52} [ProjectRed Transmission] (ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar) 
+	UCHIJAAAAAAAAA	OpenComputers{1.7.5.5.13} [OpenComputers] (OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar) 
+	UCHIJAAAAAAAAA	computronics{1.6.6} [Computronics] (Computronics-1.7.10-1.6.6.jar) 
+	UCHIJAAAAAAAAA	controlling{1.0.0} [Controlling] (Controlling-1.7.10-1.0.0.jar) 
+	UCHIJAAAAAAAAA	MineTweaker3{3.1.0} [MineTweaker 3] (CraftTweaker-1.7.10-3.1.0-legacy.jar) 
+	UCHIJAAAAAAAAA	CustomMainMenu{1.9.2} [Custom Main Menu] (CustomMainMenu-MC1.7.10-1.9.2.jar) 
+	UCHIJAAAAAAAAA	defaultworldgenerator{0.1-b13} [Default World Generator] (DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar) 
+	UCHIJAAAAAAAAA	DraconicEvolution{1.0.2h} [Draconic Evolution] (Draconic-Evolution-1.7.10-1.0.2q.jar) 
+	UCHIJAAAAAAAAA	EnderZoo{1.7.10-1.0.18.3} [Ender Zoo] (EnderZoo-1.7.10-1.0.18.3.jar) 
+	UCHIJAAAAAAAAA	enhancedlootbags{1.0.3} [Enhanced LootBags] (EnhancedLootBags-1.7.10-1.0.3.jar) 
+	UCHIJAAAAAAAAA	enhancedportals{3.0.12} [EnhancedPortals] (EnhancedPortals_1.7.10-universal-3.0.12.jar) 
+	UCHIJAAAAAAAAA	universalsingularities{1.7.10-8.5a} [Universal Singularities] (Universal-Singularities-1.7.10-8.6.1.jar) 
+	UCHIJAAAAAAAAA	eternalsingularity{1.7.10-.1.0.3} [Eternal Singularity] (EternalSingularity-1.7.10-1.0.4.jar) 
+	UCHIJAAAAAAAAA	extracells{2.4.3} [Extra Cells 2] (ExtraCells-1.7.10-2.4.3b3.jar) 
+	UCHIJAAAAAAAAA	findit{1.0.1} [FindIt] (findit-1.7.10-1.0.1.jar) 
+	UCHIJAAAAAAAAA	FloodLights{1.2.8-137} [Flood Lights] (FloodLights-1.7.10-1.2.8-137.jar) 
+	UCHIJAAAAAAAAA	gadomancy{1.0.7.4} [Gadomancy] (gadomancy-1.7.10-1.0.7.7.jar) 
+	UCHIJAAAAAAAAA	galacticgreg{1.0.3} [Galactic Greg] (GalacticGreg-1.7.10-1.0.3.jar) 
+	UCHIJAAAAAAAAA	GalaxySpace{1.1.3} [GalaxySpace] (GalaxySpace-1.1.3c_STABLE.jar) 
+	UCHIJAAAAAAAAA	gendustry{1.6.4.135} [GenDustry] (gendustry-1.6.4.135a-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	GraviSuite{2.0.68u} [Graviation Suite] (GraviSuite-1.7.10-2.0.68u.jar) 
+	UCHIJAAAAAAAAA	ToxicEverglades{0.1} [GT++ Toxic Everglades] (GT-PlusPlus-1.7.05.68.jar) 
+	UCHIJAAAAAAAAA	Australia{0.1} [GT++ Australia] (GT-PlusPlus-1.7.05.68.jar) 
+	UCHIJAAAAAAAAA	detravscannermod{1.5.7} [GT Scanner Mod] (GT-Scanner Mod-1.5.7.jar) 
+	UCHIJAAAAAAAAA	gtneioreplugin{1.7.10-1.0.7} [GT NEI Ore Plugin GT:NH Mod] (gtneioreplugin-1.7.10-1.0.7.jar) 
+	UCHIJAAAAAAAAA	TaintedMagic{r7.6} [Tainted Magic] (Tainted-Magic-r7.6.jar) 
+	UCHIJAAAAAAAAA	ThaumicExploration{1.1.74} [Thaumic Exploration] (Thaumic-Exploration-[1.7.10]-1.1.74-0.jar) 
+	UCHIJAAAAAAAAA	gtnhtcwands{1.2.1} [GTNH-TC-Wands] (GTNH-TC-Wands-1.2.1.jar) 
+	UCHIJAAAAAAAAA	GTTweaker{1.0} [GTTweaker] (GTTweaker-1.7.10-1.7.5.jar) 
+	UCHIJAAAAAAAAA	HardcoreDarkness{1.7} [Hardcore Darkness] (HardcoreDarkness-MC1.7.10-1.7.jar) 
+	UCHIJAAAAAAAAA	HelpFixer{1.0.7} [HelpFixer] (HelpFixer-1.0.7.jar) 
+	UCHIJAAAAAAAAA	hodgepodge{1.4.0} [Hodgepodge] (hodgepodge-1.7.10-1.4.2.jar) 
+	UCHIJAAAAAAAAA	holoinventory{2.1.4-beta-GTNH.4} [Holo Inventory] (holoinventory-1.7.10-2.1.4-beta-GTNH.4.jar) 
+	UCHIJAAAAAAAAA	Ic2Nei{1.2.1} [IC2 Crop Plugin] (IC2+Crop+Plugin+Version+1.7.10-1.3.1.jar) 
+	UCHIJAAAAAAAAA	ifu{1.5} [I Will Find You] (IFU-1.7.jar) 
+	UCHIJAAAAAAAAA	InfernalMobs{1.7.1-GTNH} [Infernal Mobs] (InfernalMobs-1.7.1-GTNH.jar) 
+	UCHIJAAAAAAAAA	LunatriusCore{1.1.2.21} [LunatriusCore] (LunatriusCore-1.7.10-1.1.2.21-universal.jar) 
+	UCHIJAAAAAAAAA	InGameInfoXML{2.8.2.3} [InGame Info XML] (InGameInfoXML-1.7.10-2.8.2.3-universal.jar) 
+	UCHIJAAAAAAAAA	inpure|core{1.7.10R1.0.0B9} [INpureCore] (INpureCore-[1.7.10]1.0.0B9-62.jar) 
+	UCHIJAAAAAAAAA	inventorytweaks{1.59-dev-156-af3bc68} [Inventory Tweaks] (InventoryTweaks-1.59-dev-156.jar) 
+	UCHIJAAAAAAAAA	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) 
+	UCHIJAAAAAAAAA	ironchestminecarts{1.0.4} [Iron Chest Minecarts] (IronChestMinecarts-1.0.4.jar) 
+	UCHIJAAAAAAAAA	irontank{1.7.10-1.1.19} [Iron Tanks] (irontanks-1.7.10-1.1.19.jar) 
+	UCHIJAAAAAAAAA	itlt{0.0.8} [It's the little things] (itlt-1.7.10-1.0.2.jar) 
+	UCHIJAAAAAAAAA	JABBA{1.2.2} [JABBA] (Jabba-1.2.6_1.7.10.jar) 
+	UCHIJAAAAAAAAA	journeymap{5.1.4p2} [JourneyMap] (journeymap-1.7.10-5.1.4p2-fairplay.jar) 
+	UCHIJAAAAAAAAA	JourneyMapServer{1.0.5_MC1.7.10} [JourneyMapServer] (JourneyMapServer1.0.5_MC1.7.10.jar) 
+	UCHIJAAAAAAAAA	kekztech{0.4.6} [KekzTech] (kekztech-0.4.6.jar) 
+	UCHIJAAAAAAAAA	lootgames{1.0.18} [LootGames] (LootGames-1.7.10-1.0.18.jar) 
+	UCHIJAAAAAAAAA	malisiscore{1.7.10-0.14.3} [MalisisCore] (malisiscore-1.7.10-0.14.3.jar) 
+	UCHIJAAAAAAAAA	malisisdoors{1.7.10-1.13.2} [Malisis' Doors] (malisisdoors-1.7.10-1.13.2.jar) 
+	UCHIJAAAAAAAAA	modtweaker2{0.9.6} [Mod Tweaker 2] (ModTweaker2-0.9.6.jar) 
+	UCHIJAAAAAAAAA	Morpheus{1.7.10-1.6.21} [Morpheus] (Morpheus-1.7.10-1.6.21.jar) 
+	UCHIJAAAAAAAAA	MouseTweaks{2.4.4} [Mouse Tweaks] (MouseTweaks-2.4.4-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	naturescompass{1.3.1} [Nature's Compass] (NaturesCompass-1.7.10-1.3.1.jar) 
+	UCHIJAAAAAAAAA	NEIAddons{1.12.15.41} [NEI Addons] (neiaddons-1.12.15.41-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	NEIAddons|Developer{1.12.15.41} [NEI Addons: Developer Tools] (neiaddons-1.12.15.41-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	NEIAddons|AppEng{1.12.15.41} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.15.41-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	NEIAddons|Botany{1.12.15.41} [NEI Addons: Botany] (neiaddons-1.12.15.41-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	NEIAddons|Forestry{1.12.15.41} [NEI Addons: Forestry] (neiaddons-1.12.15.41-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	NEIAddons|CraftingTables{1.12.15.41} [NEI Addons: Crafting Tables] (neiaddons-1.12.15.41-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	NEIAddons|ExNihilo{1.12.15.41} [NEI Addons: Ex Nihilo] (neiaddons-1.12.15.41-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	neiintegration{1.1.2} [NEI Integration] (NEIIntegration-MC1.7.10-1.1.2.jar) 
+	UCHIJAAAAAAAAA	netherportalfix{1.0} [Nether Portal Fix] (netherportalfix-mc1.7.10-1.1.0.jar) 
+	UCHIJAAAAAAAAA	NodalMechanics{1.7.10R1.0} [NodalMechanics] (NodalMechanics-1.1-2-GTNH.jar) 
+	UCHIJAAAAAAAAA	bt{1.0.2} [NotEnoughThaumcraftTabs] (NotEnoughThaumcraftTabs-1.0.2.jar) 
+	UCHIJAAAAAAAAA	openglasses{1.0.46} [OC Glasses] (OpenGlasses-1.0.46.jar) 
+	UCHIJAAAAAAAAA	openmodularturrets{2.2.11-238} [Open Modular Turrets] (OpenModularTurrets-1.7.10-2.2.11-238.jar) 
+	UCHIJAAAAAAAAA	openprinter{0.1.0.132} [OpenPrinter] (OpenPrinter-MC1.7.10-0.1.0.132.jar) 
+	UCHIJAAAAAAAAA	opensecurity{1.0.117} [OpenSecurity] (OpenSecurity-1.7.10-1.0-117.jar) 
+	UCHIJAAAAAAAAA	overloadedarmorbar{1.7.10-1.0.0} [Overloaded Armor Bar] (overloadedarmorbar-1.7.10-1.0.0.jar) 
+	UCHIJAAAAAAAAA	p455w0rdslib{1.0.4} [p455w0rd's Library] (p455w0rdslib-1.7.10-1.0.4.jar) 
+	UCHIJAAAAAAAAA	harvestthenether{1.7.10} [Pam's Harvest the Nether] (Pam's Harvest the Nether 1.7.10a.jar) 
+	UCHIJAAAAAAAAA	ProjectBlue{1.1.6} [Project Blue] (ProjectBlue-1.1.6-mc1.7.10.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Transportation{4.7.0pre11.52} [ProjectRed Transportation] (ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Exploration{4.7.0pre11.52} [ProjectRed Exploration] (ProjectRed-1.7.10-4.7.0pre12.95-World.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Compatibility{4.7.0pre11.52} [ProjectRed Compatibility] (ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Integration{4.7.0pre11.52} [ProjectRed Integration] (ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Fabrication{4.7.0pre11.52} [ProjectRed Fabrication] (ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Illumination{4.7.0pre11.52} [ProjectRed Illumination] (ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar) 
+	UCHIJAAAAAAAAA	ProjRed|Expansion{4.7.0pre11.52} [ProjectRed Expansion] (ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar) 
+	UCHIJAAAAAAAAA	questbook{2.1.1-1.7.10} [Better Questing Quest Book] (questbook-2.1.1-1.7.10.jar) 
+	UCHIJAAAAAAAAA	RandomThings{2.2.4} [Random Things] (RandomThings-2.2.4.jar) 
+	UCHIJAAAAAAAAA	reauth{3.5.0} [ReAuth] (ReAuth-3.5.0.jar) 
+	UCHIJAAAAAAAAA	RIO{2.4.2} [Remote IO] (RemoteIO-1.7.10-2.4.2-universal.jar) 
+	UCHIJAAAAAAAAA	ResourceLoader{1.3} [Resource Loader] (ResourceLoader-MC1.7.10-1.3.jar) 
+	UCHIJAAAAAAAAA	Roguelike{1.5.0} [Roguelike Dungeons] (roguelike-1.7.10-1.5.1.jar) 
+	UCHIJAAAAAAAAA	RWG{Alpha 1.3.2} [Realistic World Gen Alpha] (RWG-alpha-1.3.2.jar) 
+	UCHIJAAAAAAAAA	SGCraft{1.13.3} [Greg's SG Craft] (SGCraft-1.13.7-GTNH.jar) 
+	UCHIJAAAAAAAAA	sleepingbag{0.1.1} [Sleeping Bag] (SleepingBag-1.7.10-0.1.1.jar) 
+	UCHIJAAAAAAAAA	SpecialMobs{GRADLETOKEN_VERSION} [Special Mobs] (SpecialMobs-1.7.10-3.3.6.jar) 
+	UCHIJAAAAAAAAA	SpiceOfLife{2.0.0-carrot-beta-5} [The Spice of Life - Carrot Edition] (SpiceOfLife-mc1.7.10-2.0.0-carrot-beta-5.jar) 
+	UCHIJAAAAAAAAA	bq_standard{3.0.182-GTNH} [Standard Expansion] (StandardExpansion-3.0.182-GTNH.jar) 
+	UCHIJAAAAAAAAA	StevesFactoryManager{A92} [Steve's Factory Manager] (StevesFactoryManager-A96-GTNH.jar) 
+	UCHIJAAAAAAAAA	StevesAddons{0.10.17} [Steve's Addons] (StevesAddons-1.7.10-0.10.17.jar) 
+	UCHIJAAAAAAAAA	StorageDrawers{1.7.10-1.11.5-gtnh} [Storage Drawers] (StorageDrawers-1.7.10-1.11.5-gtnh.jar) 
+	UCHIJAAAAAAAAA	StorageDrawersBop{1.7.10-1.1.1b} [Storage Drawers: Biomes O' Plenty Pack] (StorageDrawers-BiomesOPlenty-1.7.10-1.1.1c.jar) 
+	UCHIJAAAAAAAAA	StorageDrawersForestry{1.7.10-1.1.2b} [Storage Drawers: Forestry Pack] (StorageDrawers-Forestry-1.7.10-1.1.2c.jar) 
+	UCHIJAAAAAAAAA	StorageDrawersMisc{1.7.10-1.1.2b} [Storage Drawers: Misc Pack] (StorageDrawers-Misc-1.7.10-1.1.2c.jar) 
+	UCHIJAAAAAAAAA	StorageDrawersNatura{1.7.10-1.1.1b} [Storage Drawers: Natura Pack] (StorageDrawers-Natura-1.7.10-1.1.1c.jar) 
+	UCHIJAAAAAAAAA	SuperTic{1.2.1} [SuperTic] (SuperTiC-1.2.1.jar) 
+	UCHIJAAAAAAAAA	tcinventoryscan{1.0.11} [TC Inventory Scanning] (tcinventoryscan-mc1.7.10-1.0.11.jar) 
+	UCHIJAAAAAAAAA	tcnodetracker{1.1.2} [TC Node Tracker] (tcnodetracker-1.7.10-1.1.2.jar) 
+	UCHIJAAAAAAAAA	thaumcraftneiplugin{@VERSION@} [Thaumcraft NEI Plugin] (thaumcraftneiplugin-1.7.10-1.7a.jar) 
+	UCHIJAAAAAAAAA	tcneiadditions{1.1.0.1} [Thaumcraft NEI Additions] (Thaumcraft-NEI-Additions-1.7.10-1.1.0.1.jar) 
+	UCHIJAAAAAAAAA	ThaumcraftMobAspects{1.7.x-2B} [Thaumcraft Mob Aspects] (ThaumcraftMobAspects-1.7.x-2B-snapshot-17.jar) 
+	UCHIJAAAAAAAAA	ThaumicMachina{0.2.1} [Thaumic Machina] (Thaumic-Machina-1.7.10-0.2.1.jar) 
+	UCHIJAAAAAAAAA	thaumicenergistics{1.1.3.1} [Thaumic Energistics] (thaumicenergistics-1.1.3.2.jar) 
+	UCHIJAAAAAAAAA	ThaumicHorizons{1.1.9.17} [Thaumic Horizons] (ThaumicHorizons-1.7.10-1.1.9.17.jar) 
+	UCHIJAAAAAAAAA	TiCTooltips{1.2.5} [TiC Tooltips] (TiCTooltips-mc1.7.10-1.2.5.jar) 
+	UCHIJAAAAAAAAA	tinkersdefense{1.2} [Tinkers' Defense] (Tinkers-Defense-1.2.1d.jar) 
+	UCHIJAAAAAAAAA	TMechworks{0.2.16.1} [Tinkers' Mechworks] (TMechworks-1.7.10-0.2.16.1.jar) 
+	UCHIJAAAAAAAAA	TML{4.0.3} [TooMuchLoot] (TooMuchLoot-1.7.10-4.0.3.B2.jar) 
+	UCHIJAAAAAAAAA	torohealthmod{1.7.10-1.0.0} [ToroHealth Damage Indicators] (torohealth-1.7.10-1.0.0.jar) 
+	UCHIJAAAAAAAAA	TravellersGear{1.16.6} [Traveller's Gear] (TravellersGear-1.7.10-1.16.6a.jar) 
+	UCHIJAAAAAAAAA	utilityworlds{1.0.9d} [Utility Worlds] (utilityworlds-1.0.9e.jar) 
+	UCHIJAAAAAAAAA	WailaHarvestability{1.1.7-GTNH} [Waila Harvestability] (WailaHarvestability-mc1.7.10-1.1.7-GTNH.jar) 
+	UCHIJAAAAAAAAA	wailaplugins{MC1.7.10-0.2.3.1-7} [WAILA Plugins] (WAILAPlugins-MC1.7.10-0.2.3.1-7.jar) 
+	UCHIJAAAAAAAAA	WarpTheory{1.7.10R1.0g.Custom} [WarpTheory] (WarpTheory-1.7.10-1.0.3-GTNH.jar) 
+	UCHIJAAAAAAAAA	wawla{1.3.1} [What Are We Looking At] (Wawla-1.0.5.120.jar) 
+	UCHIJAAAAAAAAA	ae2wct{1.7.10-rv3-1.8.7.4-bigbass-1} [AE2 Wireless Crafting Terminal] (WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4-bigbass-1.jar) 
+	UCHIJAAAAAAAAA	WitchingGadgets{1.2.12-GTNH} [Witching Gadgets] (WitchingGadgets-1.7.10-1.2.12-GTNH.jar) 
+	UCHIJAAAAAAAAA	WR-CBE|Core{1.4.2-GTNH} [WR-CBE Core] (WR-CBE-1.7.10-1.4.2-GTNH-universal.jar) 
+	UCHIJAAAAAAAAA	WR-CBE|Addons{1.4.2-GTNH} [WR-CBE Addons] (WR-CBE-1.7.10-1.4.2-GTNH-universal.jar) 
+	UCHIJAAAAAAAAA	WR-CBE|Logic{1.4.2-GTNH} [WR-CBE Logic] (WR-CBE-1.7.10-1.4.2-GTNH-universal.jar) 
+	UCHIJAAAAAAAAA	ForgeMicroblock{1.2.0.347} [Forge Microblocks] (ForgeMultipart-1.7.10-1.2.0.347-universal.jar) 
+	UCHIJAAAAAAAAA	McMultipart{1.2.0.347} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.2.0.347-universal.jar) 
+	UCHIJAAAAAAAAA	ForgeRelocation{0.0.1.4} [ForgeRelocation] (ForgeRelocation-0.0.1.4-universal.jar) 
+	UCHIJAAAAAAAAA	MCFrames{1.0} [MCFrames] (ForgeRelocation-0.0.1.4-universal.jar) 
+	UCHIJAAAAAAAAA	RelocationFMP{0.0.1.2} [RelocationFMP] (ForgeRelocationFMP-0.0.1.2-universal.jar) 
+	UCHIJAAAAAAAAA	HungerOverhaul{1.7.10-1.0.2.DEV.80bb6db} [Hunger Overhaul] (HungerOverhaul-1.7.10-1.0.2.jar) 
+	UCHIJAAAAAAAAA	IguanaTweaksTConstruct{1.7.10-2.1.7.4} [Iguana Tinker Tweaks] (IguanaTinkerTweaks-1.7.10-2.1.7.4.jar) 
+	OpenModsLib class transformers: [stencil_patches:FINISHED],[movement_callback:ACTIVATED],[player_damage_hook:FINISHED],[map_gen_fix:FINISHED],[gl_capabilities_hook:FINISHED],[player_render_hook:FINISHED]
+	Class transformer null safety: all safe
+	AE2 Version: beta rv3-beta-31 for Forge 10.13.4.1614
+	CoFHCore: -[1.7.10]3.1.4-329
+	Mantle Environment: DO NOT REPORT THIS CRASH! Unsupported mods in environment: optifine
+	TConstruct Environment: Environment healthy.
+	List of loaded APIs: 
+		* ae2wct|API (1.7.10-rv3-1.8.6b) from WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4-bigbass-1.jar
+		* AppleCoreAPI (1.2.0) from AppleCore-mc1.7.10-1.3.9.jar
+		* appliedenergistics2|API (rv3) from appliedenergistics2-rv3-beta-31.jar
+		* asielibAPI (1.1) from AsieLib-1.7.10-0.4.9.jar
+		* asielibAPI|chat (1.0) from AsieLib-1.7.10-0.4.9.jar
+		* asielibAPI|tile (1.0) from AsieLib-1.7.10-0.4.9.jar
+		* asielibAPI|tool (1.1) from AsieLib-1.7.10-0.4.9.jar
+		* bartworks API (11) from bartworks[1.7.10]-0.5.13.1.jar
+		* bartworks util (11) from bartworks[1.7.10]-0.5.13.1.jar
+		* BattlePlayer (0.1) from MB_Battlegear_2-1.7.10-1.1.1.4-GTNH.jar
+		* Baubles|API (1.0.1.10) from Baubles-1.7.10-1.0.1.12.jar
+		* BetterAchievements|API (0.1.0) from BetterAchievements-1.7.10-0.1.0.jar
+		* BetterQuesting|API (3.2) from BetterQuesting-3.0.334-GTNH.jar
+		* BetterQuesting|API2 (3.1) from BetterQuesting-3.0.334-GTNH.jar
+		* BiomesOPlentyAPI (1.0.0) from BiomesOPlenty-1.7.10-2.1.1-GTNH.2-universal.jar
+		* BloodMagicAPI (1.3.3-13) from BloodMagic-1.7.10-1.3.3-30.jar
+		* BotaniaAPI (61) from Avaritia-1.18.jar
+		* BuildCraftAPI|blocks (1.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|blueprints (1.5) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|boards (2.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|core (2.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|crops (1.1) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|events (2.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|facades (1.1) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|filler (4.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|fuels (2.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|gates (4.1) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|items (1.1) from Railcraft_1.7.10-9.12.2.1.jar
+		* BuildCraftAPI|library (2.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* BuildCraftAPI|lists (1.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* BuildCraftAPI|power (1.3) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|recipes (3.1) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|robotics (3.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|statements (1.1) from Railcraft_1.7.10-9.12.2.1.jar
+		* BuildCraftAPI|tablet (1.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* BuildCraftAPI|tiles (1.2) from Railcraft_1.7.10-9.12.2.1.jar
+		* BuildCraftAPI|tools (1.0) from buildcraft-7.1.23.jar
+		* BuildCraftAPI|transport (4.1) from Railcraft_1.7.10-9.12.2.1.jar
+		* CarpentersBlocks|API (3.3.7) from Carpenter's Blocks v3.3.8.1 - MC 1.7.10.jar
+		* ChiselAPI (0.1.1) from Chisel-1.7.10-2.9.8-GTNH.8.jar
+		* ChiselAPI|Carving (0.1.1) from Chisel-1.7.10-2.9.8-GTNH.8.jar
+		* ChiselAPI|Rendering (0.1.1) from Chisel-1.7.10-2.9.8-GTNH.8.jar
+		* CoFHAPI (1.7.10R1.0.13) from RemoteIO-1.7.10-2.4.2-universal.jar
+		* CoFHAPI|block (1.7.10R1.0.13) from EnderIO-1.7.10-2.3.1.13_beta.18.jar
+		* CoFHAPI|core (1.7.10R1.0.13B2) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHAPI|energy (1.7.10R1.0.2) from EnhancedPortals_1.7.10-universal-3.0.12.jar
+		* CoFHAPI|fluid (1.7.10R1.3.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHAPI|inventory (1.7.10R1.0.13) from EnderIO-1.7.10-2.3.1.13_beta.18.jar
+		* CoFHAPI|item (1.7.10R1.3.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHAPI|modhelpers (1.7.10R1.3.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHAPI|tileentity (1.7.10R1.0.13) from EnderIO-1.7.10-2.3.1.13_beta.18.jar
+		* CoFHAPI|transport (1.7.10R1.0.1) from buildcraft-compat-7.1.7.jar
+		* CoFHAPI|world (1.7.10R1.3.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHLib (1.7.10R1.2.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHLib|audio (1.7.10R1.2.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHLib|gui (1.7.10R1.2.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHLib|gui|container (1.7.10R1.2.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHLib|gui|element (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|gui|element|listbox (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|gui|slot (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|inventory (1.7.10R1.2.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHLib|render (1.7.10R1.2.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHLib|render|particle (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|util (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|util|helpers (1.7.10R1.2.1) from CoFHCore-[1.7.10]3.1.4-329.jar
+		* CoFHLib|util|position (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|world (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|world|feature (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* computronicsAPI (1.3) from Computronics-1.7.10-1.6.6.jar
+		* computronicsAPI|audio (1.0) from Computronics-1.7.10-1.6.6.jar
+		* computronicsAPI|chat (1.3) from Computronics-1.7.10-1.6.6.jar
+		* computronicsAPI|multiperipheral (1.1) from Computronics-1.7.10-1.6.6.jar
+		* computronicsAPI|tape (1.0) from Computronics-1.7.10-1.6.6.jar
+		* DraconicEvolution|API (1.2) from Draconic-Evolution-1.7.10-1.0.2q.jar
+		* DualWield (0.1) from MB_Battlegear_2-1.7.10-1.1.1.4-GTNH.jar
+		* EnderIOAPI (0.0.2) from EnderIO-1.7.10-2.3.1.13_beta.18.jar
+		* EnderIOAPI|Redstone (0.0.2) from EnderIO-1.7.10-2.3.1.13_beta.18.jar
+		* EnderIOAPI|Teleport (0.0.2) from EnderIO-1.7.10-2.3.1.13_beta.18.jar
+		* EnderIOAPI|Tools (0.0.2) from EnderIO-1.7.10-2.3.1.13_beta.18.jar
+		* ForestryAPI|apiculture (4.8.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|arboriculture (4.2.1) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|circuits (3.1.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|core (5.0.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|farming (2.1.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|food (1.1.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|fuels (2.0.1) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|genetics (4.7.1) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|hives (4.1.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|lepidopterology (1.3.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|mail (3.0.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|multiblock (3.0.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|recipes (5.4.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|storage (3.0.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForestryAPI|world (2.1.0) from forestry_1.7.10-4.2.27.12.jar
+		* ForgeRelocation|API (0.0.1.4) from ForgeRelocation-0.0.1.4-universal.jar
+		* Galacticraft API (1.3) from Galacticraft-1.7-3.0.15-GTNH-full.jar
+		* gendustryAPI (2.3.0) from gendustry-1.6.4.135a-mc1.7.10.jar
+		* Heraldry (alpha) from MB_Battlegear_2-1.7.10-1.1.1.4-GTNH.jar
+		* IC2API (1.0) from industrialcraft-2-2.2.828a-experimental.jar
+		* inpure|api (1.7) from INpureCore-[1.7.10]1.0.0B9-62.jar
+		* NuclearControlAPI (v1.0.5) from IC2NuclearControl-2.4.3a.jar
+		* OilTweakAPI (1.0.0) from BuildCraftOilTweak-1.7.10-1.0.3.jar
+		* OilTweakAPI|blacklist (1.0.0) from BuildCraftOilTweak-1.7.10-1.0.3.jar
+		* OpenBlocks|API (1.1) from OpenBlocks-1.7.10-1.6.2-1.7.10-snapshot-4.jar
+		* OpenComputersAPI|Component (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Core (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Driver (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Driver|Item (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Event (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|FileSystem (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Internal (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Machine (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Manual (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Network (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* OpenComputersAPI|Prefab (6.0.0-alpha) from OpenComputers-MC1.7.10-1.7.5.5.13-universal.jar
+		* Quiver (0.2) from MB_Battlegear_2-1.7.10-1.1.1.4-GTNH.jar
+		* RailcraftAPI|bore (1.0.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|carts (1.6.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|core (1.5.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|crafting (1.0.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|electricity (2.0.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|events (1.0.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|fuel (1.0.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|helpers (1.1.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|items (1.0.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|locomotive (1.1.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|signals (2.3.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* RailcraftAPI|tracks (2.3.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* Shield (0.1) from MB_Battlegear_2-1.7.10-1.1.1.4-GTNH.jar
+		* StorageDrawersAPI (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* StorageDrawersAPI|config (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* StorageDrawersAPI|event (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* StorageDrawersAPI|inventory (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* StorageDrawersAPI|pack (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* StorageDrawersAPI|registry (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* StorageDrawersAPI|render (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* StorageDrawersAPI|storage (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* StorageDrawersAPI|storage-attribute (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.11.5-gtnh.jar
+		* Thaumcraft|API (4.2.2.0) from Railcraft_1.7.10-9.12.2.1.jar
+		* thaumicenergistics|API (1.1) from thaumicenergistics-1.1.3.2.jar
+		* TravellersGear|API (1.0) from TravellersGear-1.7.10-1.16.6a.jar
+		* WailaAPI (1.2) from Waila-1.5.10_1.7.10.jar
+		* Weapons (0.1) from MB_Battlegear_2-1.7.10-1.1.1.4-GTNH.jar
+	Chisel: Errors like "[FML]: Unable to lookup ..." are NOT the cause of this crash. You can safely ignore these errors. And update forge while you're at it.
+	EnderIO: Found the following problem(s) with your installation:
+                  * Optifine is installed. This is NOT supported.
+                  * An unknown AE2 API is installed (rv3 from appliedenergistics2-rv3-beta-31.jar).
+                    Ender IO was build against API version rv2 and may or may not work with a newer version.
+                 This may have caused the error. Try reproducing the crash WITHOUT this/these mod(s) before reporting it.
+	Stencil buffer state: Function set: GL30, pool: forge, bits: 8
+	Forestry : Warning: You have mods that change the behavior of Minecraft, ForgeModLoader, and/or Minecraft Forge to your client: 
+Optifine
+These may have caused this error, and may not be supported. Try reproducing the crash WITHOUT these mods, and report it then.
+Info: The following plugins have been disabled in the config: magicalcrops
+	AE2 Integration: IC2:ON, RotaryCraft:OFF, RC:ON, BuildCraftCore:ON, BuildCraftTransport:ON, BuildCraftBuilder:ON, RF:ON, RFItem:ON, MFR:OFF, DSU:ON, FZ:OFF, FMP:ON, RB:OFF, CLApi:OFF, Waila:ON, InvTweaks:ON, NEI:ON, CraftGuide:OFF, Mekanism:OFF, ImmibisMicroblocks:OFF, BetterStorage:OFF, OpenComputers:ON, PneumaticCraft:OFF
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 1 / 8; [EntityPlayerMP['pepeeja'/52814, l='sp', x=-252.40, y=74.63, z=173.32]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	OptiFine Version: OptiFine_1.7.10_HD_U_E7
+	Render Distance Chunks: 12
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: SEUS-Renewed-1.0.0.zip
+	OpenGlVersion: 4.6.0 NVIDIA 456.71
+	OpenGlRenderer: GeForce GTX 1080/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 24

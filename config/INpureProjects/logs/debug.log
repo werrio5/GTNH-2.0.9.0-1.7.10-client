@@ -207,16 +207,16 @@ Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: AWWayofTime:AlchemicalWizardrybloodRune_3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, AWWayofTime:AlchemicalWizardrybloodRune_3
+getRandomMaterial called. Returned: Automagy:blockNetherRuneMob
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Automagy:blockNetherRuneMob
 Loading: BuildCraft.js
 getFacadesSize called. Returned: 4453
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 148
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 3339
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
 getNumberOfTypes called. Returned: 3312
-override called. Params: appliedenergistics2, item.ItemFacade, 306
+override called. Params: appliedenergistics2, item.ItemFacade, 2158
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
