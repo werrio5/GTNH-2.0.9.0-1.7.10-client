@@ -602,20 +602,20 @@ Printing List of all registered Objects inside the OreDictionary, now with free 
  2x WengeSlab
  2x WillowPlanks
  2x WillowSlab
- 1x [Ljava.lang.Object;@136459a6
- 1x [Ljava.lang.Object;@1f090cc8
- 1x [Ljava.lang.Object;@29083f8a
- 1x [Ljava.lang.Object;@356650cd
- 1x [Ljava.lang.Object;@3ae2c476
- 1x [Ljava.lang.Object;@4a9b30c8
- 1x [Ljava.lang.Object;@5c47f35f
- 1x [Ljava.lang.Object;@5d6de022
- 1x [Ljava.lang.Object;@617cf963
- 1x [Ljava.lang.Object;@66bbcdb9
- 1x [Ljava.lang.Object;@66de8b5f
- 1x [Ljava.lang.Object;@6b8617a
- 1x [Ljava.lang.Object;@6ea49ba3
- 1x [Ljava.lang.Object;@6faab52a
+ 1x [Ljava.lang.Object;@2a08d247
+ 1x [Ljava.lang.Object;@396fa25d
+ 1x [Ljava.lang.Object;@3bb8244d
+ 1x [Ljava.lang.Object;@4703d006
+ 1x [Ljava.lang.Object;@544e618a
+ 1x [Ljava.lang.Object;@5f6f4f01
+ 1x [Ljava.lang.Object;@600f7643
+ 1x [Ljava.lang.Object;@63467000
+ 1x [Ljava.lang.Object;@68a026b8
+ 1x [Ljava.lang.Object;@69ad6562
+ 1x [Ljava.lang.Object;@705d1aa8
+ 1x [Ljava.lang.Object;@7c711030
+ 1x [Ljava.lang.Object;@7ded87b6
+ 1x [Ljava.lang.Object;@7fe4e154
  1x alumiteRod
  1x antiBlock
  1x arditeRod
@@ -10793,7 +10793,7 @@ Printing List of all registered Objects inside the OreDictionary, now with free 
  1x grainBait
  1x grass
  1x gravel
- 1x gregtech.api.util.GT_FoodStat@7eff3434
+ 1x gregtech.api.util.GT_FoodStat@26dca8e7
  1x grubBee
  1x gunpowder
  1x hambone
