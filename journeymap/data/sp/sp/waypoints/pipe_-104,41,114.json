@@ -1,0 +1,17 @@
+{
+  "id": "pipe_-104,41,114",
+  "name": "pipe",
+  "icon": "waypoint-normal.png",
+  "x": -104,
+  "y": 41,
+  "z": 114,
+  "r": 194,
+  "g": 232,
+  "b": 215,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
