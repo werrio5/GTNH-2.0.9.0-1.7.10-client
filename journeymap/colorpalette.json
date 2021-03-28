@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Sun Mar 28 17:10:02 MSK 2021",
+  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Sun Mar 28 19:55:07 MSK 2021",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -25796,6 +25796,13 @@ var colorpalette={
     {
       "name": "Broken Dungeon Light",
       "uid": "lootgames:LootGamesDungeonLight",
+      "meta": 0,
+      "color": "#70784e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Broken Dungeon Light",
+      "uid": "lootgames:LootGamesDungeonLight",
       "meta": 1,
       "color": "#404b41",
       "alpha": 0.4
@@ -34933,13 +34940,6 @@ var colorpalette={
       "uid": "lootgames:LootGamesDungeonWall",
       "meta": 1,
       "color": "#405040"
-    },
-    {
-      "name": "Dungeon Light",
-      "uid": "lootgames:LootGamesDungeonLight",
-      "meta": 0,
-      "color": "#70784e",
-      "alpha": 0.4
     },
     {
       "name": "Dungeon Puzzle (Triggerable - Unlit)",
@@ -60722,7 +60722,7 @@ var colorpalette={
       "color": "#6d6d6d"
     },
     {
-      "name": "QED (Quod Erat Demonstrandum)",
+      "name": "QED (Quantum Entanglement Doohicky)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
