@@ -1,0 +1,17 @@
+{
+  "id": "mica_-246,29,160",
+  "name": "mica",
+  "icon": "waypoint-normal.png",
+  "x": -246,
+  "y": 29,
+  "z": 160,
+  "r": 33,
+  "g": 120,
+  "b": 174,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

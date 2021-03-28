@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Sat Mar 27 15:45:37 MSK 2021",
+  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Sun Mar 28 17:10:02 MSK 2021",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -31956,26 +31956,20 @@ var colorpalette={
     {
       "name": "Cracked Dungeon Ceiling",
       "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 1,
-      "color": "#405040"
-    },
-    {
-      "name": "Cracked Dungeon Ceiling",
-      "uid": "lootgames:LootGamesDungeonWall",
       "meta": 4,
       "color": "#263226"
     },
     {
       "name": "Cracked Dungeon Floor",
       "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 5,
-      "color": "#465446"
+      "meta": 2,
+      "color": "#536253"
     },
     {
-      "name": "Cracked Dungeon Wall",
+      "name": "Cracked Dungeon Floor",
       "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 0,
-      "color": "#4d5b4d"
+      "meta": 5,
+      "color": "#465446"
     },
     {
       "name": "Cracked Dungeon Wall",
@@ -34935,10 +34929,10 @@ var colorpalette={
       "color": "#91a36f"
     },
     {
-      "name": "Dungeon Floor",
+      "name": "Dungeon Ceiling",
       "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 2,
-      "color": "#536253"
+      "meta": 1,
+      "color": "#405040"
     },
     {
       "name": "Dungeon Light",
@@ -35018,6 +35012,12 @@ var colorpalette={
       "uid": "HardcoreEnderExpansion:dungeon_puzzle",
       "meta": 15,
       "color": "#c07429"
+    },
+    {
+      "name": "Dungeon Wall",
+      "uid": "lootgames:LootGamesDungeonWall",
+      "meta": 0,
+      "color": "#4d5b4d"
     },
     {
       "name": "Durian",
@@ -60722,7 +60722,7 @@ var colorpalette={
       "color": "#6d6d6d"
     },
     {
-      "name": "QED (Quantum Enrichment Device)",
+      "name": "QED (Quod Erat Demonstrandum)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
