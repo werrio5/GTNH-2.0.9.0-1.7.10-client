@@ -1,4 +1,4 @@
-#Mon Mar 22 16:37:06 MSK 2021
+#Sat Jun 26 09:47:20 MSK 2021
 shaderPack=SEUS-Renewed-1.0.0.zip
 TexMinFilB=0
 handDepthMul=0.125
