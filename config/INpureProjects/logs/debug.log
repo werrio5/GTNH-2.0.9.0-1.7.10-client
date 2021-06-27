@@ -201,22 +201,22 @@ Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: AWWayofTime:efficiencyRune
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, AWWayofTime:efficiencyRune
+getRandomMaterial called. Returned: AWWayofTime:runeOfSelfSacrifice
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, AWWayofTime:runeOfSelfSacrifice
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: AWWayofTime:AlchemicalWizardrybloodRune_5
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, AWWayofTime:AlchemicalWizardrybloodRune_5
+getRandomMaterial called. Returned: Automagy:blockNetherRune
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Automagy:blockNetherRune
 Loading: BuildCraft.js
 getFacadesSize called. Returned: 4453
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2922
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1960
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
 getNumberOfTypes called. Returned: 3312
-override called. Params: appliedenergistics2, item.ItemFacade, 1726
+override called. Params: appliedenergistics2, item.ItemFacade, 2081
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
