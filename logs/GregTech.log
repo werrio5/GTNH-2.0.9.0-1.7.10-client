@@ -603,18 +603,18 @@ Printing List of all registered Objects inside the OreDictionary, now with free 
  2x WillowPlanks
  2x WillowSlab
  1x [Ljava.lang.Object;@2437f0d6
+ 1x [Ljava.lang.Object;@28ac6bdf
+ 1x [Ljava.lang.Object;@28ebb0a0
  1x [Ljava.lang.Object;@2a91c9a4
  1x [Ljava.lang.Object;@321806f6
+ 1x [Ljava.lang.Object;@3387b6d6
  1x [Ljava.lang.Object;@4dc8f73
- 1x [Ljava.lang.Object;@50b82fe
  1x [Ljava.lang.Object;@66180b45
  1x [Ljava.lang.Object;@69cb7647
- 1x [Ljava.lang.Object;@6c09e55a
  1x [Ljava.lang.Object;@78ec9dfe
- 1x [Ljava.lang.Object;@9730433
+ 1x [Ljava.lang.Object;@bdcd1af
  1x [Ljava.lang.Object;@e715b85
  1x [Ljava.lang.Object;@f30014b
- 1x [Ljava.lang.Object;@f9f9398
  1x [Ljava.lang.Object;@fe30bd7
  1x alumiteRod
  1x antiBlock
@@ -10793,7 +10793,7 @@ Printing List of all registered Objects inside the OreDictionary, now with free 
  1x grainBait
  1x grass
  1x gravel
- 1x gregtech.api.util.GT_FoodStat@6d4e83d1
+ 1x gregtech.api.util.GT_FoodStat@5ee76fc0
  1x grubBee
  1x gunpowder
  1x hambone

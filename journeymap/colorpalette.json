@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Mon Jun 28 09:23:25 MSK 2021",
+  "generated": "Generated using JourneyMap 5.1.4p2 FairPlay for 1.7.10 on Mon Jun 28 18:10:26 MSK 2021",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -31956,6 +31956,12 @@ var colorpalette={
     {
       "name": "Cracked Dungeon Ceiling",
       "uid": "lootgames:LootGamesDungeonWall",
+      "meta": 1,
+      "color": "#405040"
+    },
+    {
+      "name": "Cracked Dungeon Ceiling",
+      "uid": "lootgames:LootGamesDungeonWall",
       "meta": 4,
       "color": "#263226"
     },
@@ -31970,6 +31976,12 @@ var colorpalette={
       "uid": "lootgames:LootGamesDungeonWall",
       "meta": 5,
       "color": "#465446"
+    },
+    {
+      "name": "Cracked Dungeon Wall",
+      "uid": "lootgames:LootGamesDungeonWall",
+      "meta": 0,
+      "color": "#4d5b4d"
     },
     {
       "name": "Cracked Dungeon Wall",
@@ -34929,12 +34941,6 @@ var colorpalette={
       "color": "#91a36f"
     },
     {
-      "name": "Dungeon Ceiling",
-      "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 1,
-      "color": "#405040"
-    },
-    {
       "name": "Dungeon Light",
       "uid": "lootgames:LootGamesDungeonLight",
       "meta": 0,
@@ -35012,12 +35018,6 @@ var colorpalette={
       "uid": "HardcoreEnderExpansion:dungeon_puzzle",
       "meta": 15,
       "color": "#c07429"
-    },
-    {
-      "name": "Dungeon Wall",
-      "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 0,
-      "color": "#4d5b4d"
     },
     {
       "name": "Durian",
@@ -60722,7 +60722,7 @@ var colorpalette={
       "color": "#6d6d6d"
     },
     {
-      "name": "QED (Quite Expensive Decoration)",
+      "name": "QED (Quite Elegant Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
