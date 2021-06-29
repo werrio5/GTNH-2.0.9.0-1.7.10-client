@@ -1,0 +1,17 @@
+{
+  "id": "tetrahehe_1496,105,-1984",
+  "name": "tetrahehe",
+  "icon": "waypoint-normal.png",
+  "x": 1496,
+  "y": 105,
+  "z": -1984,
+  "r": 126,
+  "g": 0,
+  "b": 8,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

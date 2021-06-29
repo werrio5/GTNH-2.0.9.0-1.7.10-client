@@ -4,8 +4,8 @@ GT_Mod: Setting Configs
 GT_Mod: Downloading Cape List.
 GT_Mod: Saving Main Config
 GT_Mod: Generating Lang-File
-GT_Mod: Removing all original Scrapbox Drops.
 GT New Horizons: Downloading Cape List.
+GT_Mod: Removing all original Scrapbox Drops.
 GT_Mod: Adding Scrap with a Weight of 200.0F to the Scrapbox Drops.
 GT_Mod: Register Ore processing.
 GT_Mod: Register OreDict Entries of Non-GT-Items.
@@ -602,19 +602,19 @@ Printing List of all registered Objects inside the OreDictionary, now with free 
  2x WengeSlab
  2x WillowPlanks
  2x WillowSlab
- 1x [Ljava.lang.Object;@1a6ead8c
  1x [Ljava.lang.Object;@2437f0d6
- 1x [Ljava.lang.Object;@280f9919
+ 1x [Ljava.lang.Object;@28ac6bdf
+ 1x [Ljava.lang.Object;@28ebb0a0
  1x [Ljava.lang.Object;@321806f6
  1x [Ljava.lang.Object;@3387b6d6
  1x [Ljava.lang.Object;@3ba3b442
- 1x [Ljava.lang.Object;@4b031f71
- 1x [Ljava.lang.Object;@52d5ed70
- 1x [Ljava.lang.Object;@661f7d75
- 1x [Ljava.lang.Object;@670c0cb7
- 1x [Ljava.lang.Object;@6761bbd
- 1x [Ljava.lang.Object;@737af5cf
- 1x [Ljava.lang.Object;@ed14f59
+ 1x [Ljava.lang.Object;@438f7c2d
+ 1x [Ljava.lang.Object;@580189ef
+ 1x [Ljava.lang.Object;@59c34b4e
+ 1x [Ljava.lang.Object;@66180b45
+ 1x [Ljava.lang.Object;@6c09e55a
+ 1x [Ljava.lang.Object;@78ec9dfe
+ 1x [Ljava.lang.Object;@9730433
  1x [Ljava.lang.Object;@f30014b
  1x alumiteRod
  1x antiBlock
@@ -10793,7 +10793,7 @@ Printing List of all registered Objects inside the OreDictionary, now with free 
  1x grainBait
  1x grass
  1x gravel
- 1x gregtech.api.util.GT_FoodStat@741b4866
+ 1x gregtech.api.util.GT_FoodStat@55cd38f9
  1x grubBee
  1x gunpowder
  1x hambone
