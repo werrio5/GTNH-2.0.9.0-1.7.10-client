@@ -1,0 +1,17 @@
+{
+  "id": "lead_-437,39,458",
+  "name": "lead",
+  "icon": "waypoint-normal.png",
+  "x": -437,
+  "y": 39,
+  "z": 458,
+  "r": 255,
+  "g": 44,
+  "b": 125,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
